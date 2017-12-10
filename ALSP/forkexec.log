@@ -1,0 +1,3 @@
+Parent[118400]: Open log file(fd = 3) 
+child[118401]: fd(3): Test fd.
+Parent[118414]: Open log file(fd = 3) 

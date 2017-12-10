@@ -1,0 +1,3543 @@
+/etc: directory
+/etc/xml: directory
+/etc/xml/xml-core.xml.old: regular
+/etc/xml/xml-core.xml: regular
+/etc/xml/catalog.old: regular
+/etc/xml/catalog: regular
+/etc/console-setup: directory
+/etc/console-setup/vtrgb: regular
+/etc/console-setup/compose.ISO-8859-13.inc: regular
+/etc/console-setup/compose.ISO-8859-5.inc: regular
+/etc/console-setup/compose.ISO-8859-1.inc: regular
+/etc/console-setup/compose.CP1255.inc: regular
+/etc/console-setup/compose.ARMSCII-8.inc: regular
+/etc/console-setup/compose.ISO-8859-16.inc: regular
+/etc/console-setup/remap.inc: regular
+/etc/console-setup/compose.IBM1133.inc: regular
+/etc/console-setup/Lat15-Fixed16.psf.gz: regular
+/etc/console-setup/compose.ISO-8859-4.inc: regular
+/etc/console-setup/compose.KOI8-U.inc: regular
+/etc/console-setup/compose.GEORGIAN-ACADEMY.inc: regular
+/etc/console-setup/compose.KOI8-R.inc: regular
+/etc/console-setup/cached.kmap.gz: regular
+/etc/console-setup/compose.ISO-8859-6.inc: regular
+/etc/console-setup/compose.CP1251.inc: regular
+/etc/console-setup/compose.ISO-8859-2.inc: regular
+/etc/console-setup/compose.ISIRI-3342.inc: regular
+/etc/console-setup/compose.ISO-8859-10.inc: regular
+/etc/console-setup/compose.ISO-8859-8.inc: regular
+/etc/console-setup/ISO-8859-15.acm: regular
+/etc/console-setup/compose.ISO-8859-7.inc: regular
+/etc/console-setup/vtrgb.vga: regular
+/etc/console-setup/compose.ISO-8859-14.inc: regular
+/etc/console-setup/compose.GEORGIAN-PS.inc: regular
+/etc/console-setup/compose.VISCII.inc: regular
+/etc/console-setup/compose.CP1256.inc: regular
+/etc/console-setup/compose.TIS-620.inc: regular
+/etc/console-setup/compose.ISO-8859-15.inc: regular
+/etc/console-setup/compose.ISO-8859-3.inc: regular
+/etc/console-setup/compose.ISO-8859-9.inc: regular
+/etc/console-setup/compose.ISO-8859-11.inc: regular
+/etc/logrotate.d: directory
+/etc/logrotate.d/apt: regular
+/etc/logrotate.d/ufw: regular
+/etc/logrotate.d/rsyslog: regular
+/etc/logrotate.d/speech-dispatcher: regular
+/etc/logrotate.d/unattended-upgrades: regular
+/etc/logrotate.d/apport: regular
+/etc/logrotate.d/ppp: regular
+/etc/logrotate.d/cups-daemon: regular
+/etc/logrotate.d/proftpd-basic: regular
+/etc/logrotate.d/dpkg: regular
+/etc/logrotate.d/upstart: regular
+/etc/machine-id: regular
+/etc/thermald: directory
+/etc/thermald/thermal-conf.xml: regular
+/etc/thermald/thermal-cpu-cdev-order.xml: regular
+/etc/firefox: directory
+/etc/firefox/pref: directory
+/etc/firefox/pref/apturl.js: regular
+/etc/firefox/syspref.js: regular
+/etc/protocols: regular
+/etc/ImageMagick-6: directory
+/etc/ImageMagick-6/policy.xml: regular
+/etc/ImageMagick-6/quantization-table.xml: regular
+/etc/ImageMagick-6/type-ghostscript.xml: regular
+/etc/ImageMagick-6/mime.xml: regular
+/etc/ImageMagick-6/log.xml: regular
+/etc/ImageMagick-6/delegates.xml: regular
+/etc/ImageMagick-6/thresholds.xml: regular
+/etc/ImageMagick-6/magic.xml: regular
+/etc/ImageMagick-6/coder.xml: regular
+/etc/ImageMagick-6/colors.xml: regular
+/etc/ImageMagick-6/type-dejavu.xml: regular
+/etc/ImageMagick-6/type.xml: regular
+/etc/ImageMagick-6/type-windows.xml: regular
+/etc/update-manager: directory
+/etc/update-manager/meta-release: regular
+/etc/update-manager/release-upgrades.d: directory
+/etc/update-manager/release-upgrades: regular
+/etc/brltty.conf: regular
+/etc/rpc: regular
+/etc/subgid: regular
+/etc/dhcp: directory
+/etc/dhcp/dhclient.conf: regular
+/etc/dhcp/dhclient-exit-hooks.d: directory
+/etc/dhcp/dhclient-exit-hooks.d/rfc3442-classless-routes: regular
+/etc/dhcp/dhclient-exit-hooks.d/ntpdate: regular
+/etc/dhcp/dhclient-exit-hooks.d/zzz_avahi-autoipd: regular
+/etc/dhcp/dhclient-exit-hooks.d/debug: regular
+/etc/dhcp/dhclient-enter-hooks.d: directory
+/etc/dhcp/dhclient-enter-hooks.d/avahi-autoipd: regular
+/etc/dhcp/dhclient-enter-hooks.d/resolvconf: regular
+/etc/dhcp/dhclient-enter-hooks.d/debug: regular
+/etc/dhcp/dhclient-enter-hooks.d/samba: regular
+/etc/ghostscript: directory
+/etc/ghostscript/cidfmap.d: directory
+/etc/ghostscript/cidfmap.d/90gs-cjk-resource-japan1.conf: regular
+/etc/ghostscript/cidfmap.d/90gs-cjk-resource-gb1.conf: regular
+/etc/ghostscript/cidfmap.d/90gs-cjk-resource-japan2.conf: regular
+/etc/ghostscript/cidfmap.d/90gs-cjk-resource-korea1.conf: regular
+/etc/ghostscript/cidfmap.d/90gs-cjk-resource-cns1.conf: regular
+/etc/ghostscript/fontmap.d: directory
+/etc/ghostscript/fontmap.d/10gsfonts.conf: regular
+/etc/acpi: directory
+/etc/acpi/undock.sh: regular
+/etc/acpi/powerbtn.sh: regular
+/etc/acpi/asus-wireless.sh: regular
+/etc/acpi/events: directory
+/etc/acpi/events/asus-wireless-on: regular
+/etc/acpi/events/lenovo-undock: regular
+/etc/acpi/events/thinkpad-cmos: regular
+/etc/acpi/events/tosh-wireless: regular
+/etc/acpi/events/powerbtn: regular
+/etc/acpi/events/ibm-wireless: regular
+/etc/acpi/events/asus-keyboard-backlight-up: regular
+/etc/acpi/events/asus-wireless-off: regular
+/etc/acpi/events/asus-keyboard-backlight-down: regular
+/etc/acpi/ibm-wireless.sh: regular
+/etc/acpi/asus-keyboard-backlight.sh: regular
+/etc/acpi/tosh-wireless.sh: regular
+/etc/manpath.config: regular
+/etc/upstart-xsessions: regular
+/etc/emacs24: directory
+/etc/emacs24/site-start.d: directory
+/etc/emacs24/site-start.d/00debian-vars.elc: regular
+/etc/emacs24/site-start.d/00debian-vars.el: symbolic link
+/etc/perl: directory
+/etc/perl/Net: directory
+/etc/perl/Net/libnet.cfg: regular
+/etc/perl/CPAN: directory
+/etc/mailcap.order: regular
+/etc/insserv.conf: regular
+/etc/fuse.conf: regular
+/etc/popularity-contest.conf: regular
+/etc/sysctl.d: directory
+/etc/sysctl.d/README: regular
+/etc/sysctl.d/10-ipv6-privacy.conf: regular
+/etc/sysctl.d/10-link-restrictions.conf: regular
+/etc/sysctl.d/99-sysctl.conf: symbolic link
+/etc/sysctl.d/10-magic-sysrq.conf: regular
+/etc/sysctl.d/10-network-security.conf: regular
+/etc/sysctl.d/10-kernel-hardening.conf: regular
+/etc/sysctl.d/10-ptrace.conf: regular
+/etc/sysctl.d/10-zeropage.conf: regular
+/etc/sysctl.d/30-tracker.conf: regular
+/etc/sysctl.d/10-console-messages.conf: regular
+/etc/apt: directory
+/etc/apt/apt.conf.d: directory
+/etc/apt/apt.conf.d/10periodic: regular
+/etc/apt/apt.conf.d/00trustcdrom: regular
+/etc/apt/apt.conf.d/20changelog: regular
+/etc/apt/apt.conf.d/01-vendor-ubuntu: regular
+/etc/apt/apt.conf.d/70debconf: regular
+/etc/apt/apt.conf.d/15update-stamp: regular
+/etc/apt/apt.conf.d/01autoremove: regular
+/etc/apt/apt.conf.d/50unattended-upgrades: regular
+/etc/apt/apt.conf.d/00aptitude: regular
+/etc/apt/apt.conf.d/20dbus: regular
+/etc/apt/apt.conf.d/20archive: regular
+/etc/apt/apt.conf.d/01autoremove-kernels: regular
+/etc/apt/apt.conf.d/99update-notifier: regular
+/etc/apt/trusted.gpg: regular
+/etc/apt/sources.list.d: directory
+/etc/apt/trusted.gpg.d: directory
+/etc/apt/preferences.d: directory
+/etc/apt/sources.list: regular
+/etc/apt/sources.list.distUpgrade: regular
+/etc/vtrgb: symbolic link
+/etc/rc.local: regular
+/etc/vdpau_wrapper.cfg: regular
+/etc/ssl: directory
+/etc/ssl/private: directory
+/etc/ssl/private/ssl-cert-snakeoil.key: regular
+/etc/ssl/certs: directory
+/etc/ssl/certs/5620c4aa.0: symbolic link
+/etc/ssl/certs/America_Online_Root_Certification_Authority_2.pem: symbolic link
+/etc/ssl/certs/d4dae3dd.0: symbolic link
+/etc/ssl/certs/65b876bd.0: symbolic link
+/etc/ssl/certs/TeliaSonera_Root_CA_v1.pem: symbolic link
+/etc/ssl/certs/c0ff1f52.0: symbolic link
+/etc/ssl/certs/Swisscom_Root_CA_2.pem: symbolic link
+/etc/ssl/certs/2b349938.0: symbolic link
+/etc/ssl/certs/17b51fe6.0: symbolic link
+/etc/ssl/certs/5021a0a2.0: symbolic link
+/etc/ssl/certs/Atos_TrustedRoot_2011.pem: symbolic link
+/etc/ssl/certs/1dac3003.0: symbolic link
+/etc/ssl/certs/DST_ACES_CA_X6.pem: symbolic link
+/etc/ssl/certs/cbf06781.0: symbolic link
+/etc/ssl/certs/Comodo_Secure_Services_root.pem: symbolic link
+/etc/ssl/certs/NetLock_Business_=Class_B=_Root.pem: symbolic link
+/etc/ssl/certs/f80cc7f6.0: symbolic link
+/etc/ssl/certs/DigiCert_Assured_ID_Root_G3.pem: symbolic link
+/etc/ssl/certs/d16a5865.0: symbolic link
+/etc/ssl/certs/399e7759.0: symbolic link
+/etc/ssl/certs/ee7cd6fb.0: symbolic link
+/etc/ssl/certs/VeriSign_Universal_Root_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/1dcd6f4c.0: symbolic link
+/etc/ssl/certs/55a10908.0: symbolic link
+/etc/ssl/certs/cfa1c2ee.0: symbolic link
+/etc/ssl/certs/7a481e66.0: symbolic link
+/etc/ssl/certs/9339512a.0: symbolic link
+/etc/ssl/certs/TURKTRUST_Certificate_Services_Provider_Root_2.pem: symbolic link
+/etc/ssl/certs/e536d871.0: symbolic link
+/etc/ssl/certs/c3a6a9ad.0: symbolic link
+/etc/ssl/certs/755f7420.0: symbolic link
+/etc/ssl/certs/a15b3b6b.0: symbolic link
+/etc/ssl/certs/Buypass_Class_2_CA_1.pem: symbolic link
+/etc/ssl/certs/f3377b1b.0: symbolic link
+/etc/ssl/certs/thawte_Primary_Root_CA.pem: symbolic link
+/etc/ssl/certs/e7b8d656.0: symbolic link
+/etc/ssl/certs/CA_Disig_Root_R2.pem: symbolic link
+/etc/ssl/certs/3c9a4d3b.0: symbolic link
+/etc/ssl/certs/DigiCert_Assured_ID_Root_CA.pem: symbolic link
+/etc/ssl/certs/Certum_Root_CA.pem: symbolic link
+/etc/ssl/certs/ae8153b9.0: symbolic link
+/etc/ssl/certs/Verisign_Class_2_Public_Primary_Certification_Authority_-_G2.pem: symbolic link
+/etc/ssl/certs/thawte_Primary_Root_CA_-_G2.pem: symbolic link
+/etc/ssl/certs/7651b327.1: symbolic link
+/etc/ssl/certs/c47d9980.0: symbolic link
+/etc/ssl/certs/5cd81ad7.0: symbolic link
+/etc/ssl/certs/c8841d13.0: symbolic link
+/etc/ssl/certs/e60bf0c0.0: symbolic link
+/etc/ssl/certs/9c8dfbd4.0: symbolic link
+/etc/ssl/certs/3e45d192.0: symbolic link
+/etc/ssl/certs/ff588423.0: symbolic link
+/etc/ssl/certs/cc450945.0: symbolic link
+/etc/ssl/certs/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem: symbolic link
+/etc/ssl/certs/TC_TrustCenter_Universal_CA_I.pem: symbolic link
+/etc/ssl/certs/ba89ed3b.0: symbolic link
+/etc/ssl/certs/790a7190.0: symbolic link
+/etc/ssl/certs/6e8bf996.0: symbolic link
+/etc/ssl/certs/ed62f4e3.0: symbolic link
+/etc/ssl/certs/GlobalSign_Root_CA.pem: symbolic link
+/etc/ssl/certs/a7d2cf64.0: symbolic link
+/etc/ssl/certs/7999be0d.0: symbolic link
+/etc/ssl/certs/c527e4ab.0: symbolic link
+/etc/ssl/certs/2ab3b959.0: symbolic link
+/etc/ssl/certs/dbc54cab.0: symbolic link
+/etc/ssl/certs/Comodo_AAA_Services_root.pem: symbolic link
+/etc/ssl/certs/1874d4aa.0: symbolic link
+/etc/ssl/certs/4f316efb.0: symbolic link
+/etc/ssl/certs/5d63b0ae.0: symbolic link
+/etc/ssl/certs/c33a80d4.0: symbolic link
+/etc/ssl/certs/034868d6.0: symbolic link
+/etc/ssl/certs/Verisign_Class_3_Public_Primary_Certification_Authority_2.pem: symbolic link
+/etc/ssl/certs/a2c66da8.0: symbolic link
+/etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem: symbolic link
+/etc/ssl/certs/a760e1bd.0: symbolic link
+/etc/ssl/certs/ef2f636c.0: symbolic link
+/etc/ssl/certs/ComSign_Secured_CA.pem: symbolic link
+/etc/ssl/certs/2c543cd1.0: symbolic link
+/etc/ssl/certs/Actalis_Authentication_Root_CA.pem: symbolic link
+/etc/ssl/certs/f387163d.0: symbolic link
+/etc/ssl/certs/ab5346f4.0: symbolic link
+/etc/ssl/certs/TURKTRUST_Certificate_Services_Provider_Root_2007.pem: symbolic link
+/etc/ssl/certs/Equifax_Secure_Global_eBusiness_CA.pem: symbolic link
+/etc/ssl/certs/0dad9736.0: symbolic link
+/etc/ssl/certs/ad088e1d.0: symbolic link
+/etc/ssl/certs/5a3f0ff8.0: symbolic link
+/etc/ssl/certs/eb375c3e.0: symbolic link
+/etc/ssl/certs/480720ec.0: symbolic link
+/etc/ssl/certs/GeoTrust_Primary_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/c7e2a638.0: symbolic link
+/etc/ssl/certs/524d9b43.0: symbolic link
+/etc/ssl/certs/spi-cacert-2008.pem: symbolic link
+/etc/ssl/certs/c8763593.0: symbolic link
+/etc/ssl/certs/ePKI_Root_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/certSIGN_ROOT_CA.pem: symbolic link
+/etc/ssl/certs/5046c355.0: symbolic link
+/etc/ssl/certs/9dbefe7b.0: symbolic link
+/etc/ssl/certs/CNNIC_ROOT.pem: symbolic link
+/etc/ssl/certs/63a2c897.0: symbolic link
+/etc/ssl/certs/e8651083.0: symbolic link
+/etc/ssl/certs/86212b19.0: symbolic link
+/etc/ssl/certs/b872f2b4.0: symbolic link
+/etc/ssl/certs/facacbc6.0: symbolic link
+/etc/ssl/certs/749e9e03.0: symbolic link
+/etc/ssl/certs/861a399d.0: symbolic link
+/etc/ssl/certs/3bde41ac.0: symbolic link
+/etc/ssl/certs/12d55845.0: symbolic link
+/etc/ssl/certs/AffirmTrust_Premium_ECC.pem: symbolic link
+/etc/ssl/certs/7a819ef2.0: symbolic link
+/etc/ssl/certs/ec87c655.0: symbolic link
+/etc/ssl/certs/bdacca6f.0: symbolic link
+/etc/ssl/certs/Microsec_e-Szigno_Root_CA.pem: symbolic link
+/etc/ssl/certs/578d5c04.0: symbolic link
+/etc/ssl/certs/d7e8dc79.0: symbolic link
+/etc/ssl/certs/Swisscom_Root_EV_CA_2.pem: symbolic link
+/etc/ssl/certs/7d5a75e4.0: symbolic link
+/etc/ssl/certs/48a195d8.0: symbolic link
+/etc/ssl/certs/598630ad.0: symbolic link
+/etc/ssl/certs/China_Internet_Network_Information_Center_EV_Certificates_Root.pem: symbolic link
+/etc/ssl/certs/9576d26b.0: symbolic link
+/etc/ssl/certs/418595b9.0: symbolic link
+/etc/ssl/certs/c215bc69.0: symbolic link
+/etc/ssl/certs/DigiCert_Assured_ID_Root_G2.pem: symbolic link
+/etc/ssl/certs/Global_Chambersign_Root_-_2008.pem: symbolic link
+/etc/ssl/certs/aeb67534.0: symbolic link
+/etc/ssl/certs/8096d0a9.0: symbolic link
+/etc/ssl/certs/ComSign_CA.pem: symbolic link
+/etc/ssl/certs/9d04f354.0: symbolic link
+/etc/ssl/certs/2fb1850a.0: symbolic link
+/etc/ssl/certs/ACCVRAIZ1.pem: symbolic link
+/etc/ssl/certs/QuoVadis_Root_CA.pem: symbolic link
+/etc/ssl/certs/1e8e7201.0: symbolic link
+/etc/ssl/certs/080911ac.0: symbolic link
+/etc/ssl/certs/2e4eed3c.0: symbolic link
+/etc/ssl/certs/AddTrust_External_Root.pem: symbolic link
+/etc/ssl/certs/a3896b44.0: symbolic link
+/etc/ssl/certs/Go_Daddy_Class_2_CA.pem: symbolic link
+/etc/ssl/certs/DigiCert_Trusted_Root_G4.pem: symbolic link
+/etc/ssl/certs/7f3d5d1d.0: symbolic link
+/etc/ssl/certs/349f2832.0: symbolic link
+/etc/ssl/certs/Starfield_Class_2_CA.pem: symbolic link
+/etc/ssl/certs/95aff9e3.0: symbolic link
+/etc/ssl/certs/StartCom_Certification_Authority_G2.pem: symbolic link
+/etc/ssl/certs/3e7271e8.0: symbolic link
+/etc/ssl/certs/AffirmTrust_Premium.pem: symbolic link
+/etc/ssl/certs/a0bc6fbb.0: symbolic link
+/etc/ssl/certs/E-Tugra_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/48bec511.0: symbolic link
+/etc/ssl/certs/039c618a.0: symbolic link
+/etc/ssl/certs/c19d42c7.0: symbolic link
+/etc/ssl/certs/GlobalSign_Root_CA_-_R2.pem: symbolic link
+/etc/ssl/certs/UbuntuOne-Go_Daddy_CA.pem: regular
+/etc/ssl/certs/02b73561.0: symbolic link
+/etc/ssl/certs/56657bde.0: symbolic link
+/etc/ssl/certs/6f2c1157.0: symbolic link
+/etc/ssl/certs/Starfield_Services_Root_Certificate_Authority_-_G2.pem: symbolic link
+/etc/ssl/certs/Certigna.pem: symbolic link
+/etc/ssl/certs/8af41246: symbolic link
+/etc/ssl/certs/Entrust_Root_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/76579174.0: symbolic link
+/etc/ssl/certs/9d6523ce.0: symbolic link
+/etc/ssl/certs/1636090b.0: symbolic link
+/etc/ssl/certs/dd8e9d41.0: symbolic link
+/etc/ssl/certs/Taiwan_GRCA.pem: symbolic link
+/etc/ssl/certs/5e4e69e7.0: symbolic link
+/etc/ssl/certs/124bbd54.0: symbolic link
+/etc/ssl/certs/f559733c.0: symbolic link
+/etc/ssl/certs/cbeee9e2.0: symbolic link
+/etc/ssl/certs/244b5494.0: symbolic link
+/etc/ssl/certs/0d188d89.0: symbolic link
+/etc/ssl/certs/T-TeleSec_GlobalRoot_Class_3.pem: symbolic link
+/etc/ssl/certs/AddTrust_Public_Services_Root.pem: symbolic link
+/etc/ssl/certs/AffirmTrust_Commercial.pem: symbolic link
+/etc/ssl/certs/QuoVadis_Root_CA_2_G3.pem: symbolic link
+/etc/ssl/certs/2251b13a.0: symbolic link
+/etc/ssl/certs/6410666e.0: symbolic link
+/etc/ssl/certs/d7746a63.0: symbolic link
+/etc/ssl/certs/67495436.0: symbolic link
+/etc/ssl/certs/03f2b8cf.0: symbolic link
+/etc/ssl/certs/4304c5e5.0: symbolic link
+/etc/ssl/certs/TÜBİTAK_UEKAE_Kök_Sertifika_Hizmet_Sağlayıcısı_-_Sürüm_3.pem: symbolic link
+/etc/ssl/certs/eacdeb40.0: symbolic link
+/etc/ssl/certs/653b494a.0: symbolic link
+/etc/ssl/certs/a2df7ad7.0: symbolic link
+/etc/ssl/certs/EC-ACC.pem: symbolic link
+/etc/ssl/certs/f90208f7.0: symbolic link
+/etc/ssl/certs/StartCom_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/667c66d4.0: symbolic link
+/etc/ssl/certs/3513523f.0: symbolic link
+/etc/ssl/certs/2edf7016.0: symbolic link
+/etc/ssl/certs/fcac10e3.0: symbolic link
+/etc/ssl/certs/f61bff45.0: symbolic link
+/etc/ssl/certs/a94d09e5.0: symbolic link
+/etc/ssl/certs/e442e424.0: symbolic link
+/etc/ssl/certs/Camerfirma_Chambers_of_Commerce_Root.pem: symbolic link
+/etc/ssl/certs/Staat_der_Nederlanden_Root_CA_-_G2.pem: symbolic link
+/etc/ssl/certs/TC_TrustCenter_Class_2_CA_II.pem: symbolic link
+/etc/ssl/certs/UbuntuOne-Go_Daddy_Class_2_CA.pem: regular
+/etc/ssl/certs/201cada0.0: symbolic link
+/etc/ssl/certs/TWCA_Root_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/cb156124.0: symbolic link
+/etc/ssl/certs/4e18c148.0: symbolic link
+/etc/ssl/certs/cf701eeb.0: symbolic link
+/etc/ssl/certs/ff783690.0: symbolic link
+/etc/ssl/certs/d06393bb.0: symbolic link
+/etc/ssl/certs/84cba82f.0: symbolic link
+/etc/ssl/certs/24ad0b63.0: symbolic link
+/etc/ssl/certs/1e09d511.0: symbolic link
+/etc/ssl/certs/a6a593ba.0: symbolic link
+/etc/ssl/certs/c692a373.0: symbolic link
+/etc/ssl/certs/4d654d1d.0: symbolic link
+/etc/ssl/certs/TURKTRUST_Certificate_Services_Provider_Root_1.pem: symbolic link
+/etc/ssl/certs/442adcac.0: symbolic link
+/etc/ssl/certs/PSCProcert.pem: symbolic link
+/etc/ssl/certs/CA_Disig.pem: symbolic link
+/etc/ssl/certs/GeoTrust_Global_CA_2.pem: symbolic link
+/etc/ssl/certs/1eb37bdf.0: symbolic link
+/etc/ssl/certs/157753a5.0: symbolic link
+/etc/ssl/certs/75680d2e.0: symbolic link
+/etc/ssl/certs/c5e082db.0: symbolic link
+/etc/ssl/certs/9ab62355.0: symbolic link
+/etc/ssl/certs/98ec67f0.0: symbolic link
+/etc/ssl/certs/QuoVadis_Root_CA_3_G3.pem: symbolic link
+/etc/ssl/certs/72fa7371.0: symbolic link
+/etc/ssl/certs/QuoVadis_Root_CA_3.pem: symbolic link
+/etc/ssl/certs/d853d49e.0: symbolic link
+/etc/ssl/certs/8e52d3cd.0: symbolic link
+/etc/ssl/certs/TC_TrustCenter_Class_3_CA_II.pem: symbolic link
+/etc/ssl/certs/85cde254.0: symbolic link
+/etc/ssl/certs/America_Online_Root_Certification_Authority_1.pem: symbolic link
+/etc/ssl/certs/5ad8a5d6.0: symbolic link
+/etc/ssl/certs/c491639e.0: symbolic link
+/etc/ssl/certs/0c31d5ce: symbolic link
+/etc/ssl/certs/f39fc864.0: symbolic link
+/etc/ssl/certs/11f154d6.0: symbolic link
+/etc/ssl/certs/87753b0d.0: symbolic link
+/etc/ssl/certs/cdaebb72.0: symbolic link
+/etc/ssl/certs/ddc328ff.0: symbolic link
+/etc/ssl/certs/Chambers_of_Commerce_Root_-_2008.pem: symbolic link
+/etc/ssl/certs/0c31d5ce.0: symbolic link
+/etc/ssl/certs/3efd4dc0.0: symbolic link
+/etc/ssl/certs/9d520b32.0: symbolic link
+/etc/ssl/certs/Certum_Trusted_Network_CA.pem: symbolic link
+/etc/ssl/certs/9c472bf7.0: symbolic link
+/etc/ssl/certs/33815e15.1: symbolic link
+/etc/ssl/certs/ccc52f49.0: symbolic link
+/etc/ssl/certs/Certplus_Class_2_Primary_CA.pem: symbolic link
+/etc/ssl/certs/1f58a078.0: symbolic link
+/etc/ssl/certs/81b9768f.0: symbolic link
+/etc/ssl/certs/ca6e4ad9.0: symbolic link
+/etc/ssl/certs/T-TeleSec_GlobalRoot_Class_2.pem: symbolic link
+/etc/ssl/certs/add67345.0: symbolic link
+/etc/ssl/certs/2afc57aa.0: symbolic link
+/etc/ssl/certs/4a6481c9.0: symbolic link
+/etc/ssl/certs/706f604c.0: symbolic link
+/etc/ssl/certs/5443e9e3.0: symbolic link
+/etc/ssl/certs/GeoTrust_Primary_Certification_Authority_-_G2.pem: symbolic link
+/etc/ssl/certs/DST_Root_CA_X3.pem: symbolic link
+/etc/ssl/certs/GTE_CyberTrust_Global_Root.pem: symbolic link
+/etc/ssl/certs/Verisign_Class_4_Public_Primary_Certification_Authority_-_G3.pem: symbolic link
+/etc/ssl/certs/592c0a9a.0: symbolic link
+/etc/ssl/certs/ca-certificates.crt: regular
+/etc/ssl/certs/88f89ea7.0: symbolic link
+/etc/ssl/certs/ssl-cert-snakeoil.pem: regular
+/etc/ssl/certs/ee90b008.0: symbolic link
+/etc/ssl/certs/5cf9d536.0: symbolic link
+/etc/ssl/certs/7d453d8f.0: symbolic link
+/etc/ssl/certs/3c860d51.0: symbolic link
+/etc/ssl/certs/6b99d060.0: symbolic link
+/etc/ssl/certs/Verisign_Class_3_Public_Primary_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_2009.pem: symbolic link
+/etc/ssl/certs/Security_Communication_RootCA2.pem: symbolic link
+/etc/ssl/certs/0b759015.0: symbolic link
+/etc/ssl/certs/e18bfb83.0: symbolic link
+/etc/ssl/certs/EBG_Elektronik_Sertifika_Hizmet_Sağlayıcısı.pem: symbolic link
+/etc/ssl/certs/c28a8a30.0: symbolic link
+/etc/ssl/certs/NetLock_Arany_=Class_Gold=_Főtanúsítvány.pem: symbolic link
+/etc/ssl/certs/9ec3a561.0: symbolic link
+/etc/ssl/certs/2e5ac55d.0: symbolic link
+/etc/ssl/certs/23f4c490.0: symbolic link
+/etc/ssl/certs/DigiCert_Global_Root_G3.pem: symbolic link
+/etc/ssl/certs/Thawte_Server_CA.pem: symbolic link
+/etc/ssl/certs/AffirmTrust_Networking.pem: symbolic link
+/etc/ssl/certs/dc45b0bd.0: symbolic link
+/etc/ssl/certs/52b525c7.0: symbolic link
+/etc/ssl/certs/d9d12c58.0: symbolic link
+/etc/ssl/certs/1df5a75f.0: symbolic link
+/etc/ssl/certs/AC_Raíz_Certicámara_S.A..pem: symbolic link
+/etc/ssl/certs/SwissSign_Platinum_CA_-_G2.pem: symbolic link
+/etc/ssl/certs/eed8c118.0: symbolic link
+/etc/ssl/certs/00673b5b.0: symbolic link
+/etc/ssl/certs/895cad1a.0: symbolic link
+/etc/ssl/certs/9685a493.0: symbolic link
+/etc/ssl/certs/Root_CA_Generalitat_Valenciana.pem: symbolic link
+/etc/ssl/certs/7d0b38bd.0: symbolic link
+/etc/ssl/certs/Starfield_Root_Certificate_Authority_-_G2.pem: symbolic link
+/etc/ssl/certs/EE_Certification_Centre_Root_CA.pem: symbolic link
+/etc/ssl/certs/Verisign_Class_1_Public_Primary_Certification_Authority_-_G2.pem: symbolic link
+/etc/ssl/certs/Microsec_e-Szigno_Root_CA_2009.pem: symbolic link
+/etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_EV_2009.pem: symbolic link
+/etc/ssl/certs/93bc0acc.0: symbolic link
+/etc/ssl/certs/Network_Solutions_Certificate_Authority.pem: symbolic link
+/etc/ssl/certs/635ccfd5.0: symbolic link
+/etc/ssl/certs/CA_Disig_Root_R1.pem: symbolic link
+/etc/ssl/certs/UbuntuOne-ValiCert_Class_2_VA.pem: regular
+/etc/ssl/certs/e48193cf.0: symbolic link
+/etc/ssl/certs/c089bbbd.0: symbolic link
+/etc/ssl/certs/9f541fb4.0: symbolic link
+/etc/ssl/certs/930ac5d2.0: symbolic link
+/etc/ssl/certs/56e29e75.0: symbolic link
+/etc/ssl/certs/b7db1890.0: symbolic link
+/etc/ssl/certs/4bfab552.0: symbolic link
+/etc/ssl/certs/57692373.0: symbolic link
+/etc/ssl/certs/b0f3e76e.0: symbolic link
+/etc/ssl/certs/9772ca32.0: symbolic link
+/etc/ssl/certs/WoSign.pem: symbolic link
+/etc/ssl/certs/E-Guven_Kok_Elektronik_Sertifika_Hizmet_Saglayicisi.pem: symbolic link
+/etc/ssl/certs/GeoTrust_Universal_CA.pem: symbolic link
+/etc/ssl/certs/c9f83a1c.0: symbolic link
+/etc/ssl/certs/8b59b1ad.0: symbolic link
+/etc/ssl/certs/988a38cb.0: symbolic link
+/etc/ssl/certs/Sonera_Class_2_Root_CA.pem: symbolic link
+/etc/ssl/certs/e36a6752.0: symbolic link
+/etc/ssl/certs/67d559d1.0: symbolic link
+/etc/ssl/certs/116bf586.0: symbolic link
+/etc/ssl/certs/OISTE_WISeKey_Global_Root_GA_CA.pem: symbolic link
+/etc/ssl/certs/8c24b137.0: symbolic link
+/etc/ssl/certs/b42ff584.0: symbolic link
+/etc/ssl/certs/74c26bd0.0: symbolic link
+/etc/ssl/certs/82223c44.0: symbolic link
+/etc/ssl/certs/97552d04.0: symbolic link
+/etc/ssl/certs/119afc2e.0: symbolic link
+/etc/ssl/certs/b13cc6df.0: symbolic link
+/etc/ssl/certs/WellsSecure_Public_Root_Certificate_Authority.pem: symbolic link
+/etc/ssl/certs/GeoTrust_Global_CA.pem: symbolic link
+/etc/ssl/certs/NetLock_Express_=Class_C=_Root.pem: symbolic link
+/etc/ssl/certs/Camerfirma_Global_Chambersign_Root.pem: symbolic link
+/etc/ssl/certs/ea169617.0: symbolic link
+/etc/ssl/certs/0810ba98.0: symbolic link
+/etc/ssl/certs/415660c1.0: symbolic link
+/etc/ssl/certs/DigiCert_Global_Root_G2.pem: symbolic link
+/etc/ssl/certs/21855f49.0: symbolic link
+/etc/ssl/certs/6fcc125d.0: symbolic link
+/etc/ssl/certs/A-Trust-nQual-03.pem: symbolic link
+/etc/ssl/certs/607986c7.0: symbolic link
+/etc/ssl/certs/882de061.0: symbolic link
+/etc/ssl/certs/8470719d.0: symbolic link
+/etc/ssl/certs/Verisign_Class_3_Public_Primary_Certification_Authority_-_G3.pem: symbolic link
+/etc/ssl/certs/09789157.0: symbolic link
+/etc/ssl/certs/024dc131.0: symbolic link
+/etc/ssl/certs/54657681.0: symbolic link
+/etc/ssl/certs/27af790d.0: symbolic link
+/etc/ssl/certs/Go_Daddy_Root_Certificate_Authority_-_G2.pem: symbolic link
+/etc/ssl/certs/bc3f2570.0: symbolic link
+/etc/ssl/certs/343eb6cb.0: symbolic link
+/etc/ssl/certs/d66b55d9.0: symbolic link
+/etc/ssl/certs/GeoTrust_Primary_Certification_Authority_-_G3.pem: symbolic link
+/etc/ssl/certs/3a3b02ce.0: symbolic link
+/etc/ssl/certs/fb126c6d.0: symbolic link
+/etc/ssl/certs/c5d3212a.0: symbolic link
+/etc/ssl/certs/cb59f961.0: symbolic link
+/etc/ssl/certs/3d441de8.0: symbolic link
+/etc/ssl/certs/Buypass_Class_3_CA_1.pem: symbolic link
+/etc/ssl/certs/0d1b923b.0: symbolic link
+/etc/ssl/certs/4fbd6bfa.0: symbolic link
+/etc/ssl/certs/DigiCert_Global_Root_CA.pem: symbolic link
+/etc/ssl/certs/Security_Communication_Root_CA.pem: symbolic link
+/etc/ssl/certs/b1b8a7f3.0: symbolic link
+/etc/ssl/certs/40547a79.0: symbolic link
+/etc/ssl/certs/8867006a.0: symbolic link
+/etc/ssl/certs/ae8153b9.1: symbolic link
+/etc/ssl/certs/8d86cdd1.0: symbolic link
+/etc/ssl/certs/NetLock_Notary_=Class_A=_Root.pem: symbolic link
+/etc/ssl/certs/Visa_eCommerce_Root.pem: symbolic link
+/etc/ssl/certs/IGC_A.pem: symbolic link
+/etc/ssl/certs/Digital_Signature_Trust_Co._Global_CA_3.pem: symbolic link
+/etc/ssl/certs/450c6e38.0: symbolic link
+/etc/ssl/certs/WoSign_China.pem: symbolic link
+/etc/ssl/certs/415660c1.1: symbolic link
+/etc/ssl/certs/UTN_USERFirst_Hardware_Root_CA.pem: symbolic link
+/etc/ssl/certs/33815e15.0: symbolic link
+/etc/ssl/certs/QuoVadis_Root_CA_1_G3.pem: symbolic link
+/etc/ssl/certs/062cdee6.0: symbolic link
+/etc/ssl/certs/2fa87019.0: symbolic link
+/etc/ssl/certs/9f533518.0: symbolic link
+/etc/ssl/certs/778e3cb0.0: symbolic link
+/etc/ssl/certs/ee1365c0.0: symbolic link
+/etc/ssl/certs/876f1e28.0: symbolic link
+/etc/ssl/certs/fde84897.0: symbolic link
+/etc/ssl/certs/111e6273.0: symbolic link
+/etc/ssl/certs/219d9499.0: symbolic link
+/etc/ssl/certs/b204d74a.0: symbolic link
+/etc/ssl/certs/18856ac4.0: symbolic link
+/etc/ssl/certs/Hongkong_Post_Root_CA_1.pem: symbolic link
+/etc/ssl/certs/2ae6433e.0: symbolic link
+/etc/ssl/certs/f081611a.0: symbolic link
+/etc/ssl/certs/75d1b2ed.0: symbolic link
+/etc/ssl/certs/SecureTrust_CA.pem: symbolic link
+/etc/ssl/certs/7651b327.0: symbolic link
+/etc/ssl/certs/Verisign_Class_1_Public_Primary_Certification_Authority_-_G3.pem: symbolic link
+/etc/ssl/certs/bda4cc84.0: symbolic link
+/etc/ssl/certs/Comodo_Trusted_Services_root.pem: symbolic link
+/etc/ssl/certs/Equifax_Secure_eBusiness_CA_1.pem: symbolic link
+/etc/ssl/certs/SwissSign_Gold_CA_-_G2.pem: symbolic link
+/etc/ssl/certs/Verisign_Class_2_Public_Primary_Certification_Authority_-_G3.pem: symbolic link
+/etc/ssl/certs/91739615.0: symbolic link
+/etc/ssl/certs/Sonera_Class_1_Root_CA.pem: symbolic link
+/etc/ssl/certs/b7a5b843.0: symbolic link
+/etc/ssl/certs/58a44af1.0: symbolic link
+/etc/ssl/certs/5f47b495.0: symbolic link
+/etc/ssl/certs/d957f522.0: symbolic link
+/etc/ssl/certs/594f1775.0: symbolic link
+/etc/ssl/certs/064e0aa9.0: symbolic link
+/etc/ssl/certs/69105f4f.0: symbolic link
+/etc/ssl/certs/AddTrust_Qualified_Certificates_Root.pem: symbolic link
+/etc/ssl/certs/UTN_USERFirst_Email_Root_CA.pem: symbolic link
+/etc/ssl/certs/57bcb2da.0: symbolic link
+/etc/ssl/certs/bad35b78.0: symbolic link
+/etc/ssl/certs/c01cdfa2.0: symbolic link
+/etc/ssl/certs/e268a4c5.0: symbolic link
+/etc/ssl/certs/Staat_der_Nederlanden_Root_CA.pem: symbolic link
+/etc/ssl/certs/3ad48a91.0: symbolic link
+/etc/ssl/certs/76faf6c0.0: symbolic link
+/etc/ssl/certs/57a8fcdc.0: symbolic link
+/etc/ssl/certs/ed39abd0.0: symbolic link
+/etc/ssl/certs/76cb8f92.0: symbolic link
+/etc/ssl/certs/cd58d51e.0: symbolic link
+/etc/ssl/certs/ApplicationCA_-_Japanese_Government.pem: symbolic link
+/etc/ssl/certs/e113c810.0: symbolic link
+/etc/ssl/certs/bf64f35b.0: symbolic link
+/etc/ssl/certs/6cc3c4c3.0: symbolic link
+/etc/ssl/certs/cb357862.0: symbolic link
+/etc/ssl/certs/XRamp_Global_CA_Root.pem: symbolic link
+/etc/ssl/certs/5f15c80c.0: symbolic link
+/etc/ssl/certs/a7605362.0: symbolic link
+/etc/ssl/certs/fac084d7.0: symbolic link
+/etc/ssl/certs/46b2fd3b.0: symbolic link
+/etc/ssl/certs/3b2716e5.0: symbolic link
+/etc/ssl/certs/b6c5745d.0: symbolic link
+/etc/ssl/certs/60afe812.0: symbolic link
+/etc/ssl/certs/c99398f3.0: symbolic link
+/etc/ssl/certs/10531352.0: symbolic link
+/etc/ssl/certs/Juur-SK.pem: symbolic link
+/etc/ssl/certs/5c44d531.0: symbolic link
+/etc/ssl/certs/SecureSign_RootCA11.pem: symbolic link
+/etc/ssl/certs/bb2d49a0.0: symbolic link
+/etc/ssl/certs/thawte_Primary_Root_CA_-_G3.pem: symbolic link
+/etc/ssl/certs/ee64a828.0: symbolic link
+/etc/ssl/certs/Digital_Signature_Trust_Co._Global_CA_1.pem: symbolic link
+/etc/ssl/certs/f58a60fe.0: symbolic link
+/etc/ssl/certs/1e1eab7c.0: symbolic link
+/etc/ssl/certs/SwissSign_Silver_CA_-_G2.pem: symbolic link
+/etc/ssl/certs/Certinomis_-_Autorité_Racine.pem: symbolic link
+/etc/ssl/certs/Verisign_Class_3_Public_Primary_Certification_Authority_-_G2.pem: symbolic link
+/etc/ssl/certs/5273a94c.0: symbolic link
+/etc/ssl/certs/e2799e36.0: symbolic link
+/etc/ssl/certs/7672ac4b.0: symbolic link
+/etc/ssl/certs/aee5f10d.0: symbolic link
+/etc/ssl/certs/Security_Communication_EV_RootCA1.pem: symbolic link
+/etc/ssl/certs/b1159c4c.0: symbolic link
+/etc/ssl/certs/1ec4d31a.0: symbolic link
+/etc/ssl/certs/e775ed2d.0: symbolic link
+/etc/ssl/certs/Baltimore_CyberTrust_Root.pem: symbolic link
+/etc/ssl/certs/8160b96c.0: symbolic link
+/etc/ssl/certs/57bbd831.0: symbolic link
+/etc/ssl/certs/79ad8b43.0: symbolic link
+/etc/ssl/certs/2d9dafe4.0: symbolic link
+/etc/ssl/certs/DigiCert_High_Assurance_EV_Root_CA.pem: symbolic link
+/etc/ssl/certs/NetLock_Qualified_=Class_QA=_Root.pem: symbolic link
+/etc/ssl/certs/Swisscom_Root_CA_1.pem: symbolic link
+/etc/ssl/certs/Verisign_Class_1_Public_Primary_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/Trustis_FPS_Root_CA.pem: symbolic link
+/etc/ssl/certs/9007ae68.0: symbolic link
+/etc/ssl/certs/e8de2f56.0: symbolic link
+/etc/ssl/certs/b66938e9.0: symbolic link
+/etc/ssl/certs/3ee7e181.0: symbolic link
+/etc/ssl/certs/381ce4dd.0: symbolic link
+/etc/ssl/certs/Buypass_Class_3_Root_CA.pem: symbolic link
+/etc/ssl/certs/c90bc37d.0: symbolic link
+/etc/ssl/certs/COMODO_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/128805a3.0: symbolic link
+/etc/ssl/certs/TWCA_Global_Root_CA.pem: symbolic link
+/etc/ssl/certs/QuoVadis_Root_CA_2.pem: symbolic link
+/etc/ssl/certs/b727005e.0: symbolic link
+/etc/ssl/certs/1676090a.0: symbolic link
+/etc/ssl/certs/b0ed035a.0: symbolic link
+/etc/ssl/certs/0ba01d19.0: symbolic link
+/etc/ssl/certs/c51c224c.0: symbolic link
+/etc/ssl/certs/5a5372fc.0: symbolic link
+/etc/ssl/certs/40dc992e.0: symbolic link
+/etc/ssl/certs/a8dee976.0: symbolic link
+/etc/ssl/certs/052e396b.0: symbolic link
+/etc/ssl/certs/Equifax_Secure_CA.pem: symbolic link
+/etc/ssl/certs/08aef7bb.0: symbolic link
+/etc/ssl/certs/0c4c9b6c.0: symbolic link
+/etc/ssl/certs/861e0100.0: symbolic link
+/etc/ssl/certs/GlobalSign_Root_CA_-_R3.pem: symbolic link
+/etc/ssl/certs/StartCom_Certification_Authority_2.pem: symbolic link
+/etc/ssl/certs/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G5.pem: symbolic link
+/etc/ssl/certs/72f369af.0: symbolic link
+/etc/ssl/certs/812e17de.0: symbolic link
+/etc/ssl/certs/a5fd78f0.0: symbolic link
+/etc/ssl/certs/56b8a0b6.0: symbolic link
+/etc/ssl/certs/UTN_DATACorp_SGC_Root_CA.pem: symbolic link
+/etc/ssl/certs/Deutsche_Telekom_Root_CA_2.pem: symbolic link
+/etc/ssl/certs/9c2e7d30.0: symbolic link
+/etc/ssl/certs/d64f06f3.0: symbolic link
+/etc/ssl/certs/GeoTrust_Universal_CA_2.pem: symbolic link
+/etc/ssl/certs/bcdd5959.0: symbolic link
+/etc/ssl/certs/ACEDICOM_Root.pem: symbolic link
+/etc/ssl/certs/8d6437c3.0: symbolic link
+/etc/ssl/certs/f060240e.0: symbolic link
+/etc/ssl/certs/Entrust.net_Premium_2048_Secure_Server_CA.pem: symbolic link
+/etc/ssl/certs/Cybertrust_Global_Root.pem: symbolic link
+/etc/ssl/certs/89c02a45.0: symbolic link
+/etc/ssl/certs/b8e83700.0: symbolic link
+/etc/ssl/certs/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G4.pem: symbolic link
+/etc/ssl/certs/SG_TRUST_SERVICES_RACINE.pem: symbolic link
+/etc/ssl/certs/961f5451.0: symbolic link
+/etc/ssl/certs/d78a75c7.0: symbolic link
+/etc/ssl/certs/AddTrust_Low-Value_Services_Root.pem: symbolic link
+/etc/ssl/certs/S-TRUST_Authentication_and_Encryption_Root_CA_2005_PN.pem: symbolic link
+/etc/ssl/certs/Izenpe.com.pem: symbolic link
+/etc/ssl/certs/3c58f906.0: symbolic link
+/etc/ssl/certs/8317b10c.0: symbolic link
+/etc/ssl/certs/b7e7231a.0: symbolic link
+/etc/ssl/certs/bd1910d4.0: symbolic link
+/etc/ssl/certs/d59297b8.0: symbolic link
+/etc/ssl/certs/Thawte_Premium_Server_CA.pem: symbolic link
+/etc/ssl/certs/Buypass_Class_2_Root_CA.pem: symbolic link
+/etc/ssl/certs/Secure_Global_CA.pem: symbolic link
+/etc/ssl/certs/COMODO_ECC_Certification_Authority.pem: symbolic link
+/etc/ssl/certs/RSA_Security_2048_v3.pem: symbolic link
+/etc/ssl/openssl.cnf: regular
+/etc/selinux: directory
+/etc/selinux/semanage.conf: regular
+/etc/mail: directory
+/etc/mail/spamassassin: symbolic link
+/etc/zsh_command_not_found: regular
+/etc/sudoers.d: directory
+/etc/sudoers.d/README: regular
+/etc/initramfs-tools: directory
+/etc/initramfs-tools/hooks: directory
+/etc/initramfs-tools/initramfs.conf: regular
+/etc/initramfs-tools/conf.d: directory
+/etc/initramfs-tools/conf.d/resume: regular
+/etc/initramfs-tools/update-initramfs.conf: regular
+/etc/initramfs-tools/modules: regular
+/etc/initramfs-tools/scripts: directory
+/etc/initramfs-tools/scripts/init-premount: directory
+/etc/initramfs-tools/scripts/local-top: directory
+/etc/initramfs-tools/scripts/nfs-top: directory
+/etc/initramfs-tools/scripts/local-bottom: directory
+/etc/initramfs-tools/scripts/panic: directory
+/etc/initramfs-tools/scripts/init-bottom: directory
+/etc/initramfs-tools/scripts/init-top: directory
+/etc/initramfs-tools/scripts/nfs-bottom: directory
+/etc/initramfs-tools/scripts/local-premount: directory
+/etc/initramfs-tools/scripts/nfs-premount: directory
+/etc/sudoers: regular
+/etc/libnl-3: directory
+/etc/libnl-3/classid: regular
+/etc/libnl-3/pktloc: regular
+/etc/kerneloops.conf: regular
+/etc/ufw: directory
+/etc/ufw/before.rules: regular
+/etc/ufw/after.init: regular
+/etc/ufw/sysctl.conf: regular
+/etc/ufw/before.init: regular
+/etc/ufw/applications.d: directory
+/etc/ufw/applications.d/cups: regular
+/etc/ufw/after6.rules: regular
+/etc/ufw/after.rules: regular
+/etc/ufw/ufw.conf: regular
+/etc/ufw/before6.rules: regular
+/etc/modules-load.d: directory
+/etc/modules-load.d/cups-filters.conf: regular
+/etc/modules-load.d/modules.conf: symbolic link
+/etc/ssh: directory
+/etc/ssh/moduli: regular
+/etc/ssh/ssh_config: regular
+/etc/usb_modeswitch.d: directory
+/etc/opt: directory
+/etc/pm: directory
+/etc/pm/sleep.d: directory
+/etc/pm/sleep.d/novatel_3g_suspend: regular
+/etc/pm/sleep.d/10_grub-common: regular
+/etc/pm/sleep.d/10_unattended-upgrades-hibernate: regular
+/etc/cron.hourly: directory
+/etc/cron.hourly/.placeholder: regular
+/etc/issue.net: regular
+/etc/hotplug: directory
+/etc/hotplug/usb: directory
+/etc/hotplug/usb/Argyll.usermap: regular
+/etc/wpa_supplicant: directory
+/etc/wpa_supplicant/functions.sh: regular
+/etc/wpa_supplicant/ifupdown.sh: regular
+/etc/wpa_supplicant/action_wpa.sh: regular
+/etc/rc5.d: directory
+/etc/rc5.d/S02thermald: symbolic link
+/etc/rc5.d/S02acpid: symbolic link
+/etc/rc5.d/S04cups: symbolic link
+/etc/rc5.d/S02irqbalance: symbolic link
+/etc/rc5.d/README: regular
+/etc/rc5.d/S04saned: symbolic link
+/etc/rc5.d/S02cron: symbolic link
+/etc/rc5.d/S01dns-clean: symbolic link
+/etc/rc5.d/S06grub-common: symbolic link
+/etc/rc5.d/S02rsync: symbolic link
+/etc/rc5.d/S01uuidd: symbolic link
+/etc/rc5.d/S05vmware-tools-thinprint: symbolic link
+/etc/rc5.d/S02proftpd: symbolic link
+/etc/rc5.d/S03avahi-daemon: symbolic link
+/etc/rc5.d/S02whoopsie: symbolic link
+/etc/rc5.d/S01apport: symbolic link
+/etc/rc5.d/S02spamassassin: symbolic link
+/etc/rc5.d/S01rsyslog: symbolic link
+/etc/rc5.d/S06rc.local: symbolic link
+/etc/rc5.d/S06ondemand: symbolic link
+/etc/rc5.d/S02anacron: symbolic link
+/etc/rc5.d/S02dbus: symbolic link
+/etc/rc5.d/S02kerneloops: symbolic link
+/etc/rc5.d/S04gdm: symbolic link
+/etc/rc5.d/S02speech-dispatcher: symbolic link
+/etc/rc5.d/S03bluetooth: symbolic link
+/etc/rc5.d/S04cups-browsed: symbolic link
+/etc/cron.monthly: directory
+/etc/cron.monthly/0anacron: regular
+/etc/cron.monthly/.placeholder: regular
+/etc/sensors.d: directory
+/etc/sensors.d/.placeholder: regular
+/etc/debconf.conf: regular
+/etc/shadow: regular
+/etc/udisks2: directory
+/etc/grub.d: directory
+/etc/grub.d/20_linux_xen: regular
+/etc/grub.d/41_custom: regular
+/etc/grub.d/README: regular
+/etc/grub.d/05_debian_theme: regular
+/etc/grub.d/20_memtest86+: regular
+/etc/grub.d/10_linux: regular
+/etc/grub.d/00_header: regular
+/etc/grub.d/30_uefi-firmware: regular
+/etc/grub.d/40_custom: regular
+/etc/grub.d/30_os-prober: regular
+/etc/bash_completion.d: directory
+/etc/bash_completion.d/apport_completion: regular
+/etc/bash_completion.d/initramfs-tools: regular
+/etc/bash_completion.d/ufw: regular
+/etc/bash_completion.d/padsp: symbolic link
+/etc/bash_completion.d/parec: symbolic link
+/etc/bash_completion.d/pulseaudio: regular
+/etc/bash_completion.d/parecord: symbolic link
+/etc/bash_completion.d/libreoffice.sh: regular
+/etc/bash_completion.d/axi-cache: regular
+/etc/bash_completion.d/debconf: regular
+/etc/bash_completion.d/desktop-file-validate: regular
+/etc/bash_completion.d/pasuspender: symbolic link
+/etc/bash_completion.d/pacat: symbolic link
+/etc/bash_completion.d/insserv: regular
+/etc/bash_completion.d/grub: regular
+/etc/bash_completion.d/pon: regular
+/etc/bash_completion.d/paplay: symbolic link
+/etc/bash_completion.d/libreoffice.sh.dpkg-new: regular
+/etc/bash_completion.d/pacmd: symbolic link
+/etc/bash_completion.d/pactl: symbolic link
+/etc/bash_completion.d/upstart: regular
+/etc/securetty: regular
+/etc/rc3.d: directory
+/etc/rc3.d/S02thermald: symbolic link
+/etc/rc3.d/S02acpid: symbolic link
+/etc/rc3.d/S04cups: symbolic link
+/etc/rc3.d/S02irqbalance: symbolic link
+/etc/rc3.d/README: regular
+/etc/rc3.d/S04saned: symbolic link
+/etc/rc3.d/S02cron: symbolic link
+/etc/rc3.d/S01dns-clean: symbolic link
+/etc/rc3.d/S06grub-common: symbolic link
+/etc/rc3.d/S02rsync: symbolic link
+/etc/rc3.d/S01uuidd: symbolic link
+/etc/rc3.d/S05vmware-tools-thinprint: symbolic link
+/etc/rc3.d/S02proftpd: symbolic link
+/etc/rc3.d/S03avahi-daemon: symbolic link
+/etc/rc3.d/S02whoopsie: symbolic link
+/etc/rc3.d/S01apport: symbolic link
+/etc/rc3.d/S02spamassassin: symbolic link
+/etc/rc3.d/S01rsyslog: symbolic link
+/etc/rc3.d/S06rc.local: symbolic link
+/etc/rc3.d/S06ondemand: symbolic link
+/etc/rc3.d/S02anacron: symbolic link
+/etc/rc3.d/S02dbus: symbolic link
+/etc/rc3.d/S02kerneloops: symbolic link
+/etc/rc3.d/S04gdm: symbolic link
+/etc/rc3.d/S02speech-dispatcher: symbolic link
+/etc/rc3.d/S03bluetooth: symbolic link
+/etc/rc3.d/S04cups-browsed: symbolic link
+/etc/openal: directory
+/etc/openal/alsoft.conf: regular
+/etc/wildmidi: directory
+/etc/wildmidi/wildmidi.cfg: regular
+/etc/hp: directory
+/etc/hp/hplip.conf: regular
+/etc/sysctl.conf: regular
+/etc/profile.d: directory
+/etc/profile.d/cedilla-brazil.sh: regular
+/etc/profile.d/vte-2.91.sh: regular
+/etc/profile.d/bash_completion.sh: regular
+/etc/profile.d/bash_completion.sh.dpkg-new: regular
+/etc/cron.d: directory
+/etc/cron.d/anacron: regular
+/etc/cron.d/.placeholder: regular
+/etc/avahi: directory
+/etc/avahi/avahi-autoipd.action: regular
+/etc/avahi/avahi-daemon.conf: regular
+/etc/avahi/services: directory
+/etc/avahi/hosts: regular
+/etc/fstab: regular
+/etc/rc2.d: directory
+/etc/rc2.d/S02thermald: symbolic link
+/etc/rc2.d/S02acpid: symbolic link
+/etc/rc2.d/S04cups: symbolic link
+/etc/rc2.d/S02irqbalance: symbolic link
+/etc/rc2.d/README: regular
+/etc/rc2.d/S04saned: symbolic link
+/etc/rc2.d/S02cron: symbolic link
+/etc/rc2.d/S01dns-clean: symbolic link
+/etc/rc2.d/S06grub-common: symbolic link
+/etc/rc2.d/S02rsync: symbolic link
+/etc/rc2.d/S01uuidd: symbolic link
+/etc/rc2.d/S05vmware-tools-thinprint: symbolic link
+/etc/rc2.d/S02proftpd: symbolic link
+/etc/rc2.d/S03avahi-daemon: symbolic link
+/etc/rc2.d/S02whoopsie: symbolic link
+/etc/rc2.d/S01apport: symbolic link
+/etc/rc2.d/S02spamassassin: symbolic link
+/etc/rc2.d/S01rsyslog: symbolic link
+/etc/rc2.d/S06rc.local: symbolic link
+/etc/rc2.d/S06ondemand: symbolic link
+/etc/rc2.d/S02anacron: symbolic link
+/etc/rc2.d/S02dbus: symbolic link
+/etc/rc2.d/S02kerneloops: symbolic link
+/etc/rc2.d/S04gdm: symbolic link
+/etc/rc2.d/S02speech-dispatcher: symbolic link
+/etc/rc2.d/S03bluetooth: symbolic link
+/etc/rc2.d/S04cups-browsed: symbolic link
+/etc/subuid: regular
+/etc/resolv.conf: symbolic link
+/etc/xul-ext: directory
+/etc/speech-dispatcher: directory
+/etc/speech-dispatcher/speechd.conf: regular
+/etc/speech-dispatcher/modules: directory
+/etc/speech-dispatcher/modules/swift-generic.conf: regular
+/etc/speech-dispatcher/modules/espeak.conf: regular
+/etc/speech-dispatcher/modules/llia_phon-generic.conf: regular
+/etc/speech-dispatcher/modules/espeak-mbrola-generic.conf: regular
+/etc/speech-dispatcher/modules/flite.conf: regular
+/etc/speech-dispatcher/modules/ivona.conf: regular
+/etc/speech-dispatcher/modules/espeak-generic.conf: regular
+/etc/speech-dispatcher/modules/festival.conf: regular
+/etc/speech-dispatcher/modules/pico-generic.conf: regular
+/etc/speech-dispatcher/modules/dtk-generic.conf: regular
+/etc/speech-dispatcher/modules/cicero.conf: regular
+/etc/speech-dispatcher/modules/epos-generic.conf: regular
+/etc/speech-dispatcher/modules/ibmtts.conf: regular
+/etc/speech-dispatcher/clients: directory
+/etc/speech-dispatcher/clients/gnome-speech.conf: regular
+/etc/speech-dispatcher/clients/emacs.conf: regular
+/etc/bash_completion.dpkg-new: regular
+/etc/hosts.allow: regular
+/etc/mysql: directory
+/etc/mysql/my.cnf: symbolic link
+/etc/mysql/my.cnf.fallback: regular
+/etc/mysql/conf.d: directory
+/etc/mysql/conf.d/mysqldump.cnf: regular
+/etc/mysql/conf.d/mysql.cnf: regular
+/etc/NetworkManager: directory
+/etc/NetworkManager/NetworkManager.conf: regular
+/etc/NetworkManager/dispatcher.d: directory
+/etc/NetworkManager/dispatcher.d/pre-down.d: directory
+/etc/NetworkManager/dispatcher.d/pre-up.d: directory
+/etc/NetworkManager/dispatcher.d/01ifupdown: regular
+/etc/NetworkManager/VPN: directory
+/etc/NetworkManager/VPN/nm-pptp-service.name: regular
+/etc/NetworkManager/dnsmasq.d: directory
+/etc/NetworkManager/conf.d: directory
+/etc/NetworkManager/system-connections: directory
+/etc/init.d: directory
+/etc/init.d/console-setup: regular
+/etc/init.d/dns-clean: regular
+/etc/init.d/thermald: regular
+/etc/init.d/hostname.sh: regular
+/etc/init.d/apparmor.dpkg-new: regular
+/etc/init.d/mountall.sh: regular
+/etc/init.d/reboot: regular
+/etc/init.d/hwclock.sh: regular
+/etc/init.d/rc.local: regular
+/etc/init.d/ufw: regular
+/etc/init.d/checkroot.sh: regular
+/etc/init.d/umountnfs.sh: regular
+/etc/init.d/vmware-tools-thinprint: regular
+/etc/init.d/README: regular
+/etc/init.d/networking: regular
+/etc/init.d/x11-common: regular
+/etc/init.d/rsyslog: regular
+/etc/init.d/umountfs: regular
+/etc/init.d/brltty.dpkg-new: regular
+/etc/init.d/cron: regular
+/etc/init.d/speech-dispatcher: regular
+/etc/init.d/unattended-upgrades: regular
+/etc/init.d/sendsigs: regular
+/etc/init.d/lvm2: regular
+/etc/init.d/alsa-utils: regular
+/etc/init.d/.depend.start: regular
+/etc/init.d/cups: regular
+/etc/init.d/apparmor: regular
+/etc/init.d/skeleton: regular
+/etc/init.d/.depend.stop: regular
+/etc/init.d/pppd-dns: regular
+/etc/init.d/ondemand: regular
+/etc/init.d/cups-browsed: regular
+/etc/init.d/halt: regular
+/etc/init.d/single: regular
+/etc/init.d/sudo: regular
+/etc/init.d/rc: regular
+/etc/init.d/umountroot: regular
+/etc/init.d/gdm: regular
+/etc/init.d/dbus: regular
+/etc/init.d/.depend.boot: regular
+/etc/init.d/apport: regular
+/etc/init.d/resolvconf: regular
+/etc/init.d/kerneloops: regular
+/etc/init.d/grub-common: regular
+/etc/init.d/network-manager: regular
+/etc/init.d/killprocs: regular
+/etc/init.d/irqbalance: regular
+/etc/init.d/spamassassin: regular
+/etc/init.d/bluetooth.dpkg-new: regular
+/etc/init.d/checkroot-bootclean.sh: regular
+/etc/init.d/anacron: regular
+/etc/init.d/acpid: regular
+/etc/init.d/kmod: regular
+/etc/init.d/mountall-bootclean.sh: regular
+/etc/init.d/avahi-daemon: regular
+/etc/init.d/rsync: regular
+/etc/init.d/mountdevsubfs.sh: regular
+/etc/init.d/saned: regular
+/etc/init.d/bluetooth: regular
+/etc/init.d/brltty: regular
+/etc/init.d/vmware-tools: regular
+/etc/init.d/urandom: regular
+/etc/init.d/procps: regular
+/etc/init.d/bootmisc.sh: regular
+/etc/init.d/rcS: regular
+/etc/init.d/udev: regular
+/etc/init.d/proftpd: regular
+/etc/init.d/mountkernfs.sh: regular
+/etc/init.d/checkfs.sh: regular
+/etc/init.d/uuidd: regular
+/etc/init.d/mountnfs-bootclean.sh: regular
+/etc/init.d/whoopsie: regular
+/etc/init.d/mountnfs.sh: regular
+/etc/init.d/dbus.dpkg-new: regular
+/etc/obex-data-server: directory
+/etc/obex-data-server/capability.xml: regular
+/etc/obex-data-server/imaging_capabilities.xml: regular
+/etc/depmod.d: directory
+/etc/depmod.d/ubuntu.conf: regular
+/etc/ifplugd: directory
+/etc/ifplugd/action.d: directory
+/etc/ifplugd/action.d/action_wpa: symbolic link
+/etc/rc1.d: directory
+/etc/rc1.d/S01killprocs: symbolic link
+/etc/rc1.d/K01alsa-utils: symbolic link
+/etc/rc1.d/K01gdm: symbolic link
+/etc/rc1.d/K01thermald: symbolic link
+/etc/rc1.d/README: regular
+/etc/rc1.d/K01spamassassin: symbolic link
+/etc/rc1.d/S01dns-clean: symbolic link
+/etc/rc1.d/K01irqbalance: symbolic link
+/etc/rc1.d/K01bluetooth: symbolic link
+/etc/rc1.d/K01whoopsie: symbolic link
+/etc/rc1.d/K04rsyslog: symbolic link
+/etc/rc1.d/K01vmware-tools-thinprint: symbolic link
+/etc/rc1.d/K01proftpd: symbolic link
+/etc/rc1.d/K01saned: symbolic link
+/etc/rc1.d/K01speech-dispatcher: symbolic link
+/etc/rc1.d/K01kerneloops: symbolic link
+/etc/rc1.d/K02avahi-daemon: symbolic link
+/etc/rc1.d/K01uuidd: symbolic link
+/etc/rc1.d/S02single: symbolic link
+/etc/rc1.d/K01ufw: symbolic link
+/etc/rc1.d/K02cups: symbolic link
+/etc/rc1.d/K01cups-browsed: symbolic link
+/etc/kernel-img.conf: regular
+/etc/gnome-app-install: directory
+/etc/gnome-app-install/packages-whitelist: regular
+/etc/dleyna-server-service.conf: regular
+/etc/calendar: directory
+/etc/calendar/default: regular
+/etc/dconf: directory
+/etc/dconf/profile: directory
+/etc/dconf/profile/ibus: regular
+/etc/dconf/db: directory
+/etc/dconf/db/gdm.d: directory
+/etc/dconf/db/ibus: regular
+/etc/dconf/db/gdm: regular
+/etc/dconf/db/ibus.d: directory
+/etc/dconf/db/ibus.d/00-upstream-settings: regular
+/etc/cups: directory
+/etc/cups/raw.types: regular
+/etc/cups/ssl: directory
+/etc/cups/ssl/server.crt: symbolic link
+/etc/cups/ssl/server.key: symbolic link
+/etc/cups/subscriptions.conf: regular
+/etc/cups/printers.conf: regular
+/etc/cups/interfaces: directory
+/etc/cups/cupsd.conf: regular
+/etc/cups/cups-files.conf: regular
+/etc/cups/subscriptions.conf.O: regular
+/etc/cups/ppd: directory
+/etc/cups/ppd/VMware_Virtual_Printer.ppd: symbolic link
+/etc/cups/raw.convs: regular
+/etc/cups/snmp.conf: regular
+/etc/cups/cups-browsed.conf: regular
+/etc/rsyslog.d: directory
+/etc/rsyslog.d/50-default.conf: regular
+/etc/rsyslog.d/20-ufw.conf: regular
+/etc/rc4.d: directory
+/etc/rc4.d/S02thermald: symbolic link
+/etc/rc4.d/S02acpid: symbolic link
+/etc/rc4.d/S04cups: symbolic link
+/etc/rc4.d/S02irqbalance: symbolic link
+/etc/rc4.d/README: regular
+/etc/rc4.d/S04saned: symbolic link
+/etc/rc4.d/S02cron: symbolic link
+/etc/rc4.d/S01dns-clean: symbolic link
+/etc/rc4.d/S06grub-common: symbolic link
+/etc/rc4.d/S02rsync: symbolic link
+/etc/rc4.d/S01uuidd: symbolic link
+/etc/rc4.d/S05vmware-tools-thinprint: symbolic link
+/etc/rc4.d/S02proftpd: symbolic link
+/etc/rc4.d/S03avahi-daemon: symbolic link
+/etc/rc4.d/S02whoopsie: symbolic link
+/etc/rc4.d/S01apport: symbolic link
+/etc/rc4.d/S02spamassassin: symbolic link
+/etc/rc4.d/S01rsyslog: symbolic link
+/etc/rc4.d/S06rc.local: symbolic link
+/etc/rc4.d/S06ondemand: symbolic link
+/etc/rc4.d/S02anacron: symbolic link
+/etc/rc4.d/S02dbus: symbolic link
+/etc/rc4.d/S02kerneloops: symbolic link
+/etc/rc4.d/S04gdm: symbolic link
+/etc/rc4.d/S02speech-dispatcher: symbolic link
+/etc/rc4.d/S03bluetooth: symbolic link
+/etc/rc4.d/S04cups-browsed: symbolic link
+/etc/lsb-release: regular
+/etc/UPower: directory
+/etc/UPower/UPower.conf: regular
+/etc/timidity: directory
+/etc/timidity/freepats.cfg: regular
+/etc/apparmor: directory
+/etc/apparmor/parser.conf.dpkg-new: regular
+/etc/apparmor/subdomain.conf: regular
+/etc/apparmor/init: directory
+/etc/apparmor/init/network-interface-security: directory
+/etc/apparmor/init/network-interface-security/sbin.dhclient: symbolic link
+/etc/apparmor/subdomain.conf.dpkg-new: regular
+/etc/apparmor/parser.conf: regular
+/etc/gconf: directory
+/etc/gconf/2: directory
+/etc/gconf/2/path: regular
+/etc/gconf/2/evoldap.conf: regular
+/etc/gconf/gconf.xml.defaults: directory
+/etc/gconf/gconf.xml.defaults/%gconf-tree.xml: regular
+/etc/gconf/gconf.xml.mandatory: directory
+/etc/gconf/gconf.xml.mandatory/%gconf-tree.xml: regular
+/etc/updatedb.conf: regular
+/etc/nsswitch.conf: regular
+/etc/profile: regular
+/etc/terminfo: directory
+/etc/terminfo/README: regular
+/etc/legal: regular
+/etc/magic: regular
+/etc/geoclue: directory
+/etc/geoclue/geoclue.conf: regular
+/etc/pam.conf: regular
+/etc/systemd: directory
+/etc/systemd/resolved.conf: regular
+/etc/systemd/system: directory
+/etc/systemd/system/kexec.target.wants: directory
+/etc/systemd/system/kexec.target.wants/plymouth-kexec.service: symbolic link
+/etc/systemd/system/display-manager.service.wants: directory
+/etc/systemd/system/display-manager.service.wants/gpu-manager.service: symbolic link
+/etc/systemd/system/halt.target.wants: directory
+/etc/systemd/system/halt.target.wants/plymouth-halt.service: symbolic link
+/etc/systemd/system/dbus-org.bluez.service: symbolic link
+/etc/systemd/system/syslog.service: symbolic link
+/etc/systemd/system/sockets.target.wants: directory
+/etc/systemd/system/sockets.target.wants/avahi-daemon.socket: symbolic link
+/etc/systemd/system/sockets.target.wants/cups.socket: symbolic link
+/etc/systemd/system/sockets.target.wants/uuidd.socket: symbolic link
+/etc/systemd/system/sockets.target.wants/acpid.socket: symbolic link
+/etc/systemd/system/display-manager.service: symbolic link
+/etc/systemd/system/printer.target.wants: directory
+/etc/systemd/system/printer.target.wants/cups.service: symbolic link
+/etc/systemd/system/dbus-org.freedesktop.ModemManager1.service: symbolic link
+/etc/systemd/system/hibernate.target.wants: directory
+/etc/systemd/system/hibernate.target.wants/anacron-resume.service: symbolic link
+/etc/systemd/system/hybrid-sleep.target.wants: directory
+/etc/systemd/system/hybrid-sleep.target.wants/anacron-resume.service: symbolic link
+/etc/systemd/system/reboot.target.wants: directory
+/etc/systemd/system/reboot.target.wants/plymouth-reboot.service: symbolic link
+/etc/systemd/system/plymouth.service: symbolic link
+/etc/systemd/system/shutdown.target.wants: directory
+/etc/systemd/system/shutdown.target.wants/unattended-upgrades.service: symbolic link
+/etc/systemd/system/plymouth-log.service: symbolic link
+/etc/systemd/system/network-online.target.wants: directory
+/etc/systemd/system/network-online.target.wants/NetworkManager-wait-online.service: symbolic link
+/etc/systemd/system/getty.target.wants: directory
+/etc/systemd/system/getty.target.wants/getty@tty1.service: symbolic link
+/etc/systemd/system/multi-user.target.wants: directory
+/etc/systemd/system/multi-user.target.wants/pppd-dns.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/remote-fs.target: symbolic link
+/etc/systemd/system/multi-user.target.wants/thermald.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/cups.path: symbolic link
+/etc/systemd/system/multi-user.target.wants/whoopsie.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/cron.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/rsyslog.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/cups-browsed.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/NetworkManager.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/plymouth-quit-wait.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/ufw.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/avahi-daemon.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/ModemManager.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/plymouth-quit.service: symbolic link
+/etc/systemd/system/multi-user.target.wants/anacron.service: symbolic link
+/etc/systemd/system/graphical.target.wants: directory
+/etc/systemd/system/graphical.target.wants/accounts-daemon.service: symbolic link
+/etc/systemd/system/suspend.target.wants: directory
+/etc/systemd/system/suspend.target.wants/anacron-resume.service: symbolic link
+/etc/systemd/system/poweroff.target.wants: directory
+/etc/systemd/system/poweroff.target.wants/plymouth-poweroff.service: symbolic link
+/etc/systemd/system/dbus-org.freedesktop.nm-dispatcher.service: symbolic link
+/etc/systemd/system/bluetooth.target.wants: directory
+/etc/systemd/system/bluetooth.target.wants/bluetooth.service: symbolic link
+/etc/systemd/system/dbus-org.freedesktop.thermald.service: symbolic link
+/etc/systemd/system/sysinit.target.wants: directory
+/etc/systemd/system/sysinit.target.wants/systemd-timesyncd.service: symbolic link
+/etc/systemd/system/sysinit.target.wants/resolvconf.service: symbolic link
+/etc/systemd/system/sysinit.target.wants/plymouth-read-write.service: symbolic link
+/etc/systemd/system/sysinit.target.wants/friendly-recovery.service: symbolic link
+/etc/systemd/system/sysinit.target.wants/plymouth-start.service: symbolic link
+/etc/systemd/system/sysinit.target.wants/brltty.service: symbolic link
+/etc/systemd/system/default.target.wants: directory
+/etc/systemd/system/default.target.wants/ureadahead.service: symbolic link
+/etc/systemd/system/dbus-org.freedesktop.Avahi.service: symbolic link
+/etc/systemd/journald.conf: regular
+/etc/systemd/timesyncd.conf: regular
+/etc/systemd/user: directory
+/etc/systemd/logind.conf: regular
+/etc/systemd/user.conf: regular
+/etc/systemd/bootchart.conf: regular
+/etc/systemd/system.conf: regular
+/etc/systemd/network: directory
+/etc/dictionaries-common: directory
+/etc/dictionaries-common/words: symbolic link
+/etc/dictionaries-common/ispell-default: regular
+/etc/hostname: regular
+/etc/pki: directory
+/etc/pki/nssdb: symbolic link
+/etc/vim: directory
+/etc/vim/vimrc: regular
+/etc/vim/vimrc.tiny: regular
+/etc/hosts.deny: regular
+/etc/sgml: directory
+/etc/sgml/xml-core.cat: regular
+/etc/sgml/catalog: symbolic link
+/etc/X11: directory
+/etc/X11/xinit: directory
+/etc/X11/xinit/xinitrc.d: directory
+/etc/X11/xinit/xinitrc.d/50-systemd-user.sh: regular
+/etc/X11/xinit/xinitrc: regular
+/etc/X11/xinit/xserverrc: regular
+/etc/X11/xinit/xinputrc: regular
+/etc/X11/Xsession.d: directory
+/etc/X11/Xsession.d/00upstart: regular
+/etc/X11/Xsession.d/60xdg-user-dirs-update: regular
+/etc/X11/Xsession.d/75dbus_dbus-launch: regular
+/etc/X11/Xsession.d/99upstart: regular
+/etc/X11/Xsession.d/50x11-common_determine-startup: regular
+/etc/X11/Xsession.d/70im-config_launch: regular
+/etc/X11/Xsession.d/30x11-common_xresources: regular
+/etc/X11/Xsession.d/35x11-common_xhost-local: regular
+/etc/X11/Xsession.d/90x11-common_ssh-agent: regular
+/etc/X11/Xsession.d/99x11-common_start: regular
+/etc/X11/Xsession.d/55gnome-session_gnomerc: regular
+/etc/X11/Xsession.d/90qt-a11y: regular
+/etc/X11/Xsession.d/60xbrlapi: regular
+/etc/X11/Xsession.d/60x11-common_xdg_path: regular
+/etc/X11/Xsession.d/60x11-common_localhost: regular
+/etc/X11/Xsession.d/40x11-common_xsessionrc: regular
+/etc/X11/Xsession.d/70gconfd_path-on-session: regular
+/etc/X11/Xsession.d/20x11-common_process-args: regular
+/etc/X11/rgb.txt: regular
+/etc/X11/Xresources: directory
+/etc/X11/Xresources/x11-common: regular
+/etc/X11/Xsession: regular
+/etc/X11/Xsession.options: regular
+/etc/X11/app-defaults: directory
+/etc/X11/app-defaults/Xedit: regular
+/etc/X11/app-defaults/XClock: regular
+/etc/X11/app-defaults/XClock-color: regular
+/etc/X11/app-defaults/XMore: regular
+/etc/X11/app-defaults/UXTerm: regular
+/etc/X11/app-defaults/Xgc: regular
+/etc/X11/app-defaults/Bitmap-color: regular
+/etc/X11/app-defaults/XClipboard: regular
+/etc/X11/app-defaults/Xditview: regular
+/etc/X11/app-defaults/XLogo-color: regular
+/etc/X11/app-defaults/Xfd: regular
+/etc/X11/app-defaults/XCalc-color: regular
+/etc/X11/app-defaults/XLoad: regular
+/etc/X11/app-defaults/XConsole: regular
+/etc/X11/app-defaults/XSm: regular
+/etc/X11/app-defaults/Viewres: regular
+/etc/X11/app-defaults/XTerm-color: regular
+/etc/X11/app-defaults/Editres: regular
+/etc/X11/app-defaults/Bitmap-nocase: regular
+/etc/X11/app-defaults/KOI8RXTerm-color: regular
+/etc/X11/app-defaults/Editres-color: regular
+/etc/X11/app-defaults/Xmag: regular
+/etc/X11/app-defaults/Xmessage: regular
+/etc/X11/app-defaults/XLogo: regular
+/etc/X11/app-defaults/Xman: regular
+/etc/X11/app-defaults/Xmessage-color: regular
+/etc/X11/app-defaults/Clock-color: regular
+/etc/X11/app-defaults/Xvidtune: regular
+/etc/X11/app-defaults/Xgc-color: regular
+/etc/X11/app-defaults/XCalc: regular
+/etc/X11/app-defaults/Xditview-chrtr: regular
+/etc/X11/app-defaults/Viewres-color: regular
+/etc/X11/app-defaults/Bitmap: regular
+/etc/X11/app-defaults/UXTerm-color: regular
+/etc/X11/app-defaults/XTerm: regular
+/etc/X11/app-defaults/XFontSel: regular
+/etc/X11/app-defaults/KOI8RXTerm: regular
+/etc/X11/app-defaults/Xedit-color: regular
+/etc/X11/Xwrapper.config: regular
+/etc/X11/xsm: directory
+/etc/X11/xsm/system.xsm: regular
+/etc/X11/fonts: directory
+/etc/X11/fonts/Type1: directory
+/etc/X11/fonts/Type1/xfonts-mathml.scale: regular
+/etc/X11/fonts/Type1/xfonts-scalable.scale: regular
+/etc/X11/fonts/misc: directory
+/etc/X11/fonts/misc/xfonts-base.alias: regular
+/etc/X11/xkb: directory
+/etc/X11/Xreset.d: directory
+/etc/X11/Xreset.d/README: regular
+/etc/X11/Xreset: regular
+/etc/X11/default-display-manager: regular
+/etc/kbd: directory
+/etc/kbd/config: regular
+/etc/kbd/remap: regular
+/etc/magic.mime: regular
+/etc/usb_modeswitch.conf: regular
+/etc/mailcap: regular
+/etc/iftab: regular
+/etc/brlapi.key: regular
+/etc/bash.bashrc: regular
+/etc/polkit-1: directory
+/etc/polkit-1/localauthority: directory
+/etc/polkit-1/localauthority/20-org.d: directory
+/etc/polkit-1/localauthority/90-mandatory.d: directory
+/etc/polkit-1/localauthority/30-site.d: directory
+/etc/polkit-1/localauthority/10-vendor.d: directory
+/etc/polkit-1/localauthority/50-local.d: directory
+/etc/polkit-1/localauthority.conf.d: directory
+/etc/polkit-1/localauthority.conf.d/50-localauthority.conf: regular
+/etc/polkit-1/localauthority.conf.d/51-ubuntu-admin.conf: regular
+/etc/polkit-1/nullbackend.conf.d: directory
+/etc/polkit-1/nullbackend.conf.d/50-nullbackend.conf: regular
+/etc/host.conf: regular
+/etc/gtk-3.0: directory
+/etc/gtk-3.0/im-multipress.conf: regular
+/etc/gtk-3.0/settings.ini: regular
+/etc/cupshelpers: directory
+/etc/cupshelpers/preferreddrivers.xml: regular
+/etc/ucf.conf: regular
+/etc/insserv.conf.d: directory
+/etc/insserv.conf.d/gdm: regular
+/etc/chatscripts: directory
+/etc/chatscripts/gprs: regular
+/etc/chatscripts/provider: regular
+/etc/chatscripts/pap: regular
+/etc/subuid-: regular
+/etc/netscsid.conf: regular
+/etc/init: directory
+/etc/init/udevtrigger.conf: regular
+/etc/init/bluetooth.conf: regular
+/etc/init/hwclock-save.conf: regular
+/etc/init/plymouth.conf: regular
+/etc/init/console.conf: regular
+/etc/init/rfkill-restore.conf: regular
+/etc/init/mountnfs-bootclean.sh.conf: regular
+/etc/init/hwclock.conf: regular
+/etc/init/rcS.conf: regular
+/etc/init/tty6.conf: regular
+/etc/init/mountall-reboot.conf: regular
+/etc/init/udev.conf: regular
+/etc/init/kmod.conf: regular
+/etc/init/bluetooth.conf.dpkg-new: regular
+/etc/init/dbus.conf.dpkg-new: regular
+/etc/init/plymouth-splash.conf: regular
+/etc/init/network-manager.conf: regular
+/etc/init/thermald.conf: regular
+/etc/init/failsafe-x.conf: regular
+/etc/init/console-font.conf: regular
+/etc/init/plymouth-shutdown.conf: regular
+/etc/init/console-setup.conf: regular
+/etc/init/network-interface-security.conf: regular
+/etc/init/tty1.conf: regular
+/etc/init/apparmor.conf: regular
+/etc/init/mountall-shell.conf: regular
+/etc/init/mountall.sh.conf: regular
+/etc/init/mounted-run.conf: regular
+/etc/init/plymouth-log.conf: regular
+/etc/init/avahi-daemon.conf: regular
+/etc/init/whoopsie.conf: regular
+/etc/init/hostname.conf: regular
+/etc/init/alsa-utils.conf: regular
+/etc/init/upstart-socket-bridge.conf: regular
+/etc/init/friendly-recovery.conf: regular
+/etc/init/plymouth-upstart-bridge.conf: regular
+/etc/init/modemmanager.conf: regular
+/etc/init/acpid.conf: regular
+/etc/init/plymouth-ready.conf: regular
+/etc/init/passwd.conf: regular
+/etc/init/irqbalance.conf: regular
+/etc/init/checkfs.sh.conf: regular
+/etc/init/mountkernfs.sh.conf: regular
+/etc/init/wait-for-state.conf: regular
+/etc/init/mountnfs.sh.conf: regular
+/etc/init/procps-instance.conf: regular
+/etc/init/mounted-dev.conf: regular
+/etc/init/mountall-bootclean.sh.conf: regular
+/etc/init/ufw.conf: regular
+/etc/init/alsa-restore.conf: regular
+/etc/init/rc.conf: regular
+/etc/init/gdm.conf: regular
+/etc/init/rc-sysinit.conf: regular
+/etc/init/mounted-proc.conf: regular
+/etc/init/mounted-var.conf: regular
+/etc/init/dmesg.conf: regular
+/etc/init/setvtrgb.conf: regular
+/etc/init/mountall-net.conf: regular
+/etc/init/bootmisc.sh.conf: regular
+/etc/init/upstart-file-bridge.conf: regular
+/etc/init/ureadahead-other.conf: regular
+/etc/init/resolvconf.conf: regular
+/etc/init/cups.conf: regular
+/etc/init/mounted-tmp.conf: regular
+/etc/init/udevmonitor.conf: regular
+/etc/init/tty3.conf: regular
+/etc/init/network-interface-container.conf: regular
+/etc/init/upstart-udev-bridge.conf: regular
+/etc/init/alsa-store.conf: regular
+/etc/init/mounted-debugfs.conf: regular
+/etc/init/apport.conf: regular
+/etc/init/checkroot.sh.conf: regular
+/etc/init/anacron.conf: regular
+/etc/init/plymouth-stop.conf: regular
+/etc/init/network-interface.conf: regular
+/etc/init/tty4.conf: regular
+/etc/init/cron.conf: regular
+/etc/init/flush-early-job-log.conf: regular
+/etc/init/failsafe.conf: regular
+/etc/init/networking.conf: regular
+/etc/init/checkroot-bootclean.sh.conf: regular
+/etc/init/apparmor.conf.dpkg-new: regular
+/etc/init/tty2.conf: regular
+/etc/init/ureadahead.conf: regular
+/etc/init/hostname.sh.conf: regular
+/etc/init/gpu-manager.conf: regular
+/etc/init/hwclock.sh.conf: regular
+/etc/init/mountall.conf: regular
+/etc/init/avahi-cups-reload.conf: regular
+/etc/init/shutdown.conf: regular
+/etc/init/tty5.conf: regular
+/etc/init/control-alt-delete.conf: regular
+/etc/init/usb-modeswitch-upstart.conf: regular
+/etc/init/alsa-state.conf: regular
+/etc/init/rsyslog.conf: regular
+/etc/init/container-detect.conf: regular
+/etc/init/mountdevsubfs.sh.conf: regular
+/etc/init/rfkill-store.conf: regular
+/etc/init/mtab.sh.conf: regular
+/etc/init/dbus.conf: regular
+/etc/init/cups-browsed.conf: regular
+/etc/init/procps.conf: regular
+/etc/dbus-1: directory
+/etc/dbus-1/system.conf.dpkg-new: regular
+/etc/dbus-1/session.conf: regular
+/etc/dbus-1/session.d: directory
+/etc/dbus-1/session.conf.dpkg-new: regular
+/etc/dbus-1/system.d: directory
+/etc/dbus-1/system.d/bluetooth.conf: regular
+/etc/dbus-1/system.d/com.ubuntu.SystemService.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.network1.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.login1.conf: regular
+/etc/dbus-1/system.d/org.debian.AptXapianIndex.conf: regular
+/etc/dbus-1/system.d/com.redhat.NewPrinterNotification.conf: regular
+/etc/dbus-1/system.d/com.hp.hplip.conf: regular
+/etc/dbus-1/system.d/bluetooth.conf.dpkg-new: regular
+/etc/dbus-1/system.d/org.freedesktop.realmd.conf: regular
+/etc/dbus-1/system.d/com.redhat.PrinterDriversInstaller.conf: regular
+/etc/dbus-1/system.d/Mountall.Server.conf: regular
+/etc/dbus-1/system.d/nm-ofono.conf: regular
+/etc/dbus-1/system.d/com.ubuntu.SoftwareProperties.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.PolicyKit1.conf: regular
+/etc/dbus-1/system.d/com.ubuntu.USBCreator.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.hostname1.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.systemd1.conf: regular
+/etc/dbus-1/system.d/com.ubuntu.SoftwareCenter.conf: regular
+/etc/dbus-1/system.d/nm-avahi-autoipd.conf: regular
+/etc/dbus-1/system.d/dnsmasq.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.PackageKit-aptd.conf: regular
+/etc/dbus-1/system.d/nm-dispatcher.conf: regular
+/etc/dbus-1/system.d/com.ubuntu.LanguageSelector.conf: regular
+/etc/dbus-1/system.d/gdm.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.GeoClue2.Agent.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.GeoClue2.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.RealtimeKit1.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.Accounts.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.UDisks2.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.locale1.conf: regular
+/etc/dbus-1/system.d/pulseaudio-system.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.ColorManager.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.resolve1.conf: regular
+/etc/dbus-1/system.d/avahi-dbus.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.ModemManager1.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.UPower.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.timedate1.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.thermald.conf: regular
+/etc/dbus-1/system.d/kerneloops.dbus: regular
+/etc/dbus-1/system.d/org.debian.apt.conf: regular
+/etc/dbus-1/system.d/nm-pptp-service.conf: regular
+/etc/dbus-1/system.d/org.freedesktop.NetworkManager.conf: regular
+/etc/dbus-1/system.d/org.opensuse.CupsPkHelper.Mechanism.conf: regular
+/etc/dbus-1/system.d/wpa_supplicant.conf: regular
+/etc/dbus-1/system.d/Upstart.conf: regular
+/etc/dbus-1/system.conf: regular
+/etc/dnsmasq.d: directory
+/etc/dnsmasq.d/network-manager: regular
+/etc/crontab: regular
+/etc/gnome: directory
+/etc/gnome/menus.blacklist: regular
+/etc/gnome/defaults.list: regular
+/etc/gdm: directory
+/etc/gdm/PostSession: directory
+/etc/gdm/PostSession/Default: regular
+/etc/gdm/Xsession: regular
+/etc/gdm/Init: directory
+/etc/gdm/Init/Default: regular
+/etc/gdm/Prime: directory
+/etc/gdm/Prime/Default: regular
+/etc/gdm/PrimeOff: directory
+/etc/gdm/PrimeOff/Default: regular
+/etc/gdm/PostLogin: directory
+/etc/gdm/PostLogin/Default.sample: regular
+/etc/gdm/greeter.gsettings: regular
+/etc/gdm/config-error-dialog.sh: regular
+/etc/gdm/PreSession: directory
+/etc/gdm/PreSession/Default: regular
+/etc/gdm/custom.conf: regular
+/etc/update-notifier: directory
+/etc/inputrc: regular
+/etc/login.defs: regular
+/etc/insserv: directory
+/etc/insserv/overrides: directory
+/etc/wodim.conf: regular
+/etc/pnm2ppa.conf: regular
+/etc/rc0.d: directory
+/etc/rc0.d/K01alsa-utils: symbolic link
+/etc/rc0.d/K01resolvconf: symbolic link
+/etc/rc0.d/K05umountnfs.sh: symbolic link
+/etc/rc0.d/K01gdm: symbolic link
+/etc/rc0.d/K01thermald: symbolic link
+/etc/rc0.d/K01urandom: symbolic link
+/etc/rc0.d/README: regular
+/etc/rc0.d/K08umountfs: symbolic link
+/etc/rc0.d/K10halt: symbolic link
+/etc/rc0.d/K01spamassassin: symbolic link
+/etc/rc0.d/K01unattended-upgrades: symbolic link
+/etc/rc0.d/K09umountroot: symbolic link
+/etc/rc0.d/K01irqbalance: symbolic link
+/etc/rc0.d/K06networking: symbolic link
+/etc/rc0.d/K01bluetooth: symbolic link
+/etc/rc0.d/K04rsyslog: symbolic link
+/etc/rc0.d/K01vmware-tools-thinprint: symbolic link
+/etc/rc0.d/K07vmware-tools: symbolic link
+/etc/rc0.d/K01proftpd: symbolic link
+/etc/rc0.d/K01speech-dispatcher: symbolic link
+/etc/rc0.d/K02avahi-daemon: symbolic link
+/etc/rc0.d/K01uuidd: symbolic link
+/etc/rc0.d/K03sendsigs: symbolic link
+/etc/rc0.d/K05hwclock.sh: symbolic link
+/etc/rc0.d/K01cups-browsed: symbolic link
+/etc/group-: regular
+/etc/apport: directory
+/etc/apport/crashdb.conf: regular
+/etc/apport/blacklist.d: directory
+/etc/apport/blacklist.d/firefox: regular
+/etc/apport/blacklist.d/apport: regular
+/etc/apport/blacklist.d/README.blacklist: regular
+/etc/apport/native-origins.d: directory
+/etc/apport/native-origins.d/firefox: regular
+/etc/drirc: regular
+/etc/environment: regular
+/etc/newt: directory
+/etc/newt/palette: symbolic link
+/etc/newt/palette.original: regular
+/etc/newt/palette.ubuntu: regular
+/etc/resolvconf: directory
+/etc/resolvconf/interface-order: regular
+/etc/resolvconf/update-libc.d: directory
+/etc/resolvconf/update-libc.d/avahi-daemon: regular
+/etc/resolvconf/resolv.conf.d: directory
+/etc/resolvconf/resolv.conf.d/base: regular
+/etc/resolvconf/resolv.conf.d/head: regular
+/etc/resolvconf/update.d: directory
+/etc/resolvconf/update.d/libc: regular
+/etc/fonts: directory
+/etc/fonts/conf.d: directory
+/etc/fonts/conf.d/90-ttf-malayalam-fonts.conf: symbolic link
+/etc/fonts/conf.d/64-13-tlwg-garuda.conf: symbolic link
+/etc/fonts/conf.d/90-ttf-tamil-fonts.conf: symbolic link
+/etc/fonts/conf.d/65-nonlatin.conf: symbolic link
+/etc/fonts/conf.d/89-tlwg-laksaman-synthetic.conf: symbolic link
+/etc/fonts/conf.d/20-unhint-small-vera.conf: symbolic link
+/etc/fonts/conf.d/50-user.conf: symbolic link
+/etc/fonts/conf.d/90-ttf-devanagari-fonts.conf: symbolic link
+/etc/fonts/conf.d/90-ttf-bengali-fonts.conf: symbolic link
+/etc/fonts/conf.d/90-fonts-nanum-coding.conf: symbolic link
+/etc/fonts/conf.d/20-unhint-small-dejavu-lgc-serif.conf: symbolic link
+/etc/fonts/conf.d/README: regular
+/etc/fonts/conf.d/65-0-fonts-guru-extra.conf: symbolic link
+/etc/fonts/conf.d/11-lcdfilter-default.conf: symbolic link
+/etc/fonts/conf.d/64-15-laksaman.conf: symbolic link
+/etc/fonts/conf.d/58-dejavu-lgc-serif.conf: symbolic link
+/etc/fonts/conf.d/69-language-selector-zh-tw.conf: symbolic link
+/etc/fonts/conf.d/69-language-selector-zh-hk.conf: symbolic link
+/etc/fonts/conf.d/58-dejavu-lgc-sans.conf: symbolic link
+/etc/fonts/conf.d/64-02-tlwg-norasi.conf: symbolic link
+/etc/fonts/conf.d/20-unhint-small-dejavu-sans.conf: symbolic link
+/etc/fonts/conf.d/69-unifont.conf: symbolic link
+/etc/fonts/conf.d/57-dejavu-sans-mono.conf: symbolic link
+/etc/fonts/conf.d/90-ttf-gujarati-fonts.conf: symbolic link
+/etc/fonts/conf.d/66-lohit-punjabi.conf: symbolic link
+/etc/fonts/conf.d/57-dejavu-sans.conf: symbolic link
+/etc/fonts/conf.d/80-delicious.conf: symbolic link
+/etc/fonts/conf.d/10-antialias.conf: symbolic link
+/etc/fonts/conf.d/99-language-selector-zh.conf: symbolic link
+/etc/fonts/conf.d/89-tlwg-umpush-synthetic.conf: symbolic link
+/etc/fonts/conf.d/49-sansserif.conf: symbolic link
+/etc/fonts/conf.d/51-local.conf: symbolic link
+/etc/fonts/conf.d/89-tlwg-garuda-synthetic.conf: symbolic link
+/etc/fonts/conf.d/64-23-tlwg-mono.conf: symbolic link
+/etc/fonts/conf.d/90-fonts-unfonts-core.conf: symbolic link
+/etc/fonts/conf.d/69-language-selector-zh-sg.conf: symbolic link
+/etc/fonts/conf.d/20-unhint-small-dejavu-sans-mono.conf: symbolic link
+/etc/fonts/conf.d/64-22-tlwg-typist.conf: symbolic link
+/etc/fonts/conf.d/58-dejavu-lgc-sans-mono.conf: symbolic link
+/etc/fonts/conf.d/40-nonlatin.conf: symbolic link
+/etc/fonts/conf.d/69-language-selector-zh-mo.conf: symbolic link
+/etc/fonts/conf.d/20-unhint-small-dejavu-lgc-sans-mono.conf: symbolic link
+/etc/fonts/conf.d/64-01-tlwg-kinnari.conf: symbolic link
+/etc/fonts/conf.d/64-14-tlwg-umpush.conf: symbolic link
+/etc/fonts/conf.d/30-cjk-aliases.conf: symbolic link
+/etc/fonts/conf.d/10-scale-bitmap-fonts.conf: symbolic link
+/etc/fonts/conf.d/57-dejavu-serif.conf: symbolic link
+/etc/fonts/conf.d/90-ttf-oriya-fonts.conf: symbolic link
+/etc/fonts/conf.d/31-cantarell.conf: symbolic link
+/etc/fonts/conf.d/89-tlwg-kinnari-synthetic.conf: symbolic link
+/etc/fonts/conf.d/20-unhint-small-dejavu-lgc-sans.conf: symbolic link
+/etc/fonts/conf.d/45-latin.conf: symbolic link
+/etc/fonts/conf.d/89-tlwg-loma-synthetic.conf: symbolic link
+/etc/fonts/conf.d/10-hinting-slight.conf: symbolic link
+/etc/fonts/conf.d/65-fonts-persian.conf: symbolic link
+/etc/fonts/conf.d/30-urw-aliases.conf: symbolic link
+/etc/fonts/conf.d/20-unhint-small-dejavu-serif.conf: symbolic link
+/etc/fonts/conf.d/89-tlwg-waree-synthetic.conf: symbolic link
+/etc/fonts/conf.d/65-droid-sans-fallback.conf: symbolic link
+/etc/fonts/conf.d/99pdftoopvp.conf: regular
+/etc/fonts/conf.d/10-hinting.conf: symbolic link
+/etc/fonts/conf.d/64-12-tlwg-loma.conf: symbolic link
+/etc/fonts/conf.d/90-ttf-telugu-fonts.conf: symbolic link
+/etc/fonts/conf.d/65-khmer.conf: regular
+/etc/fonts/conf.d/69-language-selector-zh-cn.conf: symbolic link
+/etc/fonts/conf.d/30-metric-aliases.conf: symbolic link
+/etc/fonts/conf.d/64-21-tlwg-typo.conf: symbolic link
+/etc/fonts/conf.d/70-no-bitmaps.conf: symbolic link
+/etc/fonts/conf.d/90-ttf-kannada-fonts.conf: symbolic link
+/etc/fonts/conf.d/64-11-tlwg-waree.conf: symbolic link
+/etc/fonts/conf.d/65-fonts-takao-pgothic.conf: symbolic link
+/etc/fonts/conf.d/90-synthetic.conf: symbolic link
+/etc/fonts/conf.d/60-latin.conf: symbolic link
+/etc/fonts/conf.d/90-fonts-nanum.conf: symbolic link
+/etc/fonts/conf.avail: directory
+/etc/fonts/conf.avail/70-force-bitmaps.conf: regular
+/etc/fonts/conf.avail/90-ttf-malayalam-fonts.conf: regular
+/etc/fonts/conf.avail/64-13-tlwg-garuda.conf: regular
+/etc/fonts/conf.avail/90-ttf-tamil-fonts.conf: regular
+/etc/fonts/conf.avail/65-nonlatin.conf: regular
+/etc/fonts/conf.avail/89-tlwg-laksaman-synthetic.conf: regular
+/etc/fonts/conf.avail/20-unhint-small-vera.conf: regular
+/etc/fonts/conf.avail/10-unhinted.conf: regular
+/etc/fonts/conf.avail/50-user.conf: regular
+/etc/fonts/conf.avail/90-ttf-devanagari-fonts.conf: regular
+/etc/fonts/conf.avail/90-ttf-bengali-fonts.conf: regular
+/etc/fonts/conf.avail/25-unhint-nonlatin.conf: regular
+/etc/fonts/conf.avail/20-unhint-small-dejavu-lgc-serif.conf: regular
+/etc/fonts/conf.avail/65-0-fonts-guru-extra.conf: directory
+/etc/fonts/conf.avail/65-0-fonts-guru-extra.conf/65-0-fonts-guru-extra.conf: regular
+/etc/fonts/conf.avail/11-lcdfilter-default.conf: regular
+/etc/fonts/conf.avail/64-15-laksaman.conf: regular
+/etc/fonts/conf.avail/58-dejavu-lgc-serif.conf: regular
+/etc/fonts/conf.avail/69-language-selector-zh-tw.conf: regular
+/etc/fonts/conf.avail/69-language-selector-zh-hk.conf: regular
+/etc/fonts/conf.avail/58-dejavu-lgc-sans.conf: regular
+/etc/fonts/conf.avail/64-02-tlwg-norasi.conf: regular
+/etc/fonts/conf.avail/20-unhint-small-dejavu-sans.conf: regular
+/etc/fonts/conf.avail/69-unifont.conf: regular
+/etc/fonts/conf.avail/57-dejavu-sans-mono.conf: regular
+/etc/fonts/conf.avail/90-ttf-gujarati-fonts.conf: regular
+/etc/fonts/conf.avail/10-hinting-full.conf: regular
+/etc/fonts/conf.avail/66-lohit-punjabi.conf: regular
+/etc/fonts/conf.avail/10-sub-pixel-vbgr.conf: regular
+/etc/fonts/conf.avail/10-autohint.conf: regular
+/etc/fonts/conf.avail/10-sub-pixel-rgb.conf: regular
+/etc/fonts/conf.avail/57-dejavu-sans.conf: regular
+/etc/fonts/conf.avail/80-delicious.conf: regular
+/etc/fonts/conf.avail/10-antialias.conf: regular
+/etc/fonts/conf.avail/99-language-selector-zh.conf: regular
+/etc/fonts/conf.avail/89-tlwg-umpush-synthetic.conf: regular
+/etc/fonts/conf.avail/49-sansserif.conf: regular
+/etc/fonts/conf.avail/51-local.conf: regular
+/etc/fonts/conf.avail/89-tlwg-garuda-synthetic.conf: regular
+/etc/fonts/conf.avail/64-23-tlwg-mono.conf: regular
+/etc/fonts/conf.avail/90-fonts-unfonts-core.conf: regular
+/etc/fonts/conf.avail/69-language-selector-zh-sg.conf: regular
+/etc/fonts/conf.avail/20-unhint-small-dejavu-sans-mono.conf: regular
+/etc/fonts/conf.avail/64-22-tlwg-typist.conf: regular
+/etc/fonts/conf.avail/58-dejavu-lgc-sans-mono.conf: regular
+/etc/fonts/conf.avail/40-nonlatin.conf: regular
+/etc/fonts/conf.avail/69-language-selector-zh-mo.conf: regular
+/etc/fonts/conf.avail/20-unhint-small-dejavu-lgc-sans-mono.conf: regular
+/etc/fonts/conf.avail/64-01-tlwg-kinnari.conf: regular
+/etc/fonts/conf.avail/64-14-tlwg-umpush.conf: regular
+/etc/fonts/conf.avail/53-monospace-lcd-filter.conf: regular
+/etc/fonts/conf.avail/30-cjk-aliases.conf: regular
+/etc/fonts/conf.avail/10-no-sub-pixel.conf: regular
+/etc/fonts/conf.avail/10-scale-bitmap-fonts.conf: regular
+/etc/fonts/conf.avail/57-dejavu-serif.conf: regular
+/etc/fonts/conf.avail/90-ttf-oriya-fonts.conf: regular
+/etc/fonts/conf.avail/31-cantarell.conf: regular
+/etc/fonts/conf.avail/89-tlwg-kinnari-synthetic.conf: regular
+/etc/fonts/conf.avail/20-unhint-small-dejavu-lgc-sans.conf: regular
+/etc/fonts/conf.avail/10-hinting-medium.conf: regular
+/etc/fonts/conf.avail/10-sub-pixel-vrgb.conf: regular
+/etc/fonts/conf.avail/45-latin.conf: regular
+/etc/fonts/conf.avail/10-sub-pixel-bgr.conf: regular
+/etc/fonts/conf.avail/89-tlwg-loma-synthetic.conf: regular
+/etc/fonts/conf.avail/10-hinting-slight.conf: regular
+/etc/fonts/conf.avail/65-fonts-persian.conf: regular
+/etc/fonts/conf.avail/30-urw-aliases.conf: regular
+/etc/fonts/conf.avail/20-unhint-small-dejavu-serif.conf: regular
+/etc/fonts/conf.avail/89-tlwg-waree-synthetic.conf: regular
+/etc/fonts/conf.avail/10-hinting.conf: regular
+/etc/fonts/conf.avail/64-12-tlwg-loma.conf: regular
+/etc/fonts/conf.avail/90-ttf-telugu-fonts.conf: regular
+/etc/fonts/conf.avail/65-khmer.conf: regular
+/etc/fonts/conf.avail/69-language-selector-zh-cn.conf: regular
+/etc/fonts/conf.avail/30-metric-aliases.conf: regular
+/etc/fonts/conf.avail/64-21-tlwg-typo.conf: regular
+/etc/fonts/conf.avail/69-droid-sans-fallback.conf: regular
+/etc/fonts/conf.avail/11-lcdfilter-light.conf: regular
+/etc/fonts/conf.avail/70-no-bitmaps.conf: regular
+/etc/fonts/conf.avail/90-ttf-kannada-fonts.conf: regular
+/etc/fonts/conf.avail/64-11-tlwg-waree.conf: regular
+/etc/fonts/conf.avail/65-fonts-takao-pgothic.conf: regular
+/etc/fonts/conf.avail/90-synthetic.conf: regular
+/etc/fonts/conf.avail/60-latin.conf: regular
+/etc/fonts/conf.avail/70-yes-bitmaps.conf: regular
+/etc/fonts/conf.avail/11-lcdfilter-legacy.conf: regular
+/etc/fonts/fonts.conf: regular
+/etc/passwd-: regular
+/etc/adduser.conf: regular
+/etc/modprobe.d: directory
+/etc/modprobe.d/mlx4.conf: regular
+/etc/modprobe.d/alsa-base.conf: regular
+/etc/modprobe.d/vmwgfx-fbdev.conf: regular
+/etc/modprobe.d/iwlwifi.conf: regular
+/etc/modprobe.d/blacklist-ath_pci.conf: regular
+/etc/modprobe.d/fbdev-blacklist.conf: regular
+/etc/modprobe.d/intel-microcode-blacklist.conf: regular
+/etc/modprobe.d/blacklist-modem.conf: regular
+/etc/modprobe.d/blacklist-rare-network.conf: regular
+/etc/modprobe.d/blacklist.conf: regular
+/etc/modprobe.d/blacklist-watchdog.conf: regular
+/etc/modprobe.d/blacklist-oss.conf: symbolic link
+/etc/modprobe.d/blacklist-framebuffer.conf: regular
+/etc/modprobe.d/blacklist-firewire.conf: regular
+/etc/services: regular
+/etc/libaudit.conf: regular
+/etc/emacs: directory
+/etc/emacs/site-start.d: directory
+/etc/emacs/site-start.d/50dictionaries-common.el: regular
+/etc/emacs/site-start.d/00debian-vars.el: regular
+/etc/emacs/site-start.el: regular
+/etc/bindresvport.blacklist: regular
+/etc/gshadow: regular
+/etc/printcap: symbolic link
+/etc/kernel: directory
+/etc/kernel/postrm.d: directory
+/etc/kernel/postrm.d/initramfs-tools: regular
+/etc/kernel/postrm.d/zz-update-grub: regular
+/etc/kernel/postinst.d: directory
+/etc/kernel/postinst.d/initramfs-tools: regular
+/etc/kernel/postinst.d/unattended-upgrades: regular
+/etc/kernel/postinst.d/update-notifier: symbolic link
+/etc/kernel/postinst.d/zz-update-grub: regular
+/etc/kernel/postinst.d/apt-auto-removal: regular
+/etc/kernel/preinst.d: directory
+/etc/kernel/preinst.d/intel-microcode: regular
+/etc/hdparm.conf: regular
+/etc/hosts: regular
+/etc/ltrace.conf: regular
+/etc/anacrontab: regular
+/etc/ppp: directory
+/etc/ppp/ip-down.d: directory
+/etc/ppp/ip-down.d/0dns-down: regular
+/etc/ppp/ip-down.d/0000usepeerdns: regular
+/etc/ppp/ip-down.d/000resolvconf: regular
+/etc/ppp/chap-secrets: regular
+/etc/ppp/ipv6-down: regular
+/etc/ppp/ipv6-up.d: directory
+/etc/ppp/ipv6-down.d: directory
+/etc/ppp/ip-up: regular
+/etc/ppp/options.pptp: regular
+/etc/ppp/pap-secrets: regular
+/etc/ppp/options: regular
+/etc/ppp/peers: directory
+/etc/ppp/peers/provider: regular
+/etc/ppp/ip-down: regular
+/etc/ppp/ipv6-up: regular
+/etc/ppp/ip-up.d: directory
+/etc/ppp/ip-up.d/0000usepeerdns: regular
+/etc/ppp/ip-up.d/000resolvconf: regular
+/etc/ppp/ip-up.d/0dns-up: regular
+/etc/ppp/resolv: directory
+/etc/shadow-: regular
+/etc/deluser.conf: regular
+/etc/ca-certificates.conf: regular
+/etc/spamassassin: directory
+/etc/spamassassin/v330.pre: regular
+/etc/spamassassin/65_debian.cf: regular
+/etc/spamassassin/sa-compile.pre: regular
+/etc/spamassassin/v310.pre: regular
+/etc/spamassassin/sa-update-hooks.d: directory
+/etc/spamassassin/v320.pre: regular
+/etc/spamassassin/local.cf: regular
+/etc/spamassassin/init.pre: regular
+/etc/spamassassin/v340.pre: regular
+/etc/spamassassin/v312.pre: regular
+/etc/groff: directory
+/etc/groff/mdoc.local: regular
+/etc/groff/man.local: regular
+/etc/python3: directory
+/etc/python3/debian_config: regular
+/etc/shells: regular
+/etc/lintianrc: regular
+/etc/apm: directory
+/etc/apm/resume.d: directory
+/etc/apm/resume.d/20alsa: symbolic link
+/etc/apm/scripts.d: directory
+/etc/apm/scripts.d/alsa: regular
+/etc/apm/suspend.d: directory
+/etc/apm/suspend.d/80alsa: symbolic link
+/etc/apm/event.d: directory
+/etc/apm/event.d/20hdparm: regular
+/etc/apm/event.d/anacron: regular
+/etc/rc6.d: directory
+/etc/rc6.d/K01alsa-utils: symbolic link
+/etc/rc6.d/K10reboot: symbolic link
+/etc/rc6.d/K01resolvconf: symbolic link
+/etc/rc6.d/K05umountnfs.sh: symbolic link
+/etc/rc6.d/K01gdm: symbolic link
+/etc/rc6.d/K01thermald: symbolic link
+/etc/rc6.d/K01urandom: symbolic link
+/etc/rc6.d/README: regular
+/etc/rc6.d/K08umountfs: symbolic link
+/etc/rc6.d/K01spamassassin: symbolic link
+/etc/rc6.d/K01unattended-upgrades: symbolic link
+/etc/rc6.d/K09umountroot: symbolic link
+/etc/rc6.d/K01irqbalance: symbolic link
+/etc/rc6.d/K06networking: symbolic link
+/etc/rc6.d/K01bluetooth: symbolic link
+/etc/rc6.d/K04rsyslog: symbolic link
+/etc/rc6.d/K01vmware-tools-thinprint: symbolic link
+/etc/rc6.d/K07vmware-tools: symbolic link
+/etc/rc6.d/K01proftpd: symbolic link
+/etc/rc6.d/K01speech-dispatcher: symbolic link
+/etc/rc6.d/K02avahi-daemon: symbolic link
+/etc/rc6.d/K01uuidd: symbolic link
+/etc/rc6.d/K03sendsigs: symbolic link
+/etc/rc6.d/K05hwclock.sh: symbolic link
+/etc/rc6.d/K01cups-browsed: symbolic link
+/etc/libpaper.d: directory
+/etc/os-release: regular
+/etc/group: regular
+/etc/ca-certificates: directory
+/etc/ca-certificates/update.d: directory
+/etc/skel: directory
+/etc/skel/.bash_logout: regular
+/etc/skel/.bashrc: regular
+/etc/skel/.profile: regular
+/etc/gai.conf: regular
+/etc/rcS.d: directory
+/etc/rcS.d/S02hostname.sh: symbolic link
+/etc/rcS.d/S02ufw: symbolic link
+/etc/rcS.d/README: regular
+/etc/rcS.d/S10mountnfs.sh: symbolic link
+/etc/rcS.d/S02x11-common: symbolic link
+/etc/rcS.d/S02resolvconf: symbolic link
+/etc/rcS.d/S02mountkernfs.sh: symbolic link
+/etc/rcS.d/S06checkroot.sh: symbolic link
+/etc/rcS.d/S01console-setup: symbolic link
+/etc/rcS.d/S08urandom: symbolic link
+/etc/rcS.d/S04mountdevsubfs.sh: symbolic link
+/etc/rcS.d/S11mountnfs-bootclean.sh: symbolic link
+/etc/rcS.d/S07checkfs.sh: symbolic link
+/etc/rcS.d/S09networking: symbolic link
+/etc/rcS.d/S02pppd-dns: symbolic link
+/etc/rcS.d/S02alsa-utils: symbolic link
+/etc/rcS.d/S12bootmisc.sh: symbolic link
+/etc/rcS.d/S05lvm2: symbolic link
+/etc/rcS.d/S05hwclock.sh: symbolic link
+/etc/rcS.d/S08kmod: symbolic link
+/etc/rcS.d/S02vmware-tools: symbolic link
+/etc/rcS.d/S09mountall.sh: symbolic link
+/etc/rcS.d/S04brltty: symbolic link
+/etc/rcS.d/S02apparmor: symbolic link
+/etc/rcS.d/S10mountall-bootclean.sh: symbolic link
+/etc/rcS.d/S03udev: symbolic link
+/etc/rcS.d/S08checkroot-bootclean.sh: symbolic link
+/etc/rcS.d/S04procps: symbolic link
+/etc/issue: regular
+/etc/gshadow-: regular
+/etc/gtk-2.0: directory
+/etc/gtk-2.0/im-multipress.conf: regular
+/etc/subgid-: regular
+/etc/passwd: regular
+/etc/gss: directory
+/etc/gss/mech.d: directory
+/etc/gss/mech.d/README: regular
+/etc/networks: regular
+/etc/bash_completion: regular
+/etc/mke2fs.conf: regular
+/etc/python: directory
+/etc/python/debian_config: regular
+/etc/pcmcia: directory
+/etc/pcmcia/config.opts: regular
+/etc/pam.d: directory
+/etc/pam.d/common-auth: regular
+/etc/pam.d/gdm-launch-environment: symbolic link
+/etc/pam.d/chpasswd: regular
+/etc/pam.d/cron: regular
+/etc/pam.d/common-session-noninteractive: regular
+/etc/pam.d/gdm-password: symbolic link
+/etc/pam.d/cups: regular
+/etc/pam.d/other: regular
+/etc/pam.d/newusers: regular
+/etc/pam.d/polkit-1: regular
+/etc/pam.d/sudo: regular
+/etc/pam.d/runuser-l: regular
+/etc/pam.d/gdm: regular
+/etc/pam.d/ppp: regular
+/etc/pam.d/common-account: regular
+/etc/pam.d/runuser: regular
+/etc/pam.d/passwd: regular
+/etc/pam.d/su: regular
+/etc/pam.d/accountsservice: regular
+/etc/pam.d/common-session: regular
+/etc/pam.d/systemd-user: regular
+/etc/pam.d/samba: regular
+/etc/pam.d/proftpd: regular
+/etc/pam.d/login: regular
+/etc/pam.d/gdm-autologin: regular
+/etc/pam.d/common-password: regular
+/etc/pam.d/chsh: regular
+/etc/pam.d/vmtoolsd: symbolic link
+/etc/pam.d/chfn: regular
+/etc/libreoffice: directory
+/etc/libreoffice/sofficerc: regular
+/etc/libreoffice/soffice.sh: regular
+/etc/libreoffice/sofficerc.dpkg-new: regular
+/etc/libreoffice/psprint.conf.dpkg-new: regular
+/etc/libreoffice/soffice.sh.dpkg-new: regular
+/etc/libreoffice/psprint.conf: regular
+/etc/bluetooth: directory
+/etc/bluetooth/network.conf.dpkg-new: regular
+/etc/bluetooth/input.conf: regular
+/etc/bluetooth/audio.conf.dpkg-remove: regular
+/etc/bluetooth/input.conf.dpkg-new: regular
+/etc/bluetooth/proximity.conf.dpkg-new: regular
+/etc/bluetooth/main.conf: regular
+/etc/bluetooth/main.conf.dpkg-new: regular
+/etc/bluetooth/serial.conf.dpkg-remove: regular
+/etc/bluetooth/proximity.conf: regular
+/etc/bluetooth/network.conf: regular
+/etc/bluetooth/rfcomm.conf.dpkg-remove: regular
+/etc/debian_version: regular
+/etc/at-spi2: directory
+/etc/at-spi2/accessibility.conf: regular
+/etc/pulse: directory
+/etc/pulse/system.pa: regular
+/etc/pulse/daemon.conf: regular
+/etc/pulse/default.pa.BeforeVMwareToolsInstall: regular
+/etc/pulse/client.conf: regular
+/etc/pulse/default.pa: regular
+/etc/apg.conf: regular
+/etc/xdg: directory
+/etc/xdg/user-dirs.conf: regular
+/etc/xdg/systemd: directory
+/etc/xdg/systemd/user: symbolic link
+/etc/xdg/menus: directory
+/etc/xdg/menus/gnome-applications.menu: regular
+/etc/xdg/Trolltech.conf: regular
+/etc/xdg/user-dirs.defaults: regular
+/etc/xdg/autostart: directory
+/etc/xdg/autostart/deja-dup-monitor.desktop: regular
+/etc/xdg/autostart/evolution-alarm-notify.desktop: regular
+/etc/xdg/autostart/gsettings-data-convert.desktop: regular
+/etc/xdg/autostart/gnome-keyring-gpg.desktop: regular
+/etc/xdg/autostart/indicator-application.desktop: regular
+/etc/xdg/autostart/tracker-miner-user-guides.desktop: regular
+/etc/xdg/autostart/gnome-keyring-pkcs11.desktop: regular
+/etc/xdg/autostart/print-applet.desktop: regular
+/etc/xdg/autostart/gnome-settings-daemon.desktop: regular
+/etc/xdg/autostart/tracker-miner-apps.desktop: regular
+/etc/xdg/autostart/pulseaudio.desktop: regular
+/etc/xdg/autostart/tracker-extract.desktop: regular
+/etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop: regular
+/etc/xdg/autostart/zeitgeist-datahub.desktop: regular
+/etc/xdg/autostart/nm-applet.desktop: regular
+/etc/xdg/autostart/update-notifier.desktop: regular
+/etc/xdg/autostart/gnome-keyring-secrets.desktop: regular
+/etc/xdg/autostart/notification-daemon-autostart.desktop: regular
+/etc/xdg/autostart/orca-autostart.desktop: regular
+/etc/xdg/autostart/nautilus-autostart.desktop: regular
+/etc/xdg/autostart/tracker-store.desktop: regular
+/etc/xdg/autostart/gnome-keyring-ssh.desktop: regular
+/etc/xdg/autostart/vmware-user.desktop: symbolic link
+/etc/xdg/autostart/user-dirs-update-gtk.desktop: regular
+/etc/xdg/autostart/tracker-miner-fs.desktop: regular
+/etc/xdg/autostart/at-spi-dbus-bus.desktop: regular
+/etc/xdg/autostart/gnome-user-share.desktop: regular
+/etc/xdg/autostart/vino-server.desktop: regular
+/etc/ld.so.conf.d: directory
+/etc/ld.so.conf.d/x86_64-linux-gnu_GL.conf: symbolic link
+/etc/ld.so.conf.d/x86_64-linux-gnu_EGL.conf: symbolic link
+/etc/ld.so.conf.d/vmware-tools-libraries.conf: regular
+/etc/ld.so.conf.d/libc.conf: regular
+/etc/ld.so.conf.d/x86_64-linux-gnu.conf: regular
+/etc/dpkg: directory
+/etc/dpkg/origins: directory
+/etc/dpkg/origins/debian: regular
+/etc/dpkg/origins/ubuntu: regular
+/etc/dpkg/origins/default: symbolic link
+/etc/dpkg/dpkg.cfg.d: directory
+/etc/dpkg/dpkg.cfg: regular
+/etc/ld.so.conf: regular
+/etc/nanorc: regular
+/etc/rmt: regular
+/etc/brltty: directory
+/etc/brltty/Text: directory
+/etc/brltty/Text/ta.ttb: regular
+/etc/brltty/Text/bengali.tti: regular
+/etc/brltty/Text/bh.ttb: regular
+/etc/brltty/Text/da-1252.ttb.dpkg-new: regular
+/etc/brltty/Text/de-chess.tti.dpkg-new: regular
+/etc/brltty/Text/telugu.tti: regular
+/etc/brltty/Text/sv-1989.ttb: regular
+/etc/brltty/Text/nl_BE.ttb.dpkg-new: regular
+/etc/brltty/Text/sv-1996.ttb.dpkg-new: regular
+/etc/brltty/Text/sv-1989.ttb.dpkg-new: regular
+/etc/brltty/Text/nl.ttb.dpkg-new: regular
+/etc/brltty/Text/hi.ttb: regular
+/etc/brltty/Text/da-lt.ttb.dpkg-new: regular
+/etc/brltty/Text/telugu.tti.dpkg-new: regular
+/etc/brltty/Text/sa.ttb: regular
+/etc/brltty/Text/num-dot6.tti: regular
+/etc/brltty/Text/kannada.tti.dpkg-new: regular
+/etc/brltty/Text/num-nemeth.tti: regular
+/etc/brltty/Text/lv.ttb: regular
+/etc/brltty/Text/bra.ttb: regular
+/etc/brltty/Text/fr-cbifs.ttb: regular
+/etc/brltty/Text/fr_CA.ttb: regular
+/etc/brltty/Text/gujarati.tti.dpkg-new: regular
+/etc/brltty/Text/en.ttb: regular
+/etc/brltty/Text/dra.ttb.dpkg-new: regular
+/etc/brltty/Text/brf.ttb: regular
+/etc/brltty/Text/boxes.tti: regular
+/etc/brltty/Text/bengali.tti.dpkg-new: regular
+/etc/brltty/Text/da-1252.ttb: regular
+/etc/brltty/Text/ltr-latin.tti.dpkg-new: regular
+/etc/brltty/Text/mg.ttb.dpkg-new: regular
+/etc/brltty/Text/fr_FR.ttb: regular
+/etc/brltty/Text/fr_CA.ttb.dpkg-new: regular
+/etc/brltty/Text/en-na-ascii.tti.dpkg-new: regular
+/etc/brltty/Text/tamil.tti: regular
+/etc/brltty/Text/cy.ttb: regular
+/etc/brltty/Text/spaces.tti.dpkg-new: regular
+/etc/brltty/Text/nl_BE.ttb: regular
+/etc/brltty/Text/de.ttb.dpkg-new: regular
+/etc/brltty/Text/punc-alternate.tti: regular
+/etc/brltty/Text/sl.ttb: regular
+/etc/brltty/Text/malayalam.tti: regular
+/etc/brltty/Text/num-dot8.tti: regular
+/etc/brltty/Text/num-dot8.tti.dpkg-new: regular
+/etc/brltty/Text/num-dot6.tti.dpkg-new: regular
+/etc/brltty/Text/nl.ttb: regular
+/etc/brltty/Text/hr.ttb.dpkg-new: regular
+/etc/brltty/Text/kru.ttb.dpkg-new: regular
+/etc/brltty/Text/ltr-tibetan.tti.dpkg-new: regular
+/etc/brltty/Text/kha.ttb.dpkg-new: regular
+/etc/brltty/Text/mg.ttb: regular
+/etc/brltty/Text/tr.ttb.dpkg-new: regular
+/etc/brltty/Text/fi.ttb: regular
+/etc/brltty/Text/hr.ttb: regular
+/etc/brltty/Text/de-chess.tti: regular
+/etc/brltty/Text/mi.ttb.dpkg-new: regular
+/etc/brltty/Text/gujarati.tti: regular
+/etc/brltty/Text/gu.ttb.dpkg-new: regular
+/etc/brltty/Text/no-generic.ttb: regular
+/etc/brltty/Text/en_US.ttb.dpkg-new: regular
+/etc/brltty/Text/as.ttb: regular
+/etc/brltty/Text/no-oup.ttb.dpkg-new: regular
+/etc/brltty/Text/et.ttb.dpkg-new: regular
+/etc/brltty/Text/ro.ttb: regular
+/etc/brltty/Text/awa.ttb: regular
+/etc/brltty/Text/pi.ttb: regular
+/etc/brltty/Text/nwc.ttb.dpkg-new: regular
+/etc/brltty/Text/num-french.tti.dpkg-new: regular
+/etc/brltty/Text/el.ttb: regular
+/etc/brltty/Text/ascii-basic.tti.dpkg-new: regular
+/etc/brltty/Text/en-chess.tti: regular
+/etc/brltty/Text/mr.ttb.dpkg-new: regular
+/etc/brltty/Text/vi.ttb.dpkg-new: regular
+/etc/brltty/Text/da-lt.ttb: regular
+/etc/brltty/Text/en-nabcc.ttb: regular
+/etc/brltty/Text/mni.ttb.dpkg-new: regular
+/etc/brltty/Text/en-chess.tti.dpkg-new: regular
+/etc/brltty/Text/pa.ttb.dpkg-new: regular
+/etc/brltty/Text/num-nemeth.tti.dpkg-new: regular
+/etc/brltty/Text/cs.ttb: regular
+/etc/brltty/Text/it.ttb.dpkg-new: regular
+/etc/brltty/Text/common.tti: regular
+/etc/brltty/Text/gurmukhi.tti: regular
+/etc/brltty/Text/kannada.tti: regular
+/etc/brltty/Text/eo.ttb.dpkg-new: regular
+/etc/brltty/Text/nwc.ttb: regular
+/etc/brltty/Text/fr.ttb.dpkg-new: regular
+/etc/brltty/Text/kha.ttb: regular
+/etc/brltty/Text/awa.ttb.dpkg-new: regular
+/etc/brltty/Text/pl.ttb: regular
+/etc/brltty/Text/en_CA.ttb.dpkg-new: regular
+/etc/brltty/Text/en.ttb.dpkg-new: regular
+/etc/brltty/Text/ltr-latin.tti: regular
+/etc/brltty/Text/or.ttb: regular
+/etc/brltty/Text/sk.ttb: regular
+/etc/brltty/Text/hu.ttb: regular
+/etc/brltty/Text/sw.ttb.dpkg-new: regular
+/etc/brltty/Text/num-french.tti: regular
+/etc/brltty/Text/gd.ttb: regular
+/etc/brltty/Text/tr.ttb: regular
+/etc/brltty/Text/gurmukhi.tti.dpkg-new: regular
+/etc/brltty/Text/el.ttb.dpkg-new: regular
+/etc/brltty/Text/mwr.ttb: regular
+/etc/brltty/Text/fr_FR.ttb.dpkg-new: regular
+/etc/brltty/Text/devanagari.tti: regular
+/etc/brltty/Text/en_US.ttb: regular
+/etc/brltty/Text/hi.ttb.dpkg-new: regular
+/etc/brltty/Text/as.ttb.dpkg-new: regular
+/etc/brltty/Text/ctl-latin.tti.dpkg-new: regular
+/etc/brltty/Text/gon.ttb.dpkg-new: regular
+/etc/brltty/Text/fr-2007.ttb.dpkg-new: regular
+/etc/brltty/Text/en_GB.ttb: regular
+/etc/brltty/Text/ltr-cyrillic.tti: regular
+/etc/brltty/Text/sl.ttb.dpkg-new: regular
+/etc/brltty/Text/en_GB.ttb.dpkg-new: regular
+/etc/brltty/Text/bra.ttb.dpkg-new: regular
+/etc/brltty/Text/pl.ttb.dpkg-new: regular
+/etc/brltty/Text/mun.ttb.dpkg-new: regular
+/etc/brltty/Text/brf.ttb.dpkg-new: regular
+/etc/brltty/Text/sd.ttb.dpkg-new: regular
+/etc/brltty/Text/oriya.tti.dpkg-new: regular
+/etc/brltty/Text/punc-basic.tti: regular
+/etc/brltty/Text/vi.ttb: regular
+/etc/brltty/Text/da.ttb.dpkg-new: regular
+/etc/brltty/Text/is.ttb: regular
+/etc/brltty/Text/cy.ttb.dpkg-new: regular
+/etc/brltty/Text/no.ttb: regular
+/etc/brltty/Text/no-generic.ttb.dpkg-new: regular
+/etc/brltty/Text/he.ttb.dpkg-new: regular
+/etc/brltty/Text/sw.ttb: regular
+/etc/brltty/Text/mr.ttb: regular
+/etc/brltty/Text/punc-basic.tti.dpkg-new: regular
+/etc/brltty/Text/kok.ttb.dpkg-new: regular
+/etc/brltty/Text/ar.ttb.dpkg-new: regular
+/etc/brltty/Text/eo.ttb: regular
+/etc/brltty/Text/pa.ttb: regular
+/etc/brltty/Text/fr-vs.ttb: regular
+/etc/brltty/Text/te.ttb.dpkg-new: regular
+/etc/brltty/Text/ga.ttb: regular
+/etc/brltty/Text/bg.ttb.dpkg-new: regular
+/etc/brltty/Text/sat.ttb: regular
+/etc/brltty/Text/it.ttb: regular
+/etc/brltty/Text/lt.ttb.dpkg-new: regular
+/etc/brltty/Text/gd.ttb.dpkg-new: regular
+/etc/brltty/Text/bo.ttb.dpkg-new: regular
+/etc/brltty/Text/mi.ttb: regular
+/etc/brltty/Text/bg.ttb: regular
+/etc/brltty/Text/ltr-dot8.tti: regular
+/etc/brltty/Text/nl_NL.ttb.dpkg-new: regular
+/etc/brltty/Text/nl_NL.ttb: regular
+/etc/brltty/Text/te.ttb: regular
+/etc/brltty/Text/fi.ttb.dpkg-new: regular
+/etc/brltty/Text/spaces.tti: regular
+/etc/brltty/Text/hu.ttb.dpkg-new: regular
+/etc/brltty/Text/oriya.tti: regular
+/etc/brltty/Text/de.ttb: regular
+/etc/brltty/Text/et.ttb: regular
+/etc/brltty/Text/ne.ttb: regular
+/etc/brltty/Text/new.ttb: regular
+/etc/brltty/Text/no-oup.ttb: regular
+/etc/brltty/Text/ga.ttb.dpkg-new: regular
+/etc/brltty/Text/boxes.tti.dpkg-new: regular
+/etc/brltty/Text/sk.ttb.dpkg-new: regular
+/etc/brltty/Text/mni.ttb: regular
+/etc/brltty/Text/mt.ttb.dpkg-new: regular
+/etc/brltty/Text/pt.ttb: regular
+/etc/brltty/Text/ltr-dot8.tti.dpkg-new: regular
+/etc/brltty/Text/common.tti.dpkg-new: regular
+/etc/brltty/Text/kn.ttb.dpkg-new: regular
+/etc/brltty/Text/gon.ttb: regular
+/etc/brltty/Text/dra.ttb: regular
+/etc/brltty/Text/lv.ttb.dpkg-new: regular
+/etc/brltty/Text/gu.ttb: regular
+/etc/brltty/Text/ltr-cyrillic.tti.dpkg-new: regular
+/etc/brltty/Text/fr-2007.ttb: regular
+/etc/brltty/Text/blocks.tti.dpkg-new: regular
+/etc/brltty/Text/kru.ttb: regular
+/etc/brltty/Text/lt.ttb: regular
+/etc/brltty/Text/es.ttb: regular
+/etc/brltty/Text/punc-tibetan.tti: regular
+/etc/brltty/Text/pi.ttb.dpkg-new: regular
+/etc/brltty/Text/ta.ttb.dpkg-new: regular
+/etc/brltty/Text/sat.ttb.dpkg-new: regular
+/etc/brltty/Text/ne.ttb.dpkg-new: regular
+/etc/brltty/Text/fr.ttb: regular
+/etc/brltty/Text/sv.ttb.dpkg-new: regular
+/etc/brltty/Text/sv.ttb: regular
+/etc/brltty/Text/sd.ttb: regular
+/etc/brltty/Text/or.ttb.dpkg-new: regular
+/etc/brltty/Text/en_CA.ttb: regular
+/etc/brltty/Text/es.ttb.dpkg-new: regular
+/etc/brltty/Text/devanagari.tti.dpkg-new: regular
+/etc/brltty/Text/fr-cbifs.ttb.dpkg-new: regular
+/etc/brltty/Text/mt.ttb: regular
+/etc/brltty/Text/ru.ttb: regular
+/etc/brltty/Text/new.ttb.dpkg-new: regular
+/etc/brltty/Text/en-nabcc.ttb.dpkg-new: regular
+/etc/brltty/Text/bn.ttb.dpkg-new: regular
+/etc/brltty/Text/mun.ttb: regular
+/etc/brltty/Text/pt.ttb.dpkg-new: regular
+/etc/brltty/Text/bh.ttb.dpkg-new: regular
+/etc/brltty/Text/bo.ttb: regular
+/etc/brltty/Text/sv-1996.ttb: regular
+/etc/brltty/Text/kok.ttb: regular
+/etc/brltty/Text/cs.ttb.dpkg-new: regular
+/etc/brltty/Text/bn.ttb: regular
+/etc/brltty/Text/fr-vs.ttb.dpkg-new: regular
+/etc/brltty/Text/he.ttb: regular
+/etc/brltty/Text/ru.ttb.dpkg-new: regular
+/etc/brltty/Text/ltr-tibetan.tti: regular
+/etc/brltty/Text/no.ttb.dpkg-new: regular
+/etc/brltty/Text/ascii-basic.tti: regular
+/etc/brltty/Text/en-na-ascii.tti: regular
+/etc/brltty/Text/ro.ttb.dpkg-new: regular
+/etc/brltty/Text/sa.ttb.dpkg-new: regular
+/etc/brltty/Text/kn.ttb: regular
+/etc/brltty/Text/is.ttb.dpkg-new: regular
+/etc/brltty/Text/hy.ttb.dpkg-new: regular
+/etc/brltty/Text/tamil.tti.dpkg-new: regular
+/etc/brltty/Text/ml.ttb: regular
+/etc/brltty/Text/hy.ttb: regular
+/etc/brltty/Text/ctl-latin.tti: regular
+/etc/brltty/Text/mwr.ttb.dpkg-new: regular
+/etc/brltty/Text/da.ttb: regular
+/etc/brltty/Text/punc-alternate.tti.dpkg-new: regular
+/etc/brltty/Text/punc-tibetan.tti.dpkg-new: regular
+/etc/brltty/Text/malayalam.tti.dpkg-new: regular
+/etc/brltty/Text/ar.ttb: regular
+/etc/brltty/Text/ml.ttb.dpkg-new: regular
+/etc/brltty/Text/blocks.tti: regular
+/etc/brltty/Keyboard: directory
+/etc/brltty/Keyboard/desktop.kti: regular
+/etc/brltty/Keyboard/desktop.ktb: regular
+/etc/brltty/Keyboard/braille.kti: regular
+/etc/brltty/Keyboard/braille.ktb: regular
+/etc/brltty/Keyboard/keypad.ktb: regular
+/etc/brltty/Keyboard/kp_say.kti: regular
+/etc/brltty/Keyboard/desktop.ktb.dpkg-new: regular
+/etc/brltty/Keyboard/kp_speak.kti: regular
+/etc/brltty/Keyboard/desktop.kti.dpkg-new: regular
+/etc/brltty/Keyboard/kp_speak.kti.dpkg-new: regular
+/etc/brltty/Keyboard/laptop.ktb.dpkg-new: regular
+/etc/brltty/Keyboard/sun_type6.ktb: regular
+/etc/brltty/Keyboard/sun_type6.ktb.dpkg-new: regular
+/etc/brltty/Keyboard/braille.kti.dpkg-new: regular
+/etc/brltty/Keyboard/keypad.ktb.dpkg-new: regular
+/etc/brltty/Keyboard/laptop.ktb: regular
+/etc/brltty/Keyboard/braille.ktb.dpkg-new: regular
+/etc/brltty/Keyboard/kp_say.kti.dpkg-new: regular
+/etc/brltty/Input: directory
+/etc/brltty/Input/eu: directory
+/etc/brltty/Input/eu/sw56.kti: regular
+/etc/brltty/Input/eu/sw56.kti.dpkg-new: regular
+/etc/brltty/Input/eu/braille.kti: regular
+/etc/brltty/Input/eu/clio.ktb: regular
+/etc/brltty/Input/eu/sw12.kti.dpkg-new: regular
+/etc/brltty/Input/eu/esys_medium.ktb.dpkg-new: regular
+/etc/brltty/Input/eu/esys_small.ktb.dpkg-new: regular
+/etc/brltty/Input/eu/esys_large.ktb.dpkg-new: regular
+/etc/brltty/Input/eu/esytime.ktb: regular
+/etc/brltty/Input/eu/esys_small.ktb: regular
+/etc/brltty/Input/eu/iris.ktb.dpkg-new: regular
+/etc/brltty/Input/eu/iris.ktb: regular
+/etc/brltty/Input/eu/esys_large.ktb: regular
+/etc/brltty/Input/eu/common.kti: regular
+/etc/brltty/Input/eu/all.txt.dpkg-new: regular
+/etc/brltty/Input/eu/sw34.kti: regular
+/etc/brltty/Input/eu/joysticks.kti.dpkg-new: regular
+/etc/brltty/Input/eu/common.kti.dpkg-new: regular
+/etc/brltty/Input/eu/all.txt: regular
+/etc/brltty/Input/eu/braille.kti.dpkg-new: regular
+/etc/brltty/Input/eu/sw34.kti.dpkg-new: regular
+/etc/brltty/Input/eu/sw12.kti: regular
+/etc/brltty/Input/eu/clio.ktb.dpkg-new: regular
+/etc/brltty/Input/eu/esys_medium.ktb: regular
+/etc/brltty/Input/eu/esytime.ktb.dpkg-new: regular
+/etc/brltty/Input/eu/joysticks.kti: regular
+/etc/brltty/Input/al: directory
+/etc/brltty/Input/al/abt_small.ktb.dpkg-new: regular
+/etc/brltty/Input/al/sat_large.ktb.dpkg-new: regular
+/etc/brltty/Input/al/bc.ktb: regular
+/etc/brltty/Input/al/sat_basic.kti.dpkg-new: regular
+/etc/brltty/Input/al/el.ktb: regular
+/etc/brltty/Input/al/abt_large.ktb.dpkg-new: regular
+/etc/brltty/Input/al/sat_small.ktb.dpkg-new: regular
+/etc/brltty/Input/al/abt_extra.kti: regular
+/etc/brltty/Input/al/sat_basic.kti: regular
+/etc/brltty/Input/al/abt_basic.kti.dpkg-new: regular
+/etc/brltty/Input/al/sat_small.ktb: regular
+/etc/brltty/Input/al/sat_extra.kti.dpkg-new: regular
+/etc/brltty/Input/al/el.ktb.dpkg-new: regular
+/etc/brltty/Input/al/bc.ktb.dpkg-new: regular
+/etc/brltty/Input/al/abt_basic.kti: regular
+/etc/brltty/Input/al/sat_large.ktb: regular
+/etc/brltty/Input/al/abt_extra.kti.dpkg-new: regular
+/etc/brltty/Input/al/abt_small.ktb: regular
+/etc/brltty/Input/al/sat_extra.kti: regular
+/etc/brltty/Input/al/abt_large.ktb: regular
+/etc/brltty/Input/ts: directory
+/etc/brltty/Input/ts/pb65.ktb: regular
+/etc/brltty/Input/ts/pb.kti: regular
+/etc/brltty/Input/ts/pb_small.kti.dpkg-new: regular
+/etc/brltty/Input/ts/nav80.ktb: regular
+/etc/brltty/Input/ts/routing.kti: regular
+/etc/brltty/Input/ts/nav_large.kti.dpkg-new: regular
+/etc/brltty/Input/ts/pb_large.kti: regular
+/etc/brltty/Input/ts/pb80.ktb: regular
+/etc/brltty/Input/ts/nav40.ktb.dpkg-new: regular
+/etc/brltty/Input/ts/nav80.ktb.dpkg-new: regular
+/etc/brltty/Input/ts/pb.kti.dpkg-new: regular
+/etc/brltty/Input/ts/pb_small.kti: regular
+/etc/brltty/Input/ts/nav20.ktb.dpkg-new: regular
+/etc/brltty/Input/ts/pb65.ktb.dpkg-new: regular
+/etc/brltty/Input/ts/nav40.ktb: regular
+/etc/brltty/Input/ts/pb_large.kti.dpkg-new: regular
+/etc/brltty/Input/ts/nav_small.kti: regular
+/etc/brltty/Input/ts/nav.kti: regular
+/etc/brltty/Input/ts/nav20.ktb: regular
+/etc/brltty/Input/ts/nav_small.kti.dpkg-new: regular
+/etc/brltty/Input/ts/nav.kti.dpkg-new: regular
+/etc/brltty/Input/ts/pb40.ktb: regular
+/etc/brltty/Input/ts/pb80.ktb.dpkg-new: regular
+/etc/brltty/Input/ts/pb40.ktb.dpkg-new: regular
+/etc/brltty/Input/ts/nav_large.kti: regular
+/etc/brltty/Input/ts/routing.kti.dpkg-new: regular
+/etc/brltty/Input/lb: directory
+/etc/brltty/Input/lb/all.txt.dpkg-new: regular
+/etc/brltty/Input/lb/all.txt: regular
+/etc/brltty/Input/hm: directory
+/etc/brltty/Input/hm/edge.ktb: regular
+/etc/brltty/Input/hm/sense.ktb: regular
+/etc/brltty/Input/hm/edge.ktb.dpkg-new: regular
+/etc/brltty/Input/hm/dots.kti.dpkg-new: regular
+/etc/brltty/Input/hm/sense.ktb.dpkg-new: regular
+/etc/brltty/Input/hm/sync.ktb: regular
+/etc/brltty/Input/hm/sync.ktb.dpkg-new: regular
+/etc/brltty/Input/hm/dots.kti: regular
+/etc/brltty/Input/mt: directory
+/etc/brltty/Input/mt/bd1_6.ktb.dpkg-new: regular
+/etc/brltty/Input/mt/status.kti: regular
+/etc/brltty/Input/mt/bd2.ktb.dpkg-new: regular
+/etc/brltty/Input/mt/bd1_3.ktb: regular
+/etc/brltty/Input/mt/bd1_3.kti: regular
+/etc/brltty/Input/mt/bd1_6s.ktb.dpkg-new: regular
+/etc/brltty/Input/mt/bd1_6.kti.dpkg-new: regular
+/etc/brltty/Input/mt/bd1_6.ktb: regular
+/etc/brltty/Input/mt/bd1_6.kti: regular
+/etc/brltty/Input/mt/bd1_3s.ktb.dpkg-new: regular
+/etc/brltty/Input/mt/status.kti.dpkg-new: regular
+/etc/brltty/Input/mt/bd2.ktb: regular
+/etc/brltty/Input/mt/bd1_6s.ktb: regular
+/etc/brltty/Input/mt/bd1_3.ktb.dpkg-new: regular
+/etc/brltty/Input/mt/bd1_3s.ktb: regular
+/etc/brltty/Input/mt/bd1_3.kti.dpkg-new: regular
+/etc/brltty/Input/vd: directory
+/etc/brltty/Input/vd/all.txt.dpkg-new: regular
+/etc/brltty/Input/vd/all.txt: regular
+/etc/brltty/Input/pm: directory
+/etc/brltty/Input/pm/el40c.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/el_2d_66.ktb: regular
+/etc/brltty/Input/pm/el80c.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/el80c.ktb: regular
+/etc/brltty/Input/pm/keys.kti: regular
+/etc/brltty/Input/pm/el60c.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/2d_l.ktb: regular
+/etc/brltty/Input/pm/status0.kti: regular
+/etc/brltty/Input/pm/2d_s.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/routing.kti: regular
+/etc/brltty/Input/pm/switches.kti.dpkg-new: regular
+/etc/brltty/Input/pm/status0.kti.dpkg-new: regular
+/etc/brltty/Input/pm/status2.kti.dpkg-new: regular
+/etc/brltty/Input/pm/el60c.ktb: regular
+/etc/brltty/Input/pm/el40s.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/el40s.ktb: regular
+/etc/brltty/Input/pm/el70s.ktb: regular
+/etc/brltty/Input/pm/el2d_80s.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/elb_tr_20.ktb: regular
+/etc/brltty/Input/pm/c_486.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/el2d_80s.ktb: regular
+/etc/brltty/Input/pm/el80s.ktb: regular
+/etc/brltty/Input/pm/trio.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/c.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/el66s.ktb: regular
+/etc/brltty/Input/pm/el_80.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/el_40_p.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/elb_tr_20.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/status13.kti: regular
+/etc/brltty/Input/pm/elba_32.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/front9.kti: regular
+/etc/brltty/Input/pm/el80s.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/2d_l.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/el_40_p.ktb: regular
+/etc/brltty/Input/pm/el_2d_80.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/ib_80.ktb: regular
+/etc/brltty/Input/pm/status13.kti.dpkg-new: regular
+/etc/brltty/Input/pm/el_2d_80.ktb: regular
+/etc/brltty/Input/pm/trio.ktb: regular
+/etc/brltty/Input/pm/front9.kti.dpkg-new: regular
+/etc/brltty/Input/pm/c.ktb: regular
+/etc/brltty/Input/pm/status20.kti: regular
+/etc/brltty/Input/pm/switches.kti: regular
+/etc/brltty/Input/pm/c_486.ktb: regular
+/etc/brltty/Input/pm/bar.kti.dpkg-new: regular
+/etc/brltty/Input/pm/el_2d_40.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/status20.kti.dpkg-new: regular
+/etc/brltty/Input/pm/keys.kti.dpkg-new: regular
+/etc/brltty/Input/pm/ib_80.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/2d_s.ktb: regular
+/etc/brltty/Input/pm/keyboard.kti: regular
+/etc/brltty/Input/pm/el80_ii.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/elba_20.ktb: regular
+/etc/brltty/Input/pm/bar.kti: regular
+/etc/brltty/Input/pm/el70s.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/keyboard.kti.dpkg-new: regular
+/etc/brltty/Input/pm/status22.kti.dpkg-new: regular
+/etc/brltty/Input/pm/el_2d_40.ktb: regular
+/etc/brltty/Input/pm/el80_ii.ktb: regular
+/etc/brltty/Input/pm/el_80.ktb: regular
+/etc/brltty/Input/pm/status22.kti: regular
+/etc/brltty/Input/pm/elb_tr_32.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/status4.kti: regular
+/etc/brltty/Input/pm/el_2d_66.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/elb_tr_32.ktb: regular
+/etc/brltty/Input/pm/elba_32.ktb: regular
+/etc/brltty/Input/pm/status2.kti: regular
+/etc/brltty/Input/pm/elba_20.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/el40c.ktb: regular
+/etc/brltty/Input/pm/front13.kti: regular
+/etc/brltty/Input/pm/status4.kti.dpkg-new: regular
+/etc/brltty/Input/pm/el66s.ktb.dpkg-new: regular
+/etc/brltty/Input/pm/routing.kti.dpkg-new: regular
+/etc/brltty/Input/pm/front13.kti.dpkg-new: regular
+/etc/brltty/Input/sk: directory
+/etc/brltty/Input/sk/bdp.ktb.dpkg-new: regular
+/etc/brltty/Input/sk/bdp.ktb: regular
+/etc/brltty/Input/sk/ntk.ktb: regular
+/etc/brltty/Input/sk/ntk.ktb.dpkg-new: regular
+/etc/brltty/Input/ht: directory
+/etc/brltty/Input/ht/input.kti: regular
+/etc/brltty/Input/ht/keypad.kti.dpkg-new: regular
+/etc/brltty/Input/ht/bb.ktb: regular
+/etc/brltty/Input/ht/cb40.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/bs80.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/easy.ktb: regular
+/etc/brltty/Input/ht/bs.kti: regular
+/etc/brltty/Input/ht/mdlr.ktb: regular
+/etc/brltty/Input/ht/bs40.ktb: regular
+/etc/brltty/Input/ht/wave.ktb: regular
+/etc/brltty/Input/ht/ab40.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/dots.kti.dpkg-new: regular
+/etc/brltty/Input/ht/me64.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/me.kti: regular
+/etc/brltty/Input/ht/brln.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/cb40.ktb: regular
+/etc/brltty/Input/ht/brln.ktb: regular
+/etc/brltty/Input/ht/bs40.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/as40.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/bkwm.ktb: regular
+/etc/brltty/Input/ht/me.kti.dpkg-new: regular
+/etc/brltty/Input/ht/wave.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/input.kti.dpkg-new: regular
+/etc/brltty/Input/ht/bkwm.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/bs80.ktb: regular
+/etc/brltty/Input/ht/bs.kti.dpkg-new: regular
+/etc/brltty/Input/ht/me88.ktb: regular
+/etc/brltty/Input/ht/easy.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/me64.ktb: regular
+/etc/brltty/Input/ht/me88.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/rockers.kti: regular
+/etc/brltty/Input/ht/bb.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/dots.kti: regular
+/etc/brltty/Input/ht/keypad.kti: regular
+/etc/brltty/Input/ht/mdlr.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/ab40.ktb: regular
+/etc/brltty/Input/ht/mc88.ktb.dpkg-new: regular
+/etc/brltty/Input/ht/as40.ktb: regular
+/etc/brltty/Input/ht/rockers.kti.dpkg-new: regular
+/etc/brltty/Input/ht/mc88.ktb: regular
+/etc/brltty/Input/np: directory
+/etc/brltty/Input/np/all.ktb.dpkg-new: regular
+/etc/brltty/Input/np/all.ktb: regular
+/etc/brltty/Input/lt: directory
+/etc/brltty/Input/lt/all.txt.dpkg-new: regular
+/etc/brltty/Input/lt/all.txt: regular
+/etc/brltty/Input/chords.kti.dpkg-new: regular
+/etc/brltty/Input/mm: directory
+/etc/brltty/Input/mm/pocket.ktb.dpkg-new: regular
+/etc/brltty/Input/mm/smart.ktb.dpkg-new: regular
+/etc/brltty/Input/mm/common.kti: regular
+/etc/brltty/Input/mm/pocket.ktb: regular
+/etc/brltty/Input/mm/common.kti.dpkg-new: regular
+/etc/brltty/Input/mm/smart.ktb: regular
+/etc/brltty/Input/hd: directory
+/etc/brltty/Input/hd/mbl.ktb: regular
+/etc/brltty/Input/hd/pfl.ktb.dpkg-new: regular
+/etc/brltty/Input/hd/pfl.ktb: regular
+/etc/brltty/Input/hd/mbl.ktb.dpkg-new: regular
+/etc/brltty/Input/pg: directory
+/etc/brltty/Input/pg/all.ktb.dpkg-new: regular
+/etc/brltty/Input/pg/all.ktb: regular
+/etc/brltty/Input/bp: directory
+/etc/brltty/Input/bp/all.kti.dpkg-new: regular
+/etc/brltty/Input/bp/all.kti: regular
+/etc/brltty/Input/toggle.kti.dpkg-new: regular
+/etc/brltty/Input/ir: directory
+/etc/brltty/Input/ir/brl.ktb: regular
+/etc/brltty/Input/ir/pc.ktb: regular
+/etc/brltty/Input/ir/pc.ktb.dpkg-new: regular
+/etc/brltty/Input/ir/brl.ktb.dpkg-new: regular
+/etc/brltty/Input/ir/all.kti.dpkg-new: regular
+/etc/brltty/Input/ir/all.kti: regular
+/etc/brltty/Input/vs: directory
+/etc/brltty/Input/vs/all.txt.dpkg-new: regular
+/etc/brltty/Input/vs/all.txt: regular
+/etc/brltty/Input/ce: directory
+/etc/brltty/Input/ce/all.ktb.dpkg-new: regular
+/etc/brltty/Input/ce/novem.ktb: regular
+/etc/brltty/Input/ce/novem.ktb.dpkg-new: regular
+/etc/brltty/Input/ce/all.ktb: regular
+/etc/brltty/Input/cb: directory
+/etc/brltty/Input/cb/all.ktb.dpkg-new: regular
+/etc/brltty/Input/cb/all.ktb: regular
+/etc/brltty/Input/vo: directory
+/etc/brltty/Input/vo/all.ktb.dpkg-new: regular
+/etc/brltty/Input/vo/bp.ktb: regular
+/etc/brltty/Input/vo/bp.ktb.dpkg-new: regular
+/etc/brltty/Input/vo/all.ktb: regular
+/etc/brltty/Input/mb: directory
+/etc/brltty/Input/mb/all.txt.dpkg-new: regular
+/etc/brltty/Input/mb/all.txt: regular
+/etc/brltty/Input/bn: directory
+/etc/brltty/Input/bn/input.kti: regular
+/etc/brltty/Input/bn/all.ktb.dpkg-new: regular
+/etc/brltty/Input/bn/all.ktb: regular
+/etc/brltty/Input/bn/input.kti.dpkg-new: regular
+/etc/brltty/Input/at: directory
+/etc/brltty/Input/at/all.ktb.dpkg-new: regular
+/etc/brltty/Input/at/all.ktb: regular
+/etc/brltty/Input/bm: directory
+/etc/brltty/Input/bm/command.kti: regular
+/etc/brltty/Input/bm/vario80.ktb: regular
+/etc/brltty/Input/bm/pro.ktb: regular
+/etc/brltty/Input/bm/status.kti: regular
+/etc/brltty/Input/bm/default.ktb: regular
+/etc/brltty/Input/bm/wheels.kti: regular
+/etc/brltty/Input/bm/routing7.kti: regular
+/etc/brltty/Input/bm/front10.kti: regular
+/etc/brltty/Input/bm/vario.ktb.dpkg-new: regular
+/etc/brltty/Input/bm/command.kti.dpkg-new: regular
+/etc/brltty/Input/bm/horizontal.kti.dpkg-new: regular
+/etc/brltty/Input/bm/pro.ktb.dpkg-new: regular
+/etc/brltty/Input/bm/vario80.ktb.dpkg-new: regular
+/etc/brltty/Input/bm/vertical.kti.dpkg-new: regular
+/etc/brltty/Input/bm/routing6.kti: regular
+/etc/brltty/Input/bm/default.ktb.dpkg-new: regular
+/etc/brltty/Input/bm/front6.kti.dpkg-new: regular
+/etc/brltty/Input/bm/routing6.kti.dpkg-new: regular
+/etc/brltty/Input/bm/joystick.kti: regular
+/etc/brltty/Input/bm/front10.kti.dpkg-new: regular
+/etc/brltty/Input/bm/wheels.kti.dpkg-new: regular
+/etc/brltty/Input/bm/display6.kti: regular
+/etc/brltty/Input/bm/vario.ktb: regular
+/etc/brltty/Input/bm/front6.kti: regular
+/etc/brltty/Input/bm/display6.kti.dpkg-new: regular
+/etc/brltty/Input/bm/status.kti.dpkg-new: regular
+/etc/brltty/Input/bm/inka.ktb: regular
+/etc/brltty/Input/bm/keyboard.kti: regular
+/etc/brltty/Input/bm/joystick.kti.dpkg-new: regular
+/etc/brltty/Input/bm/vertical.kti: regular
+/etc/brltty/Input/bm/horizontal.kti: regular
+/etc/brltty/Input/bm/dm80p.ktb.dpkg-new: regular
+/etc/brltty/Input/bm/dm80p.ktb: regular
+/etc/brltty/Input/bm/keyboard.kti.dpkg-new: regular
+/etc/brltty/Input/bm/display7.kti: regular
+/etc/brltty/Input/bm/display7.kti.dpkg-new: regular
+/etc/brltty/Input/bm/inka.ktb.dpkg-new: regular
+/etc/brltty/Input/bm/routing7.kti.dpkg-new: regular
+/etc/brltty/Input/vr: directory
+/etc/brltty/Input/vr/all.txt.dpkg-new: regular
+/etc/brltty/Input/vr/all.txt: regular
+/etc/brltty/Input/ec: directory
+/etc/brltty/Input/ec/all.txt.dpkg-new: regular
+/etc/brltty/Input/ec/spanish.txt.dpkg-new: regular
+/etc/brltty/Input/ec/all.txt: regular
+/etc/brltty/Input/ec/spanish.txt: regular
+/etc/brltty/Input/bl: directory
+/etc/brltty/Input/bl/18.txt: regular
+/etc/brltty/Input/bl/40_m20_m40.txt: regular
+/etc/brltty/Input/bl/40_m20_m40.txt.dpkg-new: regular
+/etc/brltty/Input/bl/18.txt.dpkg-new: regular
+/etc/brltty/Input/tn: directory
+/etc/brltty/Input/tn/all.txt.dpkg-new: regular
+/etc/brltty/Input/tn/all.txt: regular
+/etc/brltty/Input/bd: directory
+/etc/brltty/Input/bd/all.txt.dpkg-new: regular
+/etc/brltty/Input/bd/all.txt: regular
+/etc/brltty/Input/tt: directory
+/etc/brltty/Input/tt/all.txt.dpkg-new: regular
+/etc/brltty/Input/tt/all.txt: regular
+/etc/brltty/Input/chords.kti: regular
+/etc/brltty/Input/toggle.kti: regular
+/etc/brltty/Input/ba: directory
+/etc/brltty/Input/ba/all.txt.dpkg-new: regular
+/etc/brltty/Input/ba/all.txt: regular
+/etc/brltty/Input/md: directory
+/etc/brltty/Input/md/all.txt.dpkg-new: regular
+/etc/brltty/Input/md/all.txt: regular
+/etc/brltty/Input/hw: directory
+/etc/brltty/Input/hw/all.ktb.dpkg-new: regular
+/etc/brltty/Input/hw/all.ktb: regular
+/etc/brltty/Input/mn: directory
+/etc/brltty/Input/mn/all.txt.dpkg-new: regular
+/etc/brltty/Input/mn/all.txt: regular
+/etc/brltty/Input/fs: directory
+/etc/brltty/Input/fs/bumpers.kti: regular
+/etc/brltty/Input/fs/focus_large.ktb.dpkg-new: regular
+/etc/brltty/Input/fs/pacmate.ktb: regular
+/etc/brltty/Input/fs/bumpers.kti.dpkg-new: regular
+/etc/brltty/Input/fs/common.kti: regular
+/etc/brltty/Input/fs/focus_small.ktb: regular
+/etc/brltty/Input/fs/focus_small.ktb.dpkg-new: regular
+/etc/brltty/Input/fs/focus_basic.kti.dpkg-new: regular
+/etc/brltty/Input/fs/focus_basic.ktb: regular
+/etc/brltty/Input/fs/common.kti.dpkg-new: regular
+/etc/brltty/Input/fs/focus_basic.kti: regular
+/etc/brltty/Input/fs/rockers.kti: regular
+/etc/brltty/Input/fs/focus_large.ktb: regular
+/etc/brltty/Input/fs/focus_basic.ktb.dpkg-new: regular
+/etc/brltty/Input/fs/pacmate.ktb.dpkg-new: regular
+/etc/brltty/Input/fs/rockers.kti.dpkg-new: regular
+/etc/brltty/Input/xw: directory
+/etc/brltty/Attributes: directory
+/etc/brltty/Attributes/upper_lower.atb: regular
+/etc/brltty/Attributes/upper_lower.atb.dpkg-new: regular
+/etc/brltty/Attributes/left_right.atb: regular
+/etc/brltty/Attributes/left_right.atb.dpkg-new: regular
+/etc/brltty/Attributes/invleft_right.atb.dpkg-new: regular
+/etc/brltty/Attributes/invleft_right.atb: regular
+/etc/brltty/Contraction: directory
+/etc/brltty/Contraction/letters-latin.cti: regular
+/etc/brltty/Contraction/ko-g1.ctb: regular
+/etc/brltty/Contraction/pt.ctb.dpkg-new: regular
+/etc/brltty/Contraction/nl.ctb: regular
+/etc/brltty/Contraction/nabcc.cti: regular
+/etc/brltty/Contraction/th.ctb.dpkg-new: regular
+/etc/brltty/Contraction/zh-tw-polyphone.cti.dpkg-new: regular
+/etc/brltty/Contraction/en-ueb-g2.ctb.dpkg-new: regular
+/etc/brltty/Contraction/es.ctb: regular
+/etc/brltty/Contraction/de-kurzschrift.ctb: regular
+/etc/brltty/Contraction/latex-access.ctb: regular
+/etc/brltty/Contraction/th.ctb: regular
+/etc/brltty/Contraction/ko.ctb.dpkg-new: regular
+/etc/brltty/Contraction/am.ctb: regular
+/etc/brltty/Contraction/letters-latin.cti.dpkg-new: regular
+/etc/brltty/Contraction/zu.ctb: regular
+/etc/brltty/Contraction/id.ctb: regular
+/etc/brltty/Contraction/mun.ctb.dpkg-new: regular
+/etc/brltty/Contraction/mg.ctb.dpkg-new: regular
+/etc/brltty/Contraction/de-vollschrift.ctb: regular
+/etc/brltty/Contraction/en-us-g2.ctb: regular
+/etc/brltty/Contraction/countries.cti.dpkg-new: regular
+/etc/brltty/Contraction/ko.ctb: regular
+/etc/brltty/Contraction/fr-abrege.ctb: regular
+/etc/brltty/Contraction/zh-tw-ucb.ctb.dpkg-new: regular
+/etc/brltty/Contraction/countries.cti: regular
+/etc/brltty/Contraction/en-ueb-g2.ctb: regular
+/etc/brltty/Contraction/es.ctb.dpkg-new: regular
+/etc/brltty/Contraction/ny.ctb.dpkg-new: regular
+/etc/brltty/Contraction/ko-g1.ctb.dpkg-new: regular
+/etc/brltty/Contraction/zh-tw.ctb.dpkg-new: regular
+/etc/brltty/Contraction/nl.ctb.dpkg-new: regular
+/etc/brltty/Contraction/fr-abrege.ctb.dpkg-new: regular
+/etc/brltty/Contraction/zh-tw-ucb.ctb: regular
+/etc/brltty/Contraction/ipa.ctb: regular
+/etc/brltty/Contraction/zh-tw-polyphone.cti: regular
+/etc/brltty/Contraction/ko-g2.ctb.dpkg-new: regular
+/etc/brltty/Contraction/de-kurzschrift.ctb.dpkg-new: regular
+/etc/brltty/Contraction/zh-tw.ctb: regular
+/etc/brltty/Contraction/fr-integral.ctb.dpkg-new: regular
+/etc/brltty/Contraction/pt.ctb: regular
+/etc/brltty/Contraction/fr-integral.ctb: regular
+/etc/brltty/Contraction/mun.ctb: regular
+/etc/brltty/Contraction/de-vollschrift.ctb.dpkg-new: regular
+/etc/brltty/Contraction/id.ctb.dpkg-new: regular
+/etc/brltty/Contraction/ja.ctb: regular
+/etc/brltty/Contraction/si.ctb.dpkg-new: regular
+/etc/brltty/Contraction/ipa.ctb.dpkg-new: regular
+/etc/brltty/Contraction/mg.ctb: regular
+/etc/brltty/Contraction/ko-g2.ctb: regular
+/etc/brltty/Contraction/en-us-g2.ctb.dpkg-new: regular
+/etc/brltty/Contraction/am.ctb.dpkg-new: regular
+/etc/brltty/Contraction/de-basis.ctb.dpkg-new: regular
+/etc/brltty/Contraction/si.ctb: regular
+/etc/brltty/Contraction/ha.ctb.dpkg-new: regular
+/etc/brltty/Contraction/af.ctb.dpkg-new: regular
+/etc/brltty/Contraction/ha.ctb: regular
+/etc/brltty/Contraction/zu.ctb.dpkg-new: regular
+/etc/brltty/Contraction/latex-access.ctb.dpkg-new: regular
+/etc/brltty/Contraction/ja.ctb.dpkg-new: regular
+/etc/brltty/Contraction/sw.ctb.dpkg-new: regular
+/etc/brltty/Contraction/nabcc.cti.dpkg-new: regular
+/etc/brltty/Contraction/sw.ctb: regular
+/etc/brltty/Contraction/de-basis.ctb: regular
+/etc/brltty/Contraction/ny.ctb: regular
+/etc/brltty/Contraction/af.ctb: regular
+/etc/vmware-caf: directory
+/etc/vmware-caf/pme: directory
+/etc/vmware-caf/pme/config: directory
+/etc/vmware-caf/pme/config/cafenv.config: regular
+/etc/vmware-caf/pme/config/CommAmqpListener-log4cpp_config: regular
+/etc/vmware-caf/pme/config/CommAmqpListener-context-common.xml: regular
+/etc/vmware-caf/pme/config/CommAmqpListener-context-tunnel.xml: regular
+/etc/vmware-caf/pme/config/ma-appconfig: regular
+/etc/vmware-caf/pme/config/ma-log4cpp_config: regular
+/etc/vmware-caf/pme/config/ma-context.xml: regular
+/etc/vmware-caf/pme/config/CommAmqpListener-appconfig: regular
+/etc/vmware-caf/pme/config/CommAmqpListener-context-amqp.xml: regular
+/etc/vmware-caf/pme/config/IntBeanConfigFile.xml: regular
+/etc/vmware-caf/pme/install: directory
+/etc/vmware-caf/pme/install/caf-dbg.sh: regular
+/etc/vmware-caf/pme/install/commonenv.sh: regular
+/etc/vmware-caf/pme/install/install.sh: regular
+/etc/vmware-caf/pme/install/preuninstall.sh: regular
+/etc/vmware-caf/pme/install/preupgrade.sh: regular
+/etc/vmware-caf/pme/install/upgrade.sh: regular
+/etc/vmware-caf/pme/scripts: directory
+/etc/vmware-caf/pme/scripts/caf-common: regular
+/etc/vmware-caf/pme/scripts/stop-ma: regular
+/etc/vmware-caf/pme/scripts/vgAuth: regular
+/etc/vmware-caf/pme/scripts/setUpVgAuth: regular
+/etc/vmware-caf/pme/scripts/start-ma: regular
+/etc/vmware-caf/pme/scripts/start-listener: regular
+/etc/vmware-caf/pme/scripts/stop-listener: regular
+/etc/vmware-caf/pme/scripts/tearDownVgAuth: regular
+/etc/timezone: regular
+/etc/vmware-tools: directory
+/etc/vmware-tools/vmware-tools-prelink.conf: regular
+/etc/vmware-tools/icu: symbolic link
+/etc/vmware-tools/xsession-gdm.sh: regular
+/etc/vmware-tools/config: regular
+/etc/vmware-tools/locations: regular
+/etc/vmware-tools/suspend-vm-default: regular
+/etc/vmware-tools/GuestProxyData: directory
+/etc/vmware-tools/GuestProxyData/server: directory
+/etc/vmware-tools/GuestProxyData/server/key.pem: regular
+/etc/vmware-tools/GuestProxyData/server/cert.pem: regular
+/etc/vmware-tools/GuestProxyData/trusted: directory
+/etc/vmware-tools/statechange.subr: regular
+/etc/vmware-tools/manifest.txt.shipped: regular
+/etc/vmware-tools/vgauth.conf: regular
+/etc/vmware-tools/manifest.txt: regular
+/etc/vmware-tools/vmware-user.Xresources: regular
+/etc/vmware-tools/xsession-xdm.pl: regular
+/etc/vmware-tools/messages: directory
+/etc/vmware-tools/messages/en: directory
+/etc/vmware-tools/messages/en/VGAuthService.vmsg: regular
+/etc/vmware-tools/messages/en/hgfsUsability.vmsg: regular
+/etc/vmware-tools/messages/en/vmtoolsd.vmsg: regular
+/etc/vmware-tools/messages/en/VGAuthLib.vmsg: regular
+/etc/vmware-tools/messages/en/VGAuthCli.vmsg: regular
+/etc/vmware-tools/messages/en/toolboxcmd.vmsg: regular
+/etc/vmware-tools/messages/en/desktopEvents.vmsg: regular
+/etc/vmware-tools/messages/zh_CN: directory
+/etc/vmware-tools/messages/zh_CN/VGAuthService.vmsg: regular
+/etc/vmware-tools/messages/zh_CN/hgfsUsability.vmsg: regular
+/etc/vmware-tools/messages/zh_CN/vmtoolsd.vmsg: regular
+/etc/vmware-tools/messages/zh_CN/VGAuthLib.vmsg: regular
+/etc/vmware-tools/messages/zh_CN/VGAuthCli.vmsg: regular
+/etc/vmware-tools/messages/zh_CN/toolboxcmd.vmsg: regular
+/etc/vmware-tools/messages/zh_CN/desktopEvents.vmsg: regular
+/etc/vmware-tools/messages/es: directory
+/etc/vmware-tools/messages/es/VGAuthService.vmsg: regular
+/etc/vmware-tools/messages/es/hgfsUsability.vmsg: regular
+/etc/vmware-tools/messages/es/vmtoolsd.vmsg: regular
+/etc/vmware-tools/messages/es/VGAuthLib.vmsg: regular
+/etc/vmware-tools/messages/es/VGAuthCli.vmsg: regular
+/etc/vmware-tools/messages/es/toolboxcmd.vmsg: regular
+/etc/vmware-tools/messages/es/desktopEvents.vmsg: regular
+/etc/vmware-tools/messages/it: directory
+/etc/vmware-tools/messages/it/VGAuthService.vmsg: regular
+/etc/vmware-tools/messages/it/hgfsUsability.vmsg: regular
+/etc/vmware-tools/messages/it/vmtoolsd.vmsg: regular
+/etc/vmware-tools/messages/it/VGAuthLib.vmsg: regular
+/etc/vmware-tools/messages/it/VGAuthCli.vmsg: regular
+/etc/vmware-tools/messages/it/toolboxcmd.vmsg: regular
+/etc/vmware-tools/messages/it/desktopEvents.vmsg: regular
+/etc/vmware-tools/messages/fr: directory
+/etc/vmware-tools/messages/fr/VGAuthService.vmsg: regular
+/etc/vmware-tools/messages/fr/hgfsUsability.vmsg: regular
+/etc/vmware-tools/messages/fr/vmtoolsd.vmsg: regular
+/etc/vmware-tools/messages/fr/VGAuthLib.vmsg: regular
+/etc/vmware-tools/messages/fr/VGAuthCli.vmsg: regular
+/etc/vmware-tools/messages/fr/toolboxcmd.vmsg: regular
+/etc/vmware-tools/messages/fr/desktopEvents.vmsg: regular
+/etc/vmware-tools/messages/ko: directory
+/etc/vmware-tools/messages/ko/VGAuthService.vmsg: regular
+/etc/vmware-tools/messages/ko/hgfsUsability.vmsg: regular
+/etc/vmware-tools/messages/ko/vmtoolsd.vmsg: regular
+/etc/vmware-tools/messages/ko/VGAuthLib.vmsg: regular
+/etc/vmware-tools/messages/ko/VGAuthCli.vmsg: regular
+/etc/vmware-tools/messages/ko/toolboxcmd.vmsg: regular
+/etc/vmware-tools/messages/ko/desktopEvents.vmsg: regular
+/etc/vmware-tools/messages/de: directory
+/etc/vmware-tools/messages/de/VGAuthService.vmsg: regular
+/etc/vmware-tools/messages/de/hgfsUsability.vmsg: regular
+/etc/vmware-tools/messages/de/vmtoolsd.vmsg: regular
+/etc/vmware-tools/messages/de/VGAuthLib.vmsg: regular
+/etc/vmware-tools/messages/de/VGAuthCli.vmsg: regular
+/etc/vmware-tools/messages/de/toolboxcmd.vmsg: regular
+/etc/vmware-tools/messages/de/desktopEvents.vmsg: regular
+/etc/vmware-tools/messages/ja: directory
+/etc/vmware-tools/messages/ja/VGAuthService.vmsg: regular
+/etc/vmware-tools/messages/ja/hgfsUsability.vmsg: regular
+/etc/vmware-tools/messages/ja/vmtoolsd.vmsg: regular
+/etc/vmware-tools/messages/ja/VGAuthLib.vmsg: regular
+/etc/vmware-tools/messages/ja/VGAuthCli.vmsg: regular
+/etc/vmware-tools/messages/ja/toolboxcmd.vmsg: regular
+/etc/vmware-tools/messages/ja/desktopEvents.vmsg: regular
+/etc/vmware-tools/messages/zh_TW: directory
+/etc/vmware-tools/messages/zh_TW/VGAuthService.vmsg: regular
+/etc/vmware-tools/messages/zh_TW/hgfsUsability.vmsg: regular
+/etc/vmware-tools/messages/zh_TW/vmtoolsd.vmsg: regular
+/etc/vmware-tools/messages/zh_TW/VGAuthLib.vmsg: regular
+/etc/vmware-tools/messages/zh_TW/VGAuthCli.vmsg: regular
+/etc/vmware-tools/messages/zh_TW/toolboxcmd.vmsg: regular
+/etc/vmware-tools/messages/zh_TW/desktopEvents.vmsg: regular
+/etc/vmware-tools/guestproxy-ssl.conf: regular
+/etc/vmware-tools/installer.sh: regular
+/etc/vmware-tools/plugins: symbolic link
+/etc/vmware-tools/xsession-xdm.sh: regular
+/etc/vmware-tools/vmware-user.desktop: regular
+/etc/vmware-tools/vmware-tools-libraries.conf: regular
+/etc/vmware-tools/vmware-tools: directory
+/etc/vmware-tools/resume-vm-default: regular
+/etc/vmware-tools/tpvmlp.conf: regular
+/etc/vmware-tools/poweron-vm-default: regular
+/etc/vmware-tools/poweroff-vm-default: regular
+/etc/vmware-tools/scripts: directory
+/etc/vmware-tools/scripts/vmware: directory
+/etc/vmware-tools/scripts/vmware/network: regular
+/etc/cracklib: directory
+/etc/cracklib/cracklib.conf: regular
+/etc/modules: regular
+/etc/localtime: regular
+/etc/security: directory
+/etc/security/limits.d: directory
+/etc/security/sepermit.conf: regular
+/etc/security/limits.conf: regular
+/etc/security/time.conf: regular
+/etc/security/pam_env.conf: regular
+/etc/security/opasswd: regular
+/etc/security/access.conf: regular
+/etc/security/namespace.conf: regular
+/etc/security/namespace.d: directory
+/etc/security/group.conf: regular
+/etc/security/pwquality.conf: regular
+/etc/security/namespace.init: regular
+/etc/papersize: regular
+/etc/gdb: directory
+/etc/gdb/gdbinit: regular
+/etc/logrotate.conf: regular
+/etc/sane.d: directory
+/etc/sane.d/canon_pp.conf: regular
+/etc/sane.d/dell1600n_net.conf: regular
+/etc/sane.d/sm3840.conf: regular
+/etc/sane.d/ricoh.conf: regular
+/etc/sane.d/plustek.conf: regular
+/etc/sane.d/mustek_pp.conf: regular
+/etc/sane.d/v4l.conf: regular
+/etc/sane.d/teco1.conf: regular
+/etc/sane.d/qcam.conf: regular
+/etc/sane.d/p5.conf: regular
+/etc/sane.d/gphoto2.conf: regular
+/etc/sane.d/hp.conf: regular
+/etc/sane.d/dc25.conf: regular
+/etc/sane.d/u12.conf: regular
+/etc/sane.d/bh.conf: regular
+/etc/sane.d/artec_eplus48u.conf: regular
+/etc/sane.d/ma1509.conf: regular
+/etc/sane.d/stv680.conf: regular
+/etc/sane.d/fujitsu.conf: regular
+/etc/sane.d/plustek_pp.conf: regular
+/etc/sane.d/teco3.conf: regular
+/etc/sane.d/gt68xx.conf: regular
+/etc/sane.d/net.conf: regular
+/etc/sane.d/mustek.conf: regular
+/etc/sane.d/canon.conf: regular
+/etc/sane.d/umax_pp.conf: regular
+/etc/sane.d/canon630u.conf: regular
+/etc/sane.d/avision.conf: regular
+/etc/sane.d/umax.conf: regular
+/etc/sane.d/coolscan2.conf: regular
+/etc/sane.d/hp5400.conf: regular
+/etc/sane.d/sp15c.conf: regular
+/etc/sane.d/hpsj5s.conf: regular
+/etc/sane.d/leo.conf: regular
+/etc/sane.d/sharp.conf: regular
+/etc/sane.d/apple.conf: regular
+/etc/sane.d/pixma.conf: regular
+/etc/sane.d/saned.conf: regular
+/etc/sane.d/hp3900.conf: regular
+/etc/sane.d/dc210.conf: regular
+/etc/sane.d/hs2p.conf: regular
+/etc/sane.d/lexmark.conf: regular
+/etc/sane.d/s9036.conf: regular
+/etc/sane.d/tamarack.conf: regular
+/etc/sane.d/kodak.conf: regular
+/etc/sane.d/pie.conf: regular
+/etc/sane.d/microtek.conf: regular
+/etc/sane.d/epson.conf: regular
+/etc/sane.d/epson2.conf: regular
+/etc/sane.d/artec.conf: regular
+/etc/sane.d/xerox_mfp.conf: regular
+/etc/sane.d/rts8891.conf: regular
+/etc/sane.d/snapscan.conf: regular
+/etc/sane.d/st400.conf: regular
+/etc/sane.d/epjitsu.conf: regular
+/etc/sane.d/mustek_usb.conf: regular
+/etc/sane.d/abaton.conf: regular
+/etc/sane.d/magicolor.conf: regular
+/etc/sane.d/cardscan.conf: regular
+/etc/sane.d/umax1220u.conf: regular
+/etc/sane.d/coolscan3.conf: regular
+/etc/sane.d/dmc.conf: regular
+/etc/sane.d/coolscan.conf: regular
+/etc/sane.d/agfafocus.conf: regular
+/etc/sane.d/ibm.conf: regular
+/etc/sane.d/matsushita.conf: regular
+/etc/sane.d/microtek2.conf: regular
+/etc/sane.d/genesys.conf: regular
+/etc/sane.d/sceptre.conf: regular
+/etc/sane.d/dll.d: directory
+/etc/sane.d/dll.d/hplip: regular
+/etc/sane.d/teco2.conf: regular
+/etc/sane.d/hp4200.conf: regular
+/etc/sane.d/kodakaio.conf: regular
+/etc/sane.d/test.conf: regular
+/etc/sane.d/dc240.conf: regular
+/etc/sane.d/canon_dr.conf: regular
+/etc/sane.d/dll.conf: regular
+/etc/sane.d/nec.conf: regular
+/etc/udev: directory
+/etc/udev/udev.conf: regular
+/etc/udev/hwdb.d: directory
+/etc/udev/rules.d: directory
+/etc/udev/rules.d/80-net-setup-link.rules: regular
+/etc/udev/rules.d/99-vmware-scsi-udev.rules: regular
+/etc/samba: directory
+/etc/samba/gdbcommands: regular
+/etc/samba/smb.conf: regular
+/etc/samba/tls: directory
+/etc/sensors3.conf: regular
+/etc/locale.alias: regular
+/etc/rsyslog.conf: regular
+/etc/proftpd: directory
+/etc/proftpd/virtuals.conf: regular
+/etc/proftpd/ldap.conf: regular
+/etc/proftpd/dhparams.pem: regular
+/etc/proftpd/proftpd.conf: regular
+/etc/proftpd/sql.conf: regular
+/etc/proftpd/tls.conf: regular
+/etc/proftpd/blacklist.dat: regular
+/etc/proftpd/modules.conf: regular
+/etc/apparmor.d: directory
+/etc/apparmor.d/abstractions: directory
+/etc/apparmor.d/abstractions/user-download: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-unity7-base.dpkg-new: regular
+/etc/apparmor.d/abstractions/ibus.dpkg-new: regular
+/etc/apparmor.d/abstractions/nameservice: regular
+/etc/apparmor.d/abstractions/audio: regular
+/etc/apparmor.d/abstractions/perl: regular
+/etc/apparmor.d/abstractions/xad: regular
+/etc/apparmor.d/abstractions/mdns.dpkg-new: regular
+/etc/apparmor.d/abstractions/likewise: regular
+/etc/apparmor.d/abstractions/ubuntu-unity7-messaging: regular
+/etc/apparmor.d/abstractions/svn-repositories: regular
+/etc/apparmor.d/abstractions/samba.dpkg-new: regular
+/etc/apparmor.d/abstractions/ldapclient.dpkg-new: regular
+/etc/apparmor.d/abstractions/base: regular
+/etc/apparmor.d/abstractions/user-tmp: regular
+/etc/apparmor.d/abstractions/freedesktop.org: regular
+/etc/apparmor.d/abstractions/php5.dpkg-new: regular
+/etc/apparmor.d/abstractions/cups-client: regular
+/etc/apparmor.d/abstractions/ubuntu-gnome-terminal.dpkg-new: regular
+/etc/apparmor.d/abstractions/user-download.dpkg-new: regular
+/etc/apparmor.d/abstractions/postfix-common.dpkg-new: regular
+/etc/apparmor.d/abstractions/X.dpkg-new: regular
+/etc/apparmor.d/abstractions/launchpad-integration: regular
+/etc/apparmor.d/abstractions/enchant.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-console-email.dpkg-new: regular
+/etc/apparmor.d/abstractions/cups-client.dpkg-new: regular
+/etc/apparmor.d/abstractions/nis.dpkg-new: regular
+/etc/apparmor.d/abstractions/mir.dpkg-new: regular
+/etc/apparmor.d/abstractions/dbus-accessibility.dpkg-new: regular
+/etc/apparmor.d/abstractions/kerberosclient: regular
+/etc/apparmor.d/abstractions/nvidia.dpkg-new: regular
+/etc/apparmor.d/abstractions/winbind: regular
+/etc/apparmor.d/abstractions/ubuntu-bittorrent-clients: regular
+/etc/apparmor.d/abstractions/p11-kit: regular
+/etc/apparmor.d/abstractions/dconf.dpkg-new: regular
+/etc/apparmor.d/abstractions/nameservice.dpkg-new: regular
+/etc/apparmor.d/abstractions/nis: regular
+/etc/apparmor.d/abstractions/ibus: regular
+/etc/apparmor.d/abstractions/mysql: regular
+/etc/apparmor.d/abstractions/dbus-strict.dpkg-new: regular
+/etc/apparmor.d/abstractions/mysql.dpkg-new: regular
+/etc/apparmor.d/abstractions/freedesktop.org.dpkg-new: regular
+/etc/apparmor.d/abstractions/svn-repositories.dpkg-new: regular
+/etc/apparmor.d/abstractions/dconf: regular
+/etc/apparmor.d/abstractions/ssl_certs.dpkg-new: regular
+/etc/apparmor.d/abstractions/private-files: regular
+/etc/apparmor.d/abstractions/kerberosclient.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-konsole.dpkg-new: regular
+/etc/apparmor.d/abstractions/bash: regular
+/etc/apparmor.d/abstractions/php5: regular
+/etc/apparmor.d/abstractions/perl.dpkg-new: regular
+/etc/apparmor.d/abstractions/python.dpkg-new: regular
+/etc/apparmor.d/abstractions/likewise.dpkg-new: regular
+/etc/apparmor.d/abstractions/video: regular
+/etc/apparmor.d/abstractions/smbpass.dpkg-new: regular
+/etc/apparmor.d/abstractions/audio.dpkg-new: regular
+/etc/apparmor.d/abstractions/dbus-accessibility-strict.dpkg-new: regular
+/etc/apparmor.d/abstractions/ssl_keys.dpkg-new: regular
+/etc/apparmor.d/abstractions/mdns: regular
+/etc/apparmor.d/abstractions/ssl_keys: regular
+/etc/apparmor.d/abstractions/ubuntu-console-email: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers: regular
+/etc/apparmor.d/abstractions/dbus-session.dpkg-new: regular
+/etc/apparmor.d/abstractions/gnome: regular
+/etc/apparmor.d/abstractions/smbpass: regular
+/etc/apparmor.d/abstractions/enchant: regular
+/etc/apparmor.d/abstractions/consoles: regular
+/etc/apparmor.d/abstractions/ubuntu-konsole: regular
+/etc/apparmor.d/abstractions/dbus: regular
+/etc/apparmor.d/abstractions/bash.dpkg-new: regular
+/etc/apparmor.d/abstractions/wutmp: regular
+/etc/apparmor.d/abstractions/gnupg.dpkg-new: regular
+/etc/apparmor.d/abstractions/nvidia: regular
+/etc/apparmor.d/abstractions/ubuntu-media-players.dpkg-new: regular
+/etc/apparmor.d/abstractions/xad.dpkg-new: regular
+/etc/apparmor.d/abstractions/fonts: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d: directory
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/firefox: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/ubuntu-integration-xul.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/java: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/productivity: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/user-files.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/ubuntu-integration.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/multimedia: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/plugins-common.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/user-files: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/text-editors: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/productivity.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/plugins-common: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/java.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/multimedia.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/kde.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/mailto.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/kde: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/ubuntu-integration-xul: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/text-editors.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/ubuntu-integration: regular
+/etc/apparmor.d/abstractions/ubuntu-browsers.d/mailto: regular
+/etc/apparmor.d/abstractions/dbus-session-strict.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-email.dpkg-new: regular
+/etc/apparmor.d/abstractions/aspell.dpkg-new: regular
+/etc/apparmor.d/abstractions/consoles.dpkg-new: regular
+/etc/apparmor.d/abstractions/openssl.dpkg-new: regular
+/etc/apparmor.d/abstractions/xdg-desktop.dpkg-new: regular
+/etc/apparmor.d/abstractions/dbus-accessibility-strict: regular
+/etc/apparmor.d/abstractions/orbit2: regular
+/etc/apparmor.d/abstractions/ubuntu-console-browsers.dpkg-new: regular
+/etc/apparmor.d/abstractions/ssl_certs: regular
+/etc/apparmor.d/abstractions/dbus-session: regular
+/etc/apparmor.d/abstractions/wutmp.dpkg-new: regular
+/etc/apparmor.d/abstractions/ruby: regular
+/etc/apparmor.d/abstractions/user-mail: regular
+/etc/apparmor.d/abstractions/p11-kit.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-gnome-terminal: regular
+/etc/apparmor.d/abstractions/ubuntu-media-players: regular
+/etc/apparmor.d/abstractions/openssl: regular
+/etc/apparmor.d/abstractions/ubuntu-console-browsers: regular
+/etc/apparmor.d/abstractions/user-mail.dpkg-new: regular
+/etc/apparmor.d/abstractions/kde.dpkg-new: regular
+/etc/apparmor.d/abstractions/kde: regular
+/etc/apparmor.d/abstractions/ruby.dpkg-new: regular
+/etc/apparmor.d/abstractions/apparmor_api: directory
+/etc/apparmor.d/abstractions/apparmor_api/is_enabled: regular
+/etc/apparmor.d/abstractions/apparmor_api/examine.dpkg-new: regular
+/etc/apparmor.d/abstractions/apparmor_api/examine: regular
+/etc/apparmor.d/abstractions/apparmor_api/is_enabled.dpkg-new: regular
+/etc/apparmor.d/abstractions/apparmor_api/change_profile: regular
+/etc/apparmor.d/abstractions/apparmor_api/introspect: regular
+/etc/apparmor.d/abstractions/apparmor_api/change_profile.dpkg-new: regular
+/etc/apparmor.d/abstractions/apparmor_api/find_mountpoint.dpkg-new: regular
+/etc/apparmor.d/abstractions/apparmor_api/find_mountpoint: regular
+/etc/apparmor.d/abstractions/apparmor_api/introspect.dpkg-new: regular
+/etc/apparmor.d/abstractions/dbus-session-strict: regular
+/etc/apparmor.d/abstractions/ubuntu-feed-readers.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-xterm: regular
+/etc/apparmor.d/abstractions/ubuntu-feed-readers: regular
+/etc/apparmor.d/abstractions/base.dpkg-new: regular
+/etc/apparmor.d/abstractions/user-tmp.dpkg-new: regular
+/etc/apparmor.d/abstractions/orbit2.dpkg-new: regular
+/etc/apparmor.d/abstractions/X: regular
+/etc/apparmor.d/abstractions/python: regular
+/etc/apparmor.d/abstractions/user-manpages: regular
+/etc/apparmor.d/abstractions/ubuntu-unity7-base: regular
+/etc/apparmor.d/abstractions/apache2-common.dpkg-new: regular
+/etc/apparmor.d/abstractions/winbind.dpkg-new: regular
+/etc/apparmor.d/abstractions/apache2-common: regular
+/etc/apparmor.d/abstractions/ldapclient: regular
+/etc/apparmor.d/abstractions/ubuntu-unity7-messaging.dpkg-new: regular
+/etc/apparmor.d/abstractions/fonts.dpkg-new: regular
+/etc/apparmor.d/abstractions/user-write.dpkg-new: regular
+/etc/apparmor.d/abstractions/authentication: regular
+/etc/apparmor.d/abstractions/ubuntu-helpers: regular
+/etc/apparmor.d/abstractions/private-files-strict: regular
+/etc/apparmor.d/abstractions/private-files.dpkg-new: regular
+/etc/apparmor.d/abstractions/web-data: regular
+/etc/apparmor.d/abstractions/postfix-common: regular
+/etc/apparmor.d/abstractions/launchpad-integration.dpkg-new: regular
+/etc/apparmor.d/abstractions/evince: regular
+/etc/apparmor.d/abstractions/samba: regular
+/etc/apparmor.d/abstractions/ubuntu-bittorrent-clients.dpkg-new: regular
+/etc/apparmor.d/abstractions/ubuntu-unity7-launcher.dpkg-new: regular
+/etc/apparmor.d/abstractions/mir: regular
+/etc/apparmor.d/abstractions/ubuntu-unity7-launcher: regular
+/etc/apparmor.d/abstractions/private-files-strict.dpkg-new: regular
+/etc/apparmor.d/abstractions/xdg-desktop: regular
+/etc/apparmor.d/abstractions/ubuntu-helpers.dpkg-new: regular
+/etc/apparmor.d/abstractions/authentication.dpkg-new: regular
+/etc/apparmor.d/abstractions/dbus-accessibility: regular
+/etc/apparmor.d/abstractions/dovecot-common.dpkg-new: regular
+/etc/apparmor.d/abstractions/user-manpages.dpkg-new: regular
+/etc/apparmor.d/abstractions/dovecot-common: regular
+/etc/apparmor.d/abstractions/dbus-strict: regular
+/etc/apparmor.d/abstractions/ubuntu-xterm.dpkg-new: regular
+/etc/apparmor.d/abstractions/aspell: regular
+/etc/apparmor.d/abstractions/video.dpkg-new: regular
+/etc/apparmor.d/abstractions/gnome.dpkg-new: regular
+/etc/apparmor.d/abstractions/user-write: regular
+/etc/apparmor.d/abstractions/ubuntu-email: regular
+/etc/apparmor.d/abstractions/web-data.dpkg-new: regular
+/etc/apparmor.d/abstractions/gnupg: regular
+/etc/apparmor.d/abstractions/dbus.dpkg-new: regular
+/etc/apparmor.d/usr.sbin.cups-browsed: regular
+/etc/apparmor.d/usr.sbin.rsyslogd: regular
+/etc/apparmor.d/cache: directory
+/etc/apparmor.d/cache/usr.sbin.cups-browsed: regular
+/etc/apparmor.d/cache/.features: regular
+/etc/apparmor.d/cache/usr.sbin.tcpdump: regular
+/etc/apparmor.d/cache/sbin.dhclient: regular
+/etc/apparmor.d/cache/usr.sbin.cupsd: regular
+/etc/apparmor.d/cache/usr.bin.evince: regular
+/etc/apparmor.d/cache/usr.lib.telepathy: regular
+/etc/apparmor.d/usr.sbin.tcpdump: regular
+/etc/apparmor.d/local: directory
+/etc/apparmor.d/local/usr.sbin.cups-browsed: regular
+/etc/apparmor.d/local/usr.sbin.rsyslogd: regular
+/etc/apparmor.d/local/README: regular
+/etc/apparmor.d/local/usr.sbin.tcpdump: regular
+/etc/apparmor.d/local/README.dpkg-new: regular
+/etc/apparmor.d/local/sbin.dhclient: regular
+/etc/apparmor.d/local/usr.bin.firefox: regular
+/etc/apparmor.d/local/usr.sbin.cupsd: regular
+/etc/apparmor.d/local/usr.bin.evince: regular
+/etc/apparmor.d/local/usr.lib.telepathy: regular
+/etc/apparmor.d/sbin.dhclient: regular
+/etc/apparmor.d/force-complain: directory
+/etc/apparmor.d/usr.bin.firefox: regular
+/etc/apparmor.d/tunables: directory
+/etc/apparmor.d/tunables/global: regular
+/etc/apparmor.d/tunables/proc.dpkg-new: regular
+/etc/apparmor.d/tunables/home.dpkg-new: regular
+/etc/apparmor.d/tunables/home.d: directory
+/etc/apparmor.d/tunables/home.d/ubuntu: regular
+/etc/apparmor.d/tunables/alias: regular
+/etc/apparmor.d/tunables/securityfs: regular
+/etc/apparmor.d/tunables/dovecot.dpkg-new: regular
+/etc/apparmor.d/tunables/global.dpkg-new: regular
+/etc/apparmor.d/tunables/apparmorfs.dpkg-new: regular
+/etc/apparmor.d/tunables/xdg-user-dirs.dpkg-new: regular
+/etc/apparmor.d/tunables/xdg-user-dirs: regular
+/etc/apparmor.d/tunables/sys: regular
+/etc/apparmor.d/tunables/multiarch: regular
+/etc/apparmor.d/tunables/multiarch.d: directory
+/etc/apparmor.d/tunables/multiarch.dpkg-new: regular
+/etc/apparmor.d/tunables/kernelvars.dpkg-new: regular
+/etc/apparmor.d/tunables/home: regular
+/etc/apparmor.d/tunables/kernelvars: regular
+/etc/apparmor.d/tunables/apparmorfs: regular
+/etc/apparmor.d/tunables/proc: regular
+/etc/apparmor.d/tunables/alias.dpkg-new: regular
+/etc/apparmor.d/tunables/dovecot: regular
+/etc/apparmor.d/tunables/securityfs.dpkg-new: regular
+/etc/apparmor.d/tunables/sys.dpkg-new: regular
+/etc/apparmor.d/tunables/xdg-user-dirs.d: directory
+/etc/apparmor.d/tunables/xdg-user-dirs.d/site.local: regular
+/etc/apparmor.d/disable: directory
+/etc/apparmor.d/disable/usr.sbin.rsyslogd: symbolic link
+/etc/apparmor.d/disable/usr.bin.firefox: symbolic link
+/etc/apparmor.d/usr.sbin.cupsd: regular
+/etc/apparmor.d/usr.bin.evince: regular
+/etc/apparmor.d/usr.lib.telepathy: regular
+/etc/binfmt.d: directory
+/etc/mtools.conf: regular
+/etc/logcheck: directory
+/etc/logcheck/ignore.d.server: directory
+/etc/logcheck/ignore.d.server/rsyslog: regular
+/etc/logcheck/ignore.d.server/ntpdate: regular
+/etc/logcheck/ignore.d.server/libsasl2-modules: regular
+/etc/logcheck/ignore.d.paranoid: directory
+/etc/logcheck/ignore.d.paranoid/cracklib-runtime: regular
+/etc/wgetrc: regular
+/etc/vconsole.conf: regular
+/etc/tmpfiles.d: directory
+/etc/tpvmlp.conf: regular
+/etc/python2.7: directory
+/etc/python2.7/sitecustomize.py: regular
+/etc/ldap: directory
+/etc/ldap/ldap.conf: regular
+/etc/update-motd.d: directory
+/etc/update-motd.d/91-release-upgrade: regular
+/etc/update-motd.d/98-fsck-at-reboot: regular
+/etc/update-motd.d/98-reboot-required: regular
+/etc/update-motd.d/90-updates-available: regular
+/etc/update-motd.d/10-help-text: regular
+/etc/update-motd.d/00-header: regular
+/etc/cron.daily: directory
+/etc/cron.daily/apt: regular
+/etc/cron.daily/logrotate: regular
+/etc/cron.daily/man-db: regular
+/etc/cron.daily/mlocate: regular
+/etc/cron.daily/0anacron: regular
+/etc/cron.daily/cracklib-runtime: regular
+/etc/cron.daily/apport: regular
+/etc/cron.daily/spamassassin: regular
+/etc/cron.daily/update-notifier-common: regular
+/etc/cron.daily/passwd: regular
+/etc/cron.daily/.placeholder: regular
+/etc/cron.daily/bsdmainutils: regular
+/etc/cron.daily/dpkg: regular
+/etc/cron.daily/popularity-contest: regular
+/etc/cron.daily/upstart: regular
+/etc/iproute2: directory
+/etc/iproute2/rt_protos: regular
+/etc/iproute2/rt_tables: regular
+/etc/iproute2/rt_realms: regular
+/etc/iproute2/rt_dsfield: regular
+/etc/iproute2/ematch_map: regular
+/etc/iproute2/group: regular
+/etc/iproute2/rt_scopes: regular
+/etc/ld.so.cache: regular
+/etc/default: directory
+/etc/default/console-setup: regular
+/etc/default/im-config: regular
+/etc/default/devpts: regular
+/etc/default/acpi-support: regular
+/etc/default/ufw: regular
+/etc/default/networking: regular
+/etc/default/rsyslog: regular
+/etc/default/useradd: regular
+/etc/default/locale: regular
+/etc/default/brltty.dpkg-new: regular
+/etc/default/cron: regular
+/etc/default/speech-dispatcher: regular
+/etc/default/nss: regular
+/etc/default/alsa: regular
+/etc/default/halt: regular
+/etc/default/ntpdate: regular
+/etc/default/crda: regular
+/etc/default/dbus: regular
+/etc/default/grub: regular
+/etc/default/apport: regular
+/etc/default/kerneloops: regular
+/etc/default/irqbalance: regular
+/etc/default/spamassassin: regular
+/etc/default/keyboard: regular
+/etc/default/anacron: regular
+/etc/default/acpid: regular
+/etc/default/avahi-daemon: regular
+/etc/default/rsync: regular
+/etc/default/saned: regular
+/etc/default/bsdmainutils: regular
+/etc/default/brltty: regular
+/etc/default/rcS: regular
+/etc/default/intel-microcode: regular
+/etc/default/proftpd: regular
+/etc/default/dbus.dpkg-new: regular
+/etc/alternatives: directory
+/etc/alternatives/rvim: symbolic link
+/etc/alternatives/gnome-www-browser: symbolic link
+/etc/alternatives/fonts-japanese-gothic.ttf: symbolic link
+/etc/alternatives/nc.1.gz: symbolic link
+/etc/alternatives/rename: symbolic link
+/etc/alternatives/editor.1.gz: symbolic link
+/etc/alternatives/view: symbolic link
+/etc/alternatives/w: symbolic link
+/etc/alternatives/mozilla-flashplugin: symbolic link
+/etc/alternatives/tcptraceroute: symbolic link
+/etc/alternatives/ssh-askpass.1.gz: symbolic link
+/etc/alternatives/vtrgb: symbolic link
+/etc/alternatives/libtxc-dxtn-x86_64-linux-gnu: symbolic link
+/etc/alternatives/lzcmp.1.gz: symbolic link
+/etc/alternatives/rsh: symbolic link
+/etc/alternatives/netcat.1.gz: symbolic link
+/etc/alternatives/x86_64-linux-gnu_gl_conf: symbolic link
+/etc/alternatives/emacsclient: symbolic link
+/etc/alternatives/mt: symbolic link
+/etc/alternatives/vimdiff: symbolic link
+/etc/alternatives/awk: symbolic link
+/etc/alternatives/view.it.1.gz: symbolic link
+/etc/alternatives/lzless.1.gz: symbolic link
+/etc/alternatives/write.1.gz: symbolic link
+/etc/alternatives/emacs-document.svg: symbolic link
+/etc/alternatives/README: regular
+/etc/alternatives/vi.1.gz: symbolic link
+/etc/alternatives/rsh.1.gz: symbolic link
+/etc/alternatives/traceroute6: symbolic link
+/etc/alternatives/c89: symbolic link
+/etc/alternatives/text.plymouth: symbolic link
+/etc/alternatives/from: symbolic link
+/etc/alternatives/view.ja.1.gz: symbolic link
+/etc/alternatives/telnet: symbolic link
+/etc/alternatives/etags: symbolic link
+/etc/alternatives/x86_64-linux-gnu_egl_conf: symbolic link
+/etc/alternatives/updatedb: symbolic link
+/etc/alternatives/pico: symbolic link
+/etc/alternatives/cc: symbolic link
+/etc/alternatives/emacs-128x128.png: symbolic link
+/etc/alternatives/view.ru.1.gz: symbolic link
+/etc/alternatives/pico.1.gz: symbolic link
+/etc/alternatives/unlzma: symbolic link
+/etc/alternatives/lzgrep.1.gz: symbolic link
+/etc/alternatives/emacs-24x24.png: symbolic link
+/etc/alternatives/traceroute.1.gz: symbolic link
+/etc/alternatives/ex.ru.1.gz: symbolic link
+/etc/alternatives/traceroute: symbolic link
+/etc/alternatives/lzegrep.1.gz: symbolic link
+/etc/alternatives/my.cnf: symbolic link
+/etc/alternatives/lzless: symbolic link
+/etc/alternatives/ex: symbolic link
+/etc/alternatives/etags.1.gz: symbolic link
+/etc/alternatives/infobrowser.1.gz: symbolic link
+/etc/alternatives/lzma.1.gz: symbolic link
+/etc/alternatives/rview: symbolic link
+/etc/alternatives/lzegrep: symbolic link
+/etc/alternatives/unlzma.1.gz: symbolic link
+/etc/alternatives/lzcat.1.gz: symbolic link
+/etc/alternatives/lzfgrep.1.gz: symbolic link
+/etc/alternatives/ex.pl.1.gz: symbolic link
+/etc/alternatives/c99: symbolic link
+/etc/alternatives/lzdiff.1.gz: symbolic link
+/etc/alternatives/ghostscript-current: symbolic link
+/etc/alternatives/rcp: symbolic link
+/etc/alternatives/lzmore.1.gz: symbolic link
+/etc/alternatives/vim: symbolic link
+/etc/alternatives/newt-palette: symbolic link
+/etc/alternatives/traceroute6.8.gz: symbolic link
+/etc/alternatives/x-www-browser: symbolic link
+/etc/alternatives/vi.fr.1.gz: symbolic link
+/etc/alternatives/x-window-manager.1.gz: symbolic link
+/etc/alternatives/ex.ja.1.gz: symbolic link
+/etc/alternatives/write: symbolic link
+/etc/alternatives/ssh-askpass: symbolic link
+/etc/alternatives/netcat: symbolic link
+/etc/alternatives/rmt.8.gz: symbolic link
+/etc/alternatives/traceroute.sbin: symbolic link
+/etc/alternatives/ftp.1.gz: symbolic link
+/etc/alternatives/ctags.1.gz: symbolic link
+/etc/alternatives/telnet.1.gz: symbolic link
+/etc/alternatives/odt2txt: symbolic link
+/etc/alternatives/mt.1.gz: symbolic link
+/etc/alternatives/x-session-manager.1.gz: symbolic link
+/etc/alternatives/emacs.1.gz: symbolic link
+/etc/alternatives/vi.it.1.gz: symbolic link
+/etc/alternatives/ex.it.1.gz: symbolic link
+/etc/alternatives/pager.1.gz: symbolic link
+/etc/alternatives/traceproto: symbolic link
+/etc/alternatives/editor: symbolic link
+/etc/alternatives/cc.1.gz: symbolic link
+/etc/alternatives/emacs-16x16.png: symbolic link
+/etc/alternatives/view.1.gz: symbolic link
+/etc/alternatives/lft: symbolic link
+/etc/alternatives/default.plymouth: symbolic link
+/etc/alternatives/emacs: symbolic link
+/etc/alternatives/vi: symbolic link
+/etc/alternatives/ebrowse.1.gz: symbolic link
+/etc/alternatives/c89.1.gz: symbolic link
+/etc/alternatives/lzmore: symbolic link
+/etc/alternatives/x-terminal-emulator: symbolic link
+/etc/alternatives/awk.1.gz: symbolic link
+/etc/alternatives/view.pl.1.gz: symbolic link
+/etc/alternatives/locate.1.gz: symbolic link
+/etc/alternatives/emacs-32x32.png: symbolic link
+/etc/alternatives/gnome-text-editor: symbolic link
+/etc/alternatives/rename.1.gz: symbolic link
+/etc/alternatives/lzcat: symbolic link
+/etc/alternatives/rlogin: symbolic link
+/etc/alternatives/vi.pl.1.gz: symbolic link
+/etc/alternatives/lzgrep: symbolic link
+/etc/alternatives/infobrowser: symbolic link
+/etc/alternatives/ex.fr.1.gz: symbolic link
+/etc/alternatives/ctags: symbolic link
+/etc/alternatives/tcptraceroute.8.gz: symbolic link
+/etc/alternatives/x-session-manager: symbolic link
+/etc/alternatives/grep-changelog.1.gz: symbolic link
+/etc/alternatives/w.1.gz: symbolic link
+/etc/alternatives/nawk.1.gz: symbolic link
+/etc/alternatives/odt2txt.1.gz: symbolic link
+/etc/alternatives/pager: symbolic link
+/etc/alternatives/emacsclient.1.gz: symbolic link
+/etc/alternatives/nc: symbolic link
+/etc/alternatives/traceproto.1.gz: symbolic link
+/etc/alternatives/ftp: symbolic link
+/etc/alternatives/lzfgrep: symbolic link
+/etc/alternatives/emacs-48x48.png: symbolic link
+/etc/alternatives/ebrowse: symbolic link
+/etc/alternatives/emacs.svg: symbolic link
+/etc/alternatives/gstreamer-codec-install: symbolic link
+/etc/alternatives/rlogin.1.gz: symbolic link
+/etc/alternatives/rmt: symbolic link
+/etc/alternatives/c99.1.gz: symbolic link
+/etc/alternatives/default.plymouth.grub: symbolic link
+/etc/alternatives/rcp.1.gz: symbolic link
+/etc/alternatives/vi.ja.1.gz: symbolic link
+/etc/alternatives/grep-changelog: symbolic link
+/etc/alternatives/x-terminal-emulator.1.gz: symbolic link
+/etc/alternatives/nawk: symbolic link
+/etc/alternatives/lft.1.gz: symbolic link
+/etc/alternatives/x-cursor-theme: symbolic link
+/etc/alternatives/locate: symbolic link
+/etc/alternatives/vi.ru.1.gz: symbolic link
+/etc/alternatives/cpp: symbolic link
+/etc/alternatives/lzdiff: symbolic link
+/etc/alternatives/gnome-text-editor.1.gz: symbolic link
+/etc/alternatives/x86_64-linux-gnu_xorg_extra_modules: symbolic link
+/etc/alternatives/builtins.7.gz: symbolic link
+/etc/alternatives/ex.1.gz: symbolic link
+/etc/alternatives/x-window-manager: symbolic link
+/etc/alternatives/lzma: symbolic link
+/etc/alternatives/view.fr.1.gz: symbolic link
+/etc/alternatives/from.1.gz: symbolic link
+/etc/alternatives/lzcmp: symbolic link
+/etc/.pwd.lock: regular
+/etc/mtab: symbolic link
+/etc/cron.weekly: directory
+/etc/cron.weekly/man-db: regular
+/etc/cron.weekly/0anacron: regular
+/etc/cron.weekly/update-notifier-common: regular
+/etc/cron.weekly/.placeholder: regular
+/etc/cron.weekly/fstrim: regular
+/etc/cron.weekly/apt-xapian-index: regular
+/etc/brltty.conf.dpkg-new: regular
+/etc/network: directory
+/etc/network/run: symbolic link
+/etc/network/interfaces: regular
+/etc/network/if-post-down.d: directory
+/etc/network/if-post-down.d/wpasupplicant: symbolic link
+/etc/network/if-post-down.d/wireless-tools: regular
+/etc/network/if-post-down.d/avahi-daemon: symbolic link
+/etc/network/if-up.d: directory
+/etc/network/if-up.d/wpasupplicant: symbolic link
+/etc/network/if-up.d/avahi-autoipd: regular
+/etc/network/if-up.d/ntpdate: regular
+/etc/network/if-up.d/avahi-daemon: regular
+/etc/network/if-up.d/000resolvconf: regular
+/etc/network/if-up.d/upstart: regular
+/etc/network/interfaces.d: directory
+/etc/network/if-down.d: directory
+/etc/network/if-down.d/wpasupplicant: symbolic link
+/etc/network/if-down.d/avahi-autoipd: regular
+/etc/network/if-down.d/resolvconf: regular
+/etc/network/if-down.d/upstart: regular
+/etc/network/if-pre-up.d: directory
+/etc/network/if-pre-up.d/wpasupplicant: symbolic link
+/etc/network/if-pre-up.d/wireless-tools: regular
+/etc/mime.types: regular
+/etc/python3.4: directory
+/etc/python3.4/sitecustomize.py: regular
+/etc/python3.4/sitecustomize.py.dpkg-new: regular
